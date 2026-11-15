@@ -1,0 +1,11 @@
+* text=auto eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+# Preserve SRT bytes across checkout: manifest fingerprints use exact bytes.
+*.srt -text
+# Project glossary fingerprints also use exact bytes.
+projects/**/glossary/*.csv -text
+projects/**/references/** -text
+projects/**/history/** -text
