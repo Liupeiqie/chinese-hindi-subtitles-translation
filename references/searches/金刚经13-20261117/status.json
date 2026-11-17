@@ -1,0 +1,21 @@
+{
+  "note": "Search and document retrieval completed; summary is optional. Transport and author-field checks only; inspect document text and original_author before citing. Translated works are allowed references. AI summary is not source text.",
+  "completed": true,
+  "summary_stream_saved": false,
+  "author_fields_match": true,
+  "passage_count": 3,
+  "summary_error": null,
+  "author_filter": "索达吉堪布",
+  "documents": [
+    {
+      "author": "索达吉堪布",
+      "original_author": null,
+      "title": "课程 / 课程053 金刚经讲解 / 金刚功德经",
+      "corpus": "zhibei",
+      "file": "document-1.json",
+      "url": "https://test.zhibei.world/read/reading-unit-07b4889e4e0d",
+      "document_id": "cleaned_md/课程/课程053 金刚经讲解/金刚功德经 [07b4889e4e0d]"
+    }
+  ],
+  "checked_at": "2026-11-17T19:05:18.0825343+08:00"
+}

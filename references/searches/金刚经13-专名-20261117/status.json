@@ -1,0 +1,39 @@
+{
+  "author_fields_match": true,
+  "author_filter": "索达吉堪布",
+  "summary_stream_saved": false,
+  "passage_count": 4,
+  "summary_error": null,
+  "note": "Search and document retrieval completed; summary is optional. Transport and author-field checks only; inspect document text and original_author before citing. Translated works are allowed references. AI summary is not source text.",
+  "completed": true,
+  "checked_at": "2026-11-17T19:06:03.9851992+08:00",
+  "documents": [
+    {
+      "document_id": "cleaned_md/课程/课程053 金刚经讲解/第三十一品 知见不生 [38ec3ffbf0b2]",
+      "author": "索达吉堪布",
+      "corpus": "zhibei",
+      "file": "document-1.json",
+      "title": "课程 / 课程053 金刚经讲解 / 第三十一品 知见不生",
+      "original_author": null,
+      "url": "https://test.zhibei.world/read/reading-unit-38ec3ffbf0b2"
+    },
+    {
+      "document_id": "cleaned_md/课程/课程053 金刚经讲解/第十八品 一体同观 [9f6286a54223]",
+      "author": "索达吉堪布",
+      "corpus": "zhibei",
+      "file": "document-2.json",
+      "title": "课程 / 课程053 金刚经讲解 / 第十八品 一体同观",
+      "original_author": null,
+      "url": "https://test.zhibei.world/read/reading-unit-9f6286a54223"
+    },
+    {
+      "document_id": "cleaned_md/课程/课程053 金刚经讲解/第十七品 究竟无我 [9c56a6426541]",
+      "author": "索达吉堪布",
+      "corpus": "zhibei",
+      "file": "document-3.json",
+      "title": "课程 / 课程053 金刚经讲解 / 第十七品 究竟无我",
+      "original_author": null,
+      "url": "https://test.zhibei.world/read/reading-unit-9c56a6426541"
+    }
+  ]
+}

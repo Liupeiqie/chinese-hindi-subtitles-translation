@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-17T19:12:57+08:00",
+  "source_sha256": "74d2fe53d1953051587ebda08c2150bf95cb1143a15bdd605720bef2fc3c122c",
+  "glossary_sha256": "4529483ed4d6521b85e95587e17bf5089645f5c0c6e0e6f7a842a00d72ef43fc",
+  "candidate_sha256": "cea9ce5c3c7897165481d29451b6918b8b4afacef172cd5b8eb60f5ae5168047",
+  "context_sha256": "2eb8f7c9ff439f246a97dbf28519f10bb6cd792b7338a19e5cdf00dc6c288252",
+  "reviewer": "Codex（GPT-6）",
+  "reviewed_at": "2026-11-17T19:12:58+08:00",
+  "checks": {
+    "meaning": false,
+    "terminology": false,
+    "reference_consistency": false,
+    "hindi_language": false,
+    "numbers_and_names": false,
+    "readability": false,
+    "source_integrity": false
+  },
+  "issues": [
+    {
+      "cue": "1,3,5,61,89,98,378",
+      "description": "描述性书名 वज्रसूत्र के पुण्य का सूत्र 的后接格结构生硬，改用 वज्रसूत्र के पुण्य पर सूत्र",
+      "status": "open"
+    },
+    {
+      "cue": "21,52,53,83,90,126,129,160,205,219,247,267,273,367,389",
+      "description": "自查修订句法、指代、沙数数量、天河表达和问号；不改变中文与时间",
+      "status": "open"
+    }
+  ],
+  "notes": "已逐条阅读1–394中印对照。此为修订前自查记录，不是正式定稿审批；待修订与未决问题列于issues。"
+}

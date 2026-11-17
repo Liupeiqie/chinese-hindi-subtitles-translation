@@ -1,0 +1,17 @@
+{
+  "requested_at": "2026-11-17T19:05:15.0605250+08:00",
+  "body": {
+    "ranking": "hybrid",
+    "query": "金刚功德经 父子 比丘 唐吴氏 炯尼夏智",
+    "num_documents": 3,
+    "include_tantric": false,
+    "use_rerank": true,
+    "precise": false,
+    "num_results": 3,
+    "filters": {
+      "title": "金刚经",
+      "author": "索达吉堪布"
+    }
+  },
+  "endpoint": "https://napi.fashi.ai/v1/search/search"
+}

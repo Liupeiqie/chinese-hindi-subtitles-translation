@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "name": "金刚经13-原画",
+  "created_at": "2026-11-17T19:04:46+08:00",
+  "source_language": "zh",
+  "target_language": "hi",
+  "layout": "hi-then-zh",
+  "source_sha256": "74d2fe53d1953051587ebda08c2150bf95cb1143a15bdd605720bef2fc3c122c",
+  "glossary_sha256": "074d621854a7d9784c40e1fec89e281d9ec26f6e9acd8fb33e3b45cbfe564982",
+  "references": []
+}
