@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "checked_at": "2026-11-17T19:16:14+08:00",
+  "output": "待校对翻译初稿/金刚经13-原画",
+  "candidate_sha256": "b8bbadb738d0fd1b3c41ff91a964d3c95e0a0c57a683b0704468022404246ec7",
+  "source_cues": 394,
+  "candidate_cues": 394,
+  "draft_and_delivery_identical": true,
+  "report_candidate_matches": true,
+  "report_and_notes_copies_identical": true,
+  "raw_input_unchanged": true,
+  "preprocessed_source_unchanged": true,
+  "current_review_bound": true,
+  "current_readability_report_bound": true
+}

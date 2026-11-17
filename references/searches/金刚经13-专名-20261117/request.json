@@ -1,0 +1,17 @@
+{
+  "endpoint": "https://napi.fashi.ai/v1/search/search",
+  "body": {
+    "num_results": 4,
+    "include_tantric": false,
+    "use_rerank": true,
+    "query": "唐吴氏 炯尼夏智 澄清宝珠论 佛种姓经",
+    "ranking": "hybrid",
+    "precise": false,
+    "filters": {
+      "title": "金刚经",
+      "author": "索达吉堪布"
+    },
+    "num_documents": 3
+  },
+  "requested_at": "2026-11-17T19:05:59.2370410+08:00"
+}
