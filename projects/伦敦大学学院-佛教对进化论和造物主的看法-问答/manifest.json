@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "name": "伦敦大学学院-佛教对进化论和造物主的看法-问答",
+  "created_at": "2026-11-17T15:41:13+08:00",
+  "source_language": "zh",
+  "target_language": "hi",
+  "layout": "hi-then-zh",
+  "source_sha256": "158474a2382e1e5e3c9428f411c6335095fd85f16d8a8e68f4a5ba27ce591a72",
+  "glossary_sha256": "074d621854a7d9784c40e1fec89e281d9ec26f6e9acd8fb33e3b45cbfe564982",
+  "references": [
+    {
+      "name": "catalog.csv",
+      "path": "references/238c637db1a0b036d0f7cbff65811a810818b6e57bd9ba939c8802028511c8f8_catalog.csv",
+      "sha256": "238c637db1a0b036d0f7cbff65811a810818b6e57bd9ba939c8802028511c8f8"
+    },
+    {
+      "name": "REF-UCL-QA-001.md",
+      "path": "references/33d8b5884d0407f9c63361bf2eab4b4b0a27f7705187982290419dec0bf291e5_REF-UCL-QA-001.md",
+      "sha256": "33d8b5884d0407f9c63361bf2eab4b4b0a27f7705187982290419dec0bf291e5"
+    },
+    {
+      "name": "REF-GARBHA-001.md",
+      "path": "references/65d38e09cf58f60d6e6fb564365c58bd08975673eb7f83c6e3ffb44e5509558e_REF-GARBHA-001.md",
+      "sha256": "65d38e09cf58f60d6e6fb564365c58bd08975673eb7f83c6e3ffb44e5509558e"
+    },
+    {
+      "name": "REF-UCL-META-001.txt",
+      "path": "references/0adfd1c6d62fc87117f1ce347fb99b0ca3cb0153f460442fee2713de1d305a77_REF-UCL-META-001.txt",
+      "sha256": "0adfd1c6d62fc87117f1ce347fb99b0ca3cb0153f460442fee2713de1d305a77"
+    }
+  ]
+}

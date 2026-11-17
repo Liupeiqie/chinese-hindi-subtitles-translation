@@ -1,0 +1,17 @@
+{
+  "verified_at": "2026-11-17T15:53:21+08:00",
+  "status": "待校对初稿",
+  "source_cues": 281,
+  "candidate_cues": 281,
+  "external_source_unchanged": true,
+  "source_sha256": "158474a2382e1e5e3c9428f411c6335095fd85f16d8a8e68f4a5ba27ce591a72",
+  "draft_sha256": "84c27fc33a4c55d9519359b491a6e7f984a8acfab31221cb0f008ed9b53c6b48",
+  "delivery_sha256": "84c27fc33a4c55d9519359b491a6e7f984a8acfab31221cb0f008ed9b53c6b48",
+  "report_candidate_sha256": "84c27fc33a4c55d9519359b491a6e7f984a8acfab31221cb0f008ed9b53c6b48",
+  "all_three_candidate_hashes_match": true,
+  "report_copy_matches": true,
+  "notes_copy_matches": true,
+  "independent_compare_passed": true,
+  "final_directory_empty": true,
+  "delivery_path": "E:\\视频翻译\\印地语\\翻译仓库\\待校对翻译初稿\\伦敦大学学院-佛教对进化论和造物主的看法-问答"
+}

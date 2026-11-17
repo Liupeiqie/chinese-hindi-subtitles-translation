@@ -1,0 +1,97 @@
+{
+  "candidate_sha256": "84c27fc33a4c55d9519359b491a6e7f984a8acfab31221cb0f008ed9b53c6b48",
+  "reviewer": "Codex（AI）",
+  "reviewed_cues": 281,
+  "forbidden_punctuation_cues": [],
+  "missing_devanagari_cues": [],
+  "question_cues": [
+    "5",
+    "26",
+    "29",
+    "30",
+    "107",
+    "111",
+    "112",
+    "146",
+    "150",
+    "158",
+    "179",
+    "209",
+    "257"
+  ],
+  "question_locations_checked_by_ai": true,
+  "han_area_occurrences": 0,
+  "fan_shi_occurrences": 0,
+  "reading_speed_threshold_words_per_second": 4,
+  "reading_speed_threshold_note": "仅为本次筛查启发式；不是用户规范或行业合格线；需结合双语画面人工检查",
+  "reading_speed_flags": [
+    {
+      "cue": "3",
+      "seconds": 2.26,
+      "words": 10,
+      "words_per_second": 4.42
+    },
+    {
+      "cue": "35",
+      "seconds": 3.44,
+      "words": 17,
+      "words_per_second": 4.94
+    },
+    {
+      "cue": "96",
+      "seconds": 2.78,
+      "words": 12,
+      "words_per_second": 4.32
+    },
+    {
+      "cue": "108",
+      "seconds": 2.48,
+      "words": 10,
+      "words_per_second": 4.03
+    },
+    {
+      "cue": "134",
+      "seconds": 2.64,
+      "words": 11,
+      "words_per_second": 4.17
+    },
+    {
+      "cue": "140",
+      "seconds": 0.72,
+      "words": 4,
+      "words_per_second": 5.56
+    },
+    {
+      "cue": "156",
+      "seconds": 1.06,
+      "words": 5,
+      "words_per_second": 4.72
+    },
+    {
+      "cue": "182",
+      "seconds": 1.94,
+      "words": 8,
+      "words_per_second": 4.12
+    },
+    {
+      "cue": "199",
+      "seconds": 0.88,
+      "words": 4,
+      "words_per_second": 4.55
+    },
+    {
+      "cue": "208",
+      "seconds": 1.0,
+      "words": 5,
+      "words_per_second": 5.0
+    },
+    {
+      "cue": "265",
+      "seconds": 1.68,
+      "words": 7,
+      "words_per_second": 4.17
+    }
+  ],
+  "terminology_match_review": "已核对全文命中的术语；31、41、88为必要词形变化；77、83、154、267使用较长词条佛教徒，未漏译佛教；遣除选用同一候选निवारण，无首次/后续切换。",
+  "language_review_note": "已按proofread.md逐条AI自查；不等于独立人工审定；开放问题见review.json和translation-notes.md"
+}
