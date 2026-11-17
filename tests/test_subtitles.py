@@ -48,6 +48,7 @@ class WorkflowTests(unittest.TestCase):
             "Chinese": BILINGUAL.replace("你好。", "您好。"),
             "Chinese spacing": BILINGUAL.replace("你好。", "你好。 "),
             "Chinese wrapping": BILINGUAL.replace("你好。\n第二行中文。", "你好。第二行中文。"),
+            "Chinese newline replaced by space": BILINGUAL.replace("你好。\n第二行中文。", "你好。 第二行中文。"),
             "index": BILINGUAL.replace("1\n00:", "01\n00:", 1),
             "timing": BILINGUAL.replace("00:00:01,000", "00:00:01,001"),
             "missing translation": BILINGUAL.replace("धन्यवाद।\n", ""),

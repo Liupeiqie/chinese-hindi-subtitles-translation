@@ -9,3 +9,5 @@
 projects/**/glossary/*.csv -text
 projects/**/references/** -text
 projects/**/history/** -text
+prompts/source/** -text
+terminology/source/** -text

@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-17",
+  "operator": "Codex",
+  "action": "用户提供的现行规范与术语表初次导入",
+  "term_count": 808,
+  "source_columns": [
+    "中文",
+    "印地语(天城文)"
+  ],
+  "mapping": {
+    "中文": "source",
+    "印地语(天城文)": "target"
+  },
+  "source_and_target_values_unchanged": true,
+  "glossary_source": {
+    "path": "terminology/source/印地语术语表_20261111.csv",
+    "sha256": "abd01596dd98f03683bf2ce4b71f16263879e96b2b5e45b32f8f356b96aeb6bd"
+  },
+  "prompt_source": {
+    "path": "prompts/source/印地语翻译提示词_专业版_v5.txt",
+    "sha256": "0497937d8a04526eea59245fcdd93ad7ddf981f5a346ec579ae5c962c648c4ac"
+  },
+  "imported_master_sha256": "074d621854a7d9784c40e1fec89e281d9ec26f6e9acd8fb33e3b45cbfe564982",
+  "affected_projects": [],
+  "policy": "中文换行、空格和标点原样保留；术语表优先于提示词示例；尚无实际字幕供核验"
+}

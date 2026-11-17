@@ -12,6 +12,13 @@
 
 自动核验只能确认结构和原文未改，不能判断翻译质量。翻译和校对由人工或当前 AI 助手完成，脚本不会自动调用在线服务。
 
+## 已接入的用户规范（2026-11-17）
+
+- 翻译规范：[专业版 v5 原件](prompts/source/印地语翻译提示词_专业版_v5.txt)，执行入口为 [translate.md](prompts/translate.md)。按本次要求，中文换行也保留，不采用原件中的中文合行例外。
+- 术语主表：[glossary.csv](terminology/glossary.csv)，已导入用户 20261111 版的 808 条词条。原文件存于 terminology/source/，出处和指纹见 [导入记录](terminology/imports/2026-11-17.json)。中文和印地语字段原样保留，增加维护说明和来源字段。
+- 术语表高于提示词推荐示例；“汉地”首次全译、后续简称按整份字幕判断，具体写法见主表 note。
+- 翻译后必须实际运行 check，逐条比对翻译前后的序号、时间轴和中文，查看保存的核验报告后再交付。当前尚未提供具体字幕或课程讲记，不能据此声称已完成某份字幕核验。
+
 ## 快速开始（PowerShell）
 
 先按 [术语表说明](templates/README.md) 填写主表 `terminology/glossary.csv`，将讲记、论释等资料放到 `references/library/` 并登记 `references/catalog.csv`。再运行（替换示例输入路径）：
