@@ -1,16 +1,18 @@
 {
   "passed": true,
-  "checked_at": "2026-11-19T16:04:45+08:00",
+  "checked_at": "2026-11-19T17:06:12+08:00",
   "output": "待校对翻译初稿/金刚经13-原画",
   "candidate_sha256": "e83257bdd22760df9f586162cbdb44429e753319bdba25e55c468576f42ea98f",
   "source_cues": 394,
   "candidate_cues": 394,
+  "delivered_file": "金刚经13-原画_hi-zh_v3.srt",
+  "delivered_file_name_valid": true,
   "draft_and_delivery_identical": true,
   "report_candidate_matches": true,
   "report_and_notes_copies_identical": true,
-  "raw_input_unchanged": true,
   "preprocessed_source_unchanged": true,
   "current_review_bound": true,
+  "raw_input_unchanged": true,
   "current_readability_report_bound": true,
-  "note": "第3版（第2版基础上按用户补充确认改224条）"
+  "note": "第3版；交付文件按原文件名加语种和版本号命名"
 }

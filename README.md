@@ -61,7 +61,7 @@ python tools/subtitles.py compare 'E:\素材\中文.srt' 'E:\素材\双语.srt'
 
 ## 项目目录
 
-待校对初稿的统一交付位置是 `待校对翻译初稿/<项目名>/hi-zh.srt`，同时保存 `verification.json` 和 `translation-notes.md`。项目工作文件仍按以下结构维护；详细交付与修订同步规则见 [目录说明](待校对翻译初稿/README.md)。
+待校对初稿的统一交付位置是 `待校对翻译初稿/<项目名>/hi-zh.srt`（校对修订后改名为 `<原文件名>_hi-zh_v<版本号>.srt`，如 `金刚经13-原画_hi-zh_v3.srt`），同时保存 `verification.json` 和 `translation-notes.md`。项目工作文件仍按以下结构维护；详细交付与修订同步规则见 [目录说明](待校对翻译初稿/README.md)。
 
 ```text
 projects/<项目名>/
