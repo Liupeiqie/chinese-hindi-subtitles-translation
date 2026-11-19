@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "released_at": "2026-11-19T17:30:14+08:00",
+  "reviewer": "Claude（AI，逐条语言校对）；Codex（AI，版本及验收复核）",
+  "review_file": "reviews/review-final.json",
+  "review_sha256": "c04b0e18b7bc87d3561efcb058c98ce3637f2ca6cfecba3b481a8d66224fdfdd",
+  "final_sha256": "e83257bdd22760df9f586162cbdb44429e753319bdba25e55c468576f42ea98f",
+  "verification": {
+    "passed": true,
+    "source_cues": 394,
+    "candidate_cues": 394,
+    "errors": [],
+    "checked_at": "2026-11-19T17:30:14+08:00",
+    "source_sha256": "74d2fe53d1953051587ebda08c2150bf95cb1143a15bdd605720bef2fc3c122c",
+    "glossary_sha256": "8be83a945ba8a49357d19452b3d973f7cea6ee1c47b43e4e872dfa62cd2f4d32",
+    "candidate_sha256": "e83257bdd22760df9f586162cbdb44429e753319bdba25e55c468576f42ea98f",
+    "context_sha256": "060abeba52fab16f3a112e637cd3c420e20c1a05d946a8b5abaa5b49a42ab930"
+  }
+}
