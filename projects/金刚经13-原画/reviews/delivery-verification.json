@@ -1,8 +1,8 @@
 {
   "passed": true,
-  "checked_at": "2026-11-19T15:40:16+08:00",
+  "checked_at": "2026-11-19T16:04:45+08:00",
   "output": "待校对翻译初稿/金刚经13-原画",
-  "candidate_sha256": "662aadc10c7e9ce554ecb2a45e0f78f523f3b6f32c4259f6edc4f3843b4db7a0",
+  "candidate_sha256": "e83257bdd22760df9f586162cbdb44429e753319bdba25e55c468576f42ea98f",
   "source_cues": 394,
   "candidate_cues": 394,
   "draft_and_delivery_identical": true,
@@ -12,5 +12,5 @@
   "preprocessed_source_unchanged": true,
   "current_review_bound": true,
   "current_readability_report_bound": true,
-  "note": "第2版（按校对报告修订）；readability.json 已按原方法对第2版重新统计，87条新增超阈值提示"
+  "note": "第3版（第2版基础上按用户补充确认改224条）"
 }

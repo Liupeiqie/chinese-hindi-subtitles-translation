@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-19T08:03:54+00:00",
+  "source_sha256": "74d2fe53d1953051587ebda08c2150bf95cb1143a15bdd605720bef2fc3c122c",
+  "glossary_sha256": "8be83a945ba8a49357d19452b3d973f7cea6ee1c47b43e4e872dfa62cd2f4d32",
+  "candidate_sha256": "e83257bdd22760df9f586162cbdb44429e753319bdba25e55c468576f42ea98f",
+  "context_sha256": "060abeba52fab16f3a112e637cd3c420e20c1a05d946a8b5abaa5b49a42ab930",
+  "reviewer": "Claude（AI）；校对意见由用户逐条确认",
+  "reviewed_at": "2026-11-19T16:03:54+08:00",
+  "checks": {
+    "meaning": false,
+    "terminology": false,
+    "reference_consistency": false,
+    "hindi_language": true,
+    "numbers_and_names": false,
+    "readability": false,
+    "source_integrity": true
+  },
+  "issues": [
+    {
+      "cue": "125",
+      "description": "A1：删去悬空的में，改为गंगा नदियाँ हों，与126衔接",
+      "status": "resolved"
+    },
+    {
+      "cue": "132",
+      "description": "A4：गंगा प्रवाहों改为गंगा नदियों，与全文一致",
+      "status": "resolved"
+    },
+    {
+      "cue": "201",
+      "description": "A2：外道沐浴除罪障改为目的句कर्मावरण शुद्ध करने के लिए…，不再陈述为事实（讲记：裸形外道认为）",
+      "status": "resolved"
+    },
+    {
+      "cue": "385",
+      "description": "A3：删增译केवल，कथा改किंवदंती对应原文传说，避免与公案译名冲突",
+      "status": "resolved"
+    },
+    {
+      "cue": "64-88",
+      "description": "B1：唐吴氏按旧式已婚女子称谓作女性，65、67、68、71、75改阴性；身份出处仍未核实",
+      "status": "resolved"
+    },
+    {
+      "cue": "198",
+      "description": "B2：神秘学家为声明学家之误（用户据REF-JG13-003 #u19核实），译शब्दविद्या के विद्वान；中文字幕不改",
+      "status": "resolved"
+    },
+    {
+      "cue": "210,217",
+      "description": "B3：辞藻学改译अभिधानशास्त्र，已入主表",
+      "status": "resolved"
+    },
+    {
+      "cue": "215",
+      "description": "B4：用户决定以讲记为准，湿婆仙人改译जह्नु ऋषि；中文字幕仍为湿婆，匝贺→जह्नु对应待资料核实（proposed）",
+      "status": "resolved"
+    },
+    {
+      "cue": "221",
+      "description": "B5：《澄清宝珠论》改为केतक मणि शास्त्र，已入主表",
+      "status": "resolved"
+    },
+    {
+      "cue": "249,250",
+      "description": "B7：भिक्षुक改याचक，避免与भिक्षु（比丘）混淆",
+      "status": "resolved"
+    },
+    {
+      "cue": "263,277",
+      "description": "B9：布施佛法译धर्म का दान（法布施义），避免读成向佛教捐献",
+      "status": "resolved"
+    },
+    {
+      "cue": "317,340",
+      "description": "B10：佛、佛法的功德指德能，पुण्य改गुण（主表功德（长处、价值））",
+      "status": "resolved"
+    },
+    {
+      "cue": "202",
+      "description": "B11：用户要求改全名，धर्मराज改धर्मराज चिन्तामणि जिग्मे फुन्त्सोक（主表法王如意宝）",
+      "status": "resolved"
+    },
+    {
+      "cue": "87",
+      "description": "C3：用户要求换算为印度读者熟悉的单位，半寸译आधे इंच से कुछ अधिक（清代1寸约3.2厘米）",
+      "status": "resolved"
+    },
+    {
+      "cue": "225",
+      "description": "C4：一切智智सर्वज्ञज्ञान已入主表",
+      "status": "resolved"
+    },
+    {
+      "cue": "224",
+      "description": "B6：用户确认以《澄清宝珠论》（麦彭仁波切《入行论·智慧品》释）为依据，“所有的般若波罗蜜多汇入智慧”按“所有的波罗蜜多（前五度）汇入智慧”理解，सभी प्रज्ञापारमिताएँ改为सभी पारमिताएँ；中文字幕未改；该出处为校对者所知，未在项目资料中逐字核对",
+      "status": "resolved"
+    },
+    {
+      "cue": "231-238",
+      "description": "C2：用户决定炯尼夏智维持现有音译च्योंगनी श्याची，不改",
+      "status": "resolved"
+    },
+    {
+      "cue": "1,3,5,61,89,98,378",
+      "description": "C1：金刚功德经描述性译名，用户未给意见，维持现译待定名",
+      "status": "open"
+    },
+    {
+      "cue": "343-350",
+      "description": "C5：佛种姓经（讲记作佛陀种性经）经名待查，维持现译",
+      "status": "open"
+    },
+    {
+      "cue": "386-390",
+      "description": "广彻音译待核实；即生/来世语义本轮认为无矛盾",
+      "status": "open"
+    },
+    {
+      "cue": "91",
+      "description": "九华山音译待目标语规范审定",
+      "status": "open"
+    },
+    {
+      "cue": "254",
+      "description": "B8：微妙按语境译为微小，待听音",
+      "status": "open"
+    },
+    {
+      "cue": "63,70,74,75,87,126,178,204,205,324,336",
+      "description": "C6：阅读速度提示（>6词/秒），需实际播放核对，不改时间码；87条因按用户要求换算单位后变长（6.11词/秒），如需缩短可改为लगभग आधा इंच但精度下降",
+      "status": "open"
+    }
+  ],
+  "notes": "按用户确认的校对报告修订23行印地语（第2版22行，第3版加改224）（报告见reviews/proofreading-report-v1.md）。已逐条重读全部394条并对照项目术语快照及REF-JG13-001、002；REF-JG13-003（讲记网页）因本环境网络限制未能读取，只记录用户的查阅结论。check与修订前后逐行比对确认仅改印地语行。未播放音视频；不是人工审核或定稿授权。"
+}
