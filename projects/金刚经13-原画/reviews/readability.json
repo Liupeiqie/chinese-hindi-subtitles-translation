@@ -1,8 +1,8 @@
 {
-  "candidate_sha256": "b8bbadb738d0fd1b3c41ff91a964d3c95e0a0c57a683b0704468022404246ec7",
+  "candidate_sha256": "662aadc10c7e9ce554ecb2a45e0f78f523f3b6f32c4259f6edc4f3843b4db7a0",
   "method": "按空格分词；大于6词/秒仅作为本次人工复核提示，不是语言质量合格标准；未试听视频",
   "cues_checked": 394,
-  "flagged_count": 10,
+  "flagged_count": 11,
   "cues": [
     {
       "cue": "1",
@@ -609,9 +609,9 @@
     {
       "cue": "87",
       "duration_seconds": 1.8,
-      "hindi_words": 8,
-      "words_per_second": 4.44,
-      "flag": false
+      "hindi_words": 11,
+      "words_per_second": 6.11,
+      "flag": true
     },
     {
       "cue": "88",
@@ -1386,8 +1386,8 @@
     {
       "cue": "198",
       "duration_seconds": 1.6,
-      "hindi_words": 5,
-      "words_per_second": 3.12,
+      "hindi_words": 7,
+      "words_per_second": 4.38,
       "flag": false
     },
     {
@@ -1407,15 +1407,15 @@
     {
       "cue": "201",
       "duration_seconds": 2.64,
-      "hindi_words": 8,
-      "words_per_second": 3.03,
+      "hindi_words": 10,
+      "words_per_second": 3.79,
       "flag": false
     },
     {
       "cue": "202",
       "duration_seconds": 1.96,
-      "hindi_words": 6,
-      "words_per_second": 3.06,
+      "hindi_words": 9,
+      "words_per_second": 4.59,
       "flag": false
     },
     {
@@ -1841,8 +1841,8 @@
     {
       "cue": "263",
       "duration_seconds": 2.12,
-      "hindi_words": 8,
-      "words_per_second": 3.77,
+      "hindi_words": 7,
+      "words_per_second": 3.3,
       "flag": false
     },
     {
@@ -1939,8 +1939,8 @@
     {
       "cue": "277",
       "duration_seconds": 2.16,
-      "hindi_words": 7,
-      "words_per_second": 3.24,
+      "hindi_words": 6,
+      "words_per_second": 2.78,
       "flag": false
     },
     {
@@ -2695,8 +2695,8 @@
     {
       "cue": "385",
       "duration_seconds": 1.52,
-      "hindi_words": 6,
-      "words_per_second": 3.95,
+      "hindi_words": 5,
+      "words_per_second": 3.29,
       "flag": false
     },
     {
