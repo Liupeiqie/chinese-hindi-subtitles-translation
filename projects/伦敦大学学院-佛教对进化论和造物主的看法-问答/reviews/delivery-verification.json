@@ -1,16 +1,16 @@
 {
   "passed": true,
-  "checked_at": "2026-11-20T17:06:26+08:00",
+  "checked_at": "2026-11-20T17:11:58+08:00",
   "output": "待校对翻译初稿/伦敦大学学院-佛教对进化论和造物主的看法-问答",
-  "candidate_sha256": "1eac6a87cfa54fb7de09623d26a512e462e8b13dbb670353ae9083a98e28f5af",
+  "candidate_sha256": "0ff8e18f3d8e62af32921ae95e9bef25130e74e42a479f008f255f06113ae163",
   "source_cues": 281,
   "candidate_cues": 281,
-  "delivered_file": "伦敦大学学院演讲_字幕对齐_hi-zh_v2.srt",
+  "delivered_file": "伦敦大学学院演讲_字幕对齐_hi-zh_v3.srt",
   "delivered_file_name_valid": true,
   "draft_and_delivery_identical": true,
   "report_candidate_matches": true,
   "report_and_notes_copies_identical": true,
   "preprocessed_source_unchanged": true,
   "current_review_bound": true,
-  "note": "第2版；按校对报告修订15行；交付文件按原文件名加语种和版本号命名"
+  "note": "第3版；C10宾语改为कमियाँ"
 }

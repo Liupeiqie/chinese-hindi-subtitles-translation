@@ -1,0 +1,177 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-20T09:11:58+00:00",
+  "source_sha256": "158474a2382e1e5e3c9428f411c6335095fd85f16d8a8e68f4a5ba27ce591a72",
+  "glossary_sha256": "733de4767f74e7d0838b93efd80f3c76890c64a036bbd2d77f26a914662302fb",
+  "candidate_sha256": "0ff8e18f3d8e62af32921ae95e9bef25130e74e42a479f008f255f06113ae163",
+  "context_sha256": "0b965a1d4c69a68f52963138ca3ebdb693f4eb52e15ba10e0112a15ccf075ec2",
+  "reviewer": "Claude（AI）；校对意见由用户逐条确认",
+  "reviewed_at": "2026-11-20T17:11:58+08:00",
+  "checks": {
+    "meaning": false,
+    "terminology": false,
+    "reference_consistency": false,
+    "hindi_language": true,
+    "numbers_and_names": false,
+    "readability": false,
+    "source_integrity": true
+  },
+  "issues": [
+    {
+      "cue": "14",
+      "description": "A1：补“या”，三种并列场景",
+      "status": "resolved"
+    },
+    {
+      "cue": "18",
+      "description": "A2：补“都”，हर अवस्था में",
+      "status": "resolved"
+    },
+    {
+      "cue": "22",
+      "description": "B1：佛学指佛法教理，बौद्ध अध्ययन改बौद्ध दर्शन；新增主表“佛学（指佛法教理）”",
+      "status": "resolved"
+    },
+    {
+      "cue": "40",
+      "description": "A3：“是指”定义句，संबंधित हैं改का अर्थ है",
+      "status": "resolved"
+    },
+    {
+      "cue": "41",
+      "description": "A4+C2：删जैसे；外因按43条同构及整理稿改为外缘बाहरी प्रत्यय（用户同意）；中文字幕仍为“外因”",
+      "status": "resolved"
+    },
+    {
+      "cue": "42",
+      "description": "A5：“就是心识”判断句，改चेतना ही हैं",
+      "status": "resolved"
+    },
+    {
+      "cue": "84",
+      "description": "A6：某个经典为单数，改किसी एक सूत्र में",
+      "status": "resolved"
+    },
+    {
+      "cue": "85",
+      "description": "A7：“我刚才讲的”为86条主语，改अभी मैंने जिसकी बात की",
+      "status": "resolved"
+    },
+    {
+      "cue": "87",
+      "description": "B3：最究竟改परम；新增主表“究竟（了义、终极）→परम”",
+      "status": "resolved"
+    },
+    {
+      "cue": "94",
+      "description": "B4：普通“选择”改चुनाव，避免与97条“分别念→विकल्प”同形混淆",
+      "status": "resolved"
+    },
+    {
+      "cue": "98",
+      "description": "B5：日常义“世俗的世界”改सांसारिक जगत；主表世俗→संवृति仍用于二谛义，登记为语境用法",
+      "status": "resolved"
+    },
+    {
+      "cue": "183",
+      "description": "A8：补“早在”，加ही",
+      "status": "resolved"
+    },
+    {
+      "cue": "236",
+      "description": "A9：认知回指现量，ज्ञान改प्रत्यक्ष ज्ञान",
+      "status": "resolved"
+    },
+    {
+      "cue": "270,272",
+      "description": "C10：用户同意按上下文补宾语；第3版按用户要求由त्रुटियाँ（错误）改为कमियाँ（缺点）；中文字幕仍为“找出一些”",
+      "status": "resolved"
+    },
+    {
+      "cue": "269",
+      "description": "A10：用户认为原译没问题，维持“दृष्टिकोण से”",
+      "status": "resolved"
+    },
+    {
+      "cue": "34,35",
+      "description": "B2：讨论后维持सभी धर्म，依上下文（34佛语、36—38解释）理解为诸法",
+      "status": "resolved"
+    },
+    {
+      "cue": "102,104,106,125,128",
+      "description": "B6：用户意见可不改，维持भलाई/बुराई",
+      "status": "resolved"
+    },
+    {
+      "cue": "116",
+      "description": "B7：用户决定不改",
+      "status": "resolved"
+    },
+    {
+      "cue": "155,156,171",
+      "description": "B9：用户决定维持स्व",
+      "status": "resolved"
+    },
+    {
+      "cue": "172",
+      "description": "B10：用户同意维持现译",
+      "status": "resolved"
+    },
+    {
+      "cue": "237",
+      "description": "B11：用户决定不改",
+      "status": "resolved"
+    },
+    {
+      "cue": "120",
+      "description": "B8：字幕“商人会杀五百人”与经中盗贼欲杀五百商人不同（校对者所知），待听音；未改",
+      "status": "open"
+    },
+    {
+      "cue": "23",
+      "description": "C1：主因加缘起疑为主因加缘，待听音",
+      "status": "open"
+    },
+    {
+      "cue": "46-55",
+      "description": "C3：植物指代，待听音后关闭",
+      "status": "open"
+    },
+    {
+      "cue": "64-72",
+      "description": "C4：缺谓语及विचार-प्रणाली，建议关闭，用户未裁定",
+      "status": "open"
+    },
+    {
+      "cue": "82",
+      "description": "C5：《涅槃经》别名待入术语表",
+      "status": "open"
+    },
+    {
+      "cue": "84",
+      "description": "C6：三净肉定译待定",
+      "status": "open"
+    },
+    {
+      "cue": "91",
+      "description": "C7：未完句，建议关闭，用户未裁定",
+      "status": "open"
+    },
+    {
+      "cue": "155-175",
+      "description": "C8：载体、行为（क्रियाओं/कर्म）待听音",
+      "status": "open"
+    },
+    {
+      "cue": "181,182",
+      "description": "C9：阿难入胎经译名待定",
+      "status": "open"
+    },
+    {
+      "cue": "3,18,35,96,108,134,140,156,182,183,199,208,265",
+      "description": "C11：阅读速度提示（本项目按4词/秒提示），需播放核对；18（5.0）、183（4.32）因本轮补译变紧",
+      "status": "open"
+    }
+  ],
+  "notes": "按用户确认的第二轮校对报告修订15行印地语（第2版），第3版按用户要求将270、272补出的宾语改为कमियाँ（报告见reviews/proofreading-report-v1.md，替代第一轮旧报告）。已逐条重读全部281条并对照项目术语快照及REF-UCL-QA-001、REF-GARBHA-001。check与修订前后逐行比对确认仅改印地语行。未播放音视频；不是人工审核或定稿授权。"
+}
