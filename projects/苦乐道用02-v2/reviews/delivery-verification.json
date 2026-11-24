@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-24T16:47:41+08:00",
+  "checked_at": "2026-11-24T16:51:47+08:00",
   "passed": true,
   "source_cues": 1154,
   "candidate_cues": 1154,
@@ -14,12 +14,13 @@
     }
   ],
   "all_other_source_bytes_identical": true,
-  "candidate_sha256": "7ce33af3c062e5e36b6acb35d1982d527b3b3dc5f58006c35c0ff1a476032bec",
+  "candidate_sha256": "617edfe7bbcbbf4b2bdf15da7be72f2a7aa514bffdf791520e7ce6ef23032250",
   "delivery_directory": "待校对翻译初稿/苦乐道用02-v2",
   "delivered_sha256": {
-    "hi-zh.srt": "7ce33af3c062e5e36b6acb35d1982d527b3b3dc5f58006c35c0ff1a476032bec",
-    "verification.json": "b232733d374f697f98b3440e30295a09eb393fd80de9b9ce26351d6fe8922dc7",
-    "translation-notes.md": "a18d8fee3b518b87ae9f0e596c842fe36d95a8f5a4b9692ce9bb98cb920b888b"
+    "translation-notes.md": "cfc3052de8df3bac64bbce09c4238f55d2c5311968f94a01070138c082394138",
+    "verification.json": "320880dc3954ae46c5f489ed9c0320ef9b0b5685681edf1bf3a3f17da9ba4d2a",
+    "苦乐道用_第02课_hi-zh_v2.srt": "617edfe7bbcbbf4b2bdf15da7be72f2a7aa514bffdf791520e7ce6ef23032250"
   },
-  "project_and_delivery_identical": true
+  "project_and_delivery_identical": true,
+  "merged_chinese_cues": 51
 }
