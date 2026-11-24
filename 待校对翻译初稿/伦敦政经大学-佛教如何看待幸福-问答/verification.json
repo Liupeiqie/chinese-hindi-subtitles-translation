@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "source_cues": 252,
+  "candidate_cues": 252,
+  "errors": [],
+  "checked_at": "2026-11-24T21:41:09+08:00",
+  "source_sha256": "a74a4e16f06a66480e7d764aaadfa3f0542b6b0a601fa915a331f0c0e9cdc46b",
+  "glossary_sha256": "b9f9befb836cf1cd990b3982e0865752774a92594ebedd5d69c8be602f94e868",
+  "candidate_sha256": "3e7d04adec41198589f1c6dc7c20f72a8ebc7795fa7b83270f4b8649aa86cd78",
+  "context_sha256": "70901f5d93a2dd27e9f93e19ce82c95d88aa40c4e1e0d5768e58db958b04b282"
+}

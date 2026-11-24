@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-24T21:41:09+08:00",
+  "source_sha256": "a74a4e16f06a66480e7d764aaadfa3f0542b6b0a601fa915a331f0c0e9cdc46b",
+  "glossary_sha256": "b9f9befb836cf1cd990b3982e0865752774a92594ebedd5d69c8be602f94e868",
+  "candidate_sha256": "3e7d04adec41198589f1c6dc7c20f72a8ebc7795fa7b83270f4b8649aa86cd78",
+  "context_sha256": "70901f5d93a2dd27e9f93e19ce82c95d88aa40c4e1e0d5768e58db958b04b282",
+  "reviewer": "",
+  "reviewed_at": "",
+  "checks": {
+    "meaning": false,
+    "terminology": false,
+    "reference_consistency": false,
+    "hindi_language": false,
+    "numbers_and_names": false,
+    "readability": false,
+    "source_integrity": false
+  },
+  "issues": [
+    {
+      "cue": "86—90",
+      "description": "提问者在「他会觉得这并不是太」处改口。译文依据后文表达初学者的不理解，第 90 条保留为陈述。请随原声确认改口处的语气。",
+      "status": "open"
+    },
+    {
+      "cue": "216",
+      "description": "「有一部分而已」暂按湖的一部分通海处理。整理讲记只说明湖通海，未明确此处量词的所指，请回听确认。",
+      "status": "open"
+    }
+  ],
+  "notes": "Codex 已逐条自查待校对初稿。issues 为尚待回听或经名审定的项目；正式校对由后续校对者填写。"
+}
