@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-11-24T16:47:41+08:00",
+  "passed": true,
+  "source_cues": 1154,
+  "candidate_cues": 1154,
+  "as_received_sha256": "31d9fcf3c2d882237fa32f423d4d25c9574f880a017706f1bd0317f1ba33f0ba",
+  "source_sha256": "c14e6fc5011b3bce7523eefb88ab7358ac14eeea399138a18d7a262e9df2ccf6",
+  "authorized_chinese_changes": [
+    {
+      "cue": "2",
+      "chinese_line": 1,
+      "before": "赞如自莲闻名不退转",
+      "after": "赞如白莲闻名不退转"
+    }
+  ],
+  "all_other_source_bytes_identical": true,
+  "candidate_sha256": "7ce33af3c062e5e36b6acb35d1982d527b3b3dc5f58006c35c0ff1a476032bec",
+  "delivery_directory": "待校对翻译初稿/苦乐道用02-v2",
+  "delivered_sha256": {
+    "hi-zh.srt": "7ce33af3c062e5e36b6acb35d1982d527b3b3dc5f58006c35c0ff1a476032bec",
+    "verification.json": "b232733d374f697f98b3440e30295a09eb393fd80de9b9ce26351d6fe8922dc7",
+    "translation-notes.md": "a18d8fee3b518b87ae9f0e596c842fe36d95a8f5a4b9692ce9bb98cb920b888b"
+  },
+  "project_and_delivery_identical": true
+}
