@@ -91,7 +91,7 @@ def validate_glossary(path):
         seen.add(source)
 
 
-def compare(source, candidate):
+def compare(source, candidate, *, single_line_chinese=False):
     original, bilingual = parse_srt(source), parse_srt(candidate)
     errors = []
     if len(original) != len(bilingual):
@@ -102,7 +102,12 @@ def compare(source, candidate):
             errors.append(f"{label}：序号被修改")
         if zh.timing != hi.timing:
             errors.append(f"{label}：时间码被修改")
-        if len(hi.lines) <= len(zh.lines):
+        if single_line_chinese:
+            if len(hi.lines) != 2 or hi.lines[1] != " ".join(zh.lines):
+                errors.append(f"{label}：需要一行译文及用空格连接的完整中文")
+            elif not hi.lines[0].strip() or TODO in hi.lines[0]:
+                errors.append(f"{label}：缺少译文")
+        elif len(hi.lines) <= len(zh.lines):
             errors.append(f"{label}：缺少译文或中文行")
         elif hi.lines[-len(zh.lines):] != zh.lines:
             errors.append(f"{label}：中文原文或其换行被修改")
@@ -132,7 +137,7 @@ def check_project(project):
         path = (project / reference["path"]).resolve()
         if not path.is_relative_to(project / "references") or digest(path) != reference["sha256"]:
             raise ValueError(f"参考资料快照被修改：{reference['path']}")
-    result = compare(source, candidate)
+    result = compare(source, candidate, single_line_chinese=manifest.get("chinese_layout") == "single-line")
     result.update(checked_at=now(), source_sha256=digest(source), glossary_sha256=digest(glossary), candidate_sha256=digest(candidate))
     result["context_sha256"] = hashlib.sha256(json.dumps(references, ensure_ascii=False, sort_keys=True).encode("utf-8")).hexdigest()
     return result
