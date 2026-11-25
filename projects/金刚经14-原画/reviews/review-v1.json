@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-25T14:06:28+00:00",
+  "source_sha256": "edf59b531bf65ac89a25103ee34918f6bbff81713c201b2b13bbfea8b508289b",
+  "glossary_sha256": "b9f9befb836cf1cd990b3982e0865752774a92594ebedd5d69c8be602f94e868",
+  "candidate_sha256": "fd7e48d90c0d4d5fcaf8d3a85dee92e0e12900277f8d9737f9020968c8b3fb74",
+  "context_sha256": "248b58c4a41796dc9fba4db2f22f41f947fab276e17aaf685e8f95a9f7f5e102",
+  "reviewer": "Claude（AI）",
+  "reviewed_at": "2026-11-25T22:10:00+08:00",
+  "checks": {
+    "meaning": false,
+    "terminology": false,
+    "reference_consistency": false,
+    "hindi_language": true,
+    "numbers_and_names": false,
+    "readability": false,
+    "source_integrity": true
+  },
+  "issues": [
+    {
+      "cue": "266",
+      "description": "A1 增译：原文只说“在《窍诀宝藏海》当中也说过”，译文加了 अपने ग्रंथ（他自己的著作），建议删去。待用户确认。",
+      "status": "open"
+    },
+    {
+      "cue": "311",
+      "description": "A2 用词不一致：“邪魔外道”的外道译 विरोधी मत का साधक，318“诸魔外道”译 अन्य मतों के अनुयायी，建议统一为 अन्य मत का अनुयायी。待用户确认。",
+      "status": "open"
+    },
+    {
+      "cue": "217",
+      "description": "B1：术语表“五无间罪→पाँच अनन्तर्य पाप”疑为 आनन्तर्य 的拼写（据校对者所知，未在项目资料中核对）；改字幕须同时修订主表，待用户确认。",
+      "status": "open"
+    },
+    {
+      "cue": "346",
+      "description": "B2：“世尊修法”指麦彭仁波切所造修法仪轨，现译 अपनी साधना 易读成个人修行，可改 साधना-विधि。待用户确认。",
+      "status": "open"
+    },
+    {
+      "cue": "364、367",
+      "description": "B3：义净现译 यीचिंग；据校对者所知印度读者熟悉 इत्सिंग。术语表无此条，待用户确认。",
+      "status": "open"
+    },
+    {
+      "cue": "192、194",
+      "description": "C1：偈文“末法五百世”译 पाँच सौ पीढ़ियों（五百代人），讲者 194 解释为“五百年”；建议 192 改 पाँच सौ वर्षों，经文原典未核。",
+      "status": "open"
+    },
+    {
+      "cue": "408",
+      "description": "C2：“法身波罗蜜多的本体”为讲者口述，讲记未逐字收录，现译暂按关联结构处理。",
+      "status": "open"
+    },
+    {
+      "cue": "12、25、185、190—191、207、266、360、364、403、433",
+      "description": "C3：本课 14 条书名、人名、术语候选仍为 proposed，入主表须用户逐条确认。",
+      "status": "open"
+    },
+    {
+      "cue": "5、68、85、87、138、174、228、318、336、356、357、366、368、369、429",
+      "description": "C4：阅读速度超过 6 词/秒（最高 356 条 7.55），未看画面。",
+      "status": "open"
+    }
+  ],
+  "notes": "第一轮校对（报告阶段）：Claude 逐条通读全部523条，对照项目术语快照、翻译报告、translation-notes.md、preprocessing.json 及 REF-JG14-001。报告见 reviews/proofreading-report-v1.md，校对意见栏待用户填写，字幕未改动。check 通过（523/523）。REF 只摘录第十二品讲记，开头公案等口述内容无资料可核；未听原声、未看画面。不是人工审核或定稿授权。"
+}
