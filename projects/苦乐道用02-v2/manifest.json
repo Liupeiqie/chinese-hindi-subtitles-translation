@@ -6,7 +6,7 @@
   "target_language": "hi",
   "layout": "hi-then-zh",
   "source_sha256": "c14e6fc5011b3bce7523eefb88ab7358ac14eeea399138a18d7a262e9df2ccf6",
-  "glossary_sha256": "af1b9338fd6fa1ccd61d6c17d1499c44d360512ee89e157e0a203b35df1a6a82",
+  "glossary_sha256": "347a2bd2934fdae5e5a2dbcb78bdc2f57ee89b4e7333d94be053db27439b3449",
   "references": [
     {
       "name": "catalog.csv",
@@ -25,5 +25,5 @@
     }
   ],
   "chinese_layout": "single-line",
-  "inputs_updated_at": "2026-11-25T02:27:49+00:00"
+  "inputs_updated_at": "2026-11-25T02:34:25+00:00"
 }

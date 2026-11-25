@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "name": "苦乐道用02-v2",
+  "created_at": "2026-11-24T16:44:25+08:00",
+  "source_language": "zh",
+  "target_language": "hi",
+  "layout": "hi-then-zh",
+  "source_sha256": "c14e6fc5011b3bce7523eefb88ab7358ac14eeea399138a18d7a262e9df2ccf6",
+  "glossary_sha256": "af1b9338fd6fa1ccd61d6c17d1499c44d360512ee89e157e0a203b35df1a6a82",
+  "references": [
+    {
+      "name": "catalog.csv",
+      "path": "references/eeb88079f8b5d04bbcb23d49b2aa64fe7c2ce32b6a3f7d4e04d135258be265f6_catalog.csv",
+      "sha256": "eeb88079f8b5d04bbcb23d49b2aa64fe7c2ce32b6a3f7d4e04d135258be265f6"
+    },
+    {
+      "name": "REF-KLDY02-001.md",
+      "path": "references/8e65897d7daef8b46d2ad30a0a8b0013535ca21e0505b2f2357457824f9d08fe_REF-KLDY02-001.md",
+      "sha256": "8e65897d7daef8b46d2ad30a0a8b0013535ca21e0505b2f2357457824f9d08fe"
+    },
+    {
+      "name": "REF-KLDY02-002.md",
+      "path": "references/df05e227afd4a35ccd5847c802bde50061032bd60b586bc3ac1d0d97d6a7f3ec_REF-KLDY02-002.md",
+      "sha256": "df05e227afd4a35ccd5847c802bde50061032bd60b586bc3ac1d0d97d6a7f3ec"
+    }
+  ],
+  "chinese_layout": "single-line",
+  "inputs_updated_at": "2026-11-25T02:27:49+00:00"
+}

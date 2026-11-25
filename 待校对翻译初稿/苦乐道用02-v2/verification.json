@@ -3,9 +3,9 @@
   "source_cues": 1154,
   "candidate_cues": 1154,
   "errors": [],
-  "checked_at": "2026-11-25T02:28:04+00:00",
+  "checked_at": "2026-11-25T02:34:25+00:00",
   "source_sha256": "c14e6fc5011b3bce7523eefb88ab7358ac14eeea399138a18d7a262e9df2ccf6",
-  "glossary_sha256": "af1b9338fd6fa1ccd61d6c17d1499c44d360512ee89e157e0a203b35df1a6a82",
+  "glossary_sha256": "347a2bd2934fdae5e5a2dbcb78bdc2f57ee89b4e7333d94be053db27439b3449",
   "candidate_sha256": "eac6edda929cc4979ef0b1a8ad91821d43db7f1e9c6de8acb5906e8b60e6c8c0",
   "context_sha256": "d3b6bf29cc27e4409dfcb8ae38c1a27abec7a9f3bab3e7af57006b1e8115c3bf"
 }

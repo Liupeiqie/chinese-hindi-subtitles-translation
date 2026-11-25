@@ -4,7 +4,7 @@
 - 先读 README.md、项目 manifest.json、项目术语表及参考资料，再开始工作。中央术语主表位于 terminology/glossary.csv，中央资料登记位于 references/catalog.csv。
 - 翻译前完整读取 prompts/translate.md 及其引用的专业版 v5 原件；以 translate.md 说明的适用边界执行。用户要求中文原文不改，因此不采用 v5 的中文换行合并例外；术语表优先于提示词示例。
 - source/zh.srt 永不改写。项目术语及资料是冻结快照，禁止直接编辑；工作稿需要更新依据时使用 sync-inputs，已定稿项目则创建新版本。
-- 持续维护术语主表：新词、冲突或修订先记入 terminology/proposals.csv，核实后更新主表并记录 terminology/CHANGELOG.md，注明出处及受影响项目。
+- 持续维护术语主表：新词、冲突或修订先记入 terminology/proposals.csv，核实后更新主表并记录 terminology/CHANGELOG.md，注明出处及受影响项目。修改 terminology/glossary.csv（新增、改动、删除词条）前必须先列出拟改条目并经用户明确确认；用户确认改字幕译文不等于同意入表。
 - 翻译时实际查阅相关讲记、论释等资料，关键消歧和术语判断写入项目 reviews/translation-notes.md，带资料编号和页码/章节。没有资料时明确记录未提供，不编造引用，不声称已经查阅。
 - 资料用于理解原文，不得据资料扩写或改写字幕。术语与资料冲突须记录并解决，不能静默替换指定译法。
 - 每个字幕块：原序号、原时间码、印地语译文、完整原中文。严格保留中文各行、空格和标点，不合并拆分字幕，不调整时间码。

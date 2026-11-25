@@ -40,7 +40,8 @@ description: 校对本仓库「待校对翻译初稿」下的印地语—中文�
    - 用户要求换算单位、改用全名等，照做；全名优先用术语表已有译名，例如“法王如意宝→धर्मराज चिन्तामणि जिग्मे फुन्त्सोक”。
 2. **备份旧交付**：把交付目录现有的字幕文件（`hi-zh.srt` 或上一版 `<原文件名>_hi-zh_v<N>.srt`）、`verification.json`、`translation-notes.md` 及翻译报告复制到 `待校对翻译初稿/<项目>/history/v<该旧版版本号>-<日期>/`。确定新版本号：初稿为 v1，每交付一次加 1；可从 history 里已有的版本推算。
 3. **术语维护**（有新增或改动时）：
-   - 依次处理 `terminology/proposals.csv`（新增行、改 status、补 reason）、`terminology/glossary.csv`（用户同意入表的条目）、`terminology/CHANGELOG.md`。用 csv 模块写，保留原换行符。
+   - 改主表前先列出拟新增、改动或删除的词条，用 AskUserQuestion 请用户确认；用户同意改字幕译文不等于同意入表。未确认的只记入 proposals.csv（status 为 proposed），不改主表。
+   - 依次处理 `terminology/proposals.csv`（新增行、改 status、补 reason）、`terminology/glossary.csv`（仅用户明确同意入表的条目）、`terminology/CHANGELOG.md`。用 csv 模块写，保留原换行符。
    - 新资料登记 `references/catalog.csv`。未亲自读取的写明“用户查阅，未读取正文”。
    - 再运行 `python tools/subtitles.py sync-inputs projects/<项目> --glossary terminology/glossary.csv --reference references/catalog.csv --reference <各REF文件>`。
    - 若报错缺少 `final` 目录：git 不保存空目录，`mkdir projects/<项目>/final` 后重跑，这不代表定稿。
@@ -83,3 +84,4 @@ description: 校对本仓库「待校对翻译初稿」下的印地语—中文�
 - 人名身份按中文称谓推断时（如“某某氏”为已婚女性），提出并让用户确认，确认后连带改印地语动词的性别变化。
 - 中国传统单位：用户倾向换算为印度读者熟悉的单位，并注明换算依据（例如清代 1 寸约 3.2 厘米）。
 - 用户放弃的条目（如“不改了”）在校对单中写 resolved，并注明用户决定维持现译。
+- 维护术语主表前必须先经用户确认（2026-11-25 用户要求；当日未经确认加入的“学院（喇荣五明佛学院简称）”已撤回）。

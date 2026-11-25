@@ -1,6 +1,6 @@
 {
   "passed": true,
-  "checked_at": "2026-11-25T10:29:21+08:00",
+  "checked_at": "2026-11-25T10:34:37+08:00",
   "output": "待校对翻译初稿/苦乐道用02-v2",
   "candidate_sha256": "eac6edda929cc4979ef0b1a8ad91821d43db7f1e9c6de8acb5906e8b60e6c8c0",
   "source_cues": 1154,
@@ -13,5 +13,5 @@
   "preprocessed_source_unchanged": true,
   "current_review_bound": true,
   "current_readability_report_bound": true,
-  "note": "第3版：按第一轮校对报告修订17行印地语（A1—A10、B1/B2/B4—B7、C2）；B3、C1、C3、C4 未改"
+  "note": "第3版：按第一轮校对报告修订17行印地语；撤回“学院”主表条目后重新同步术语，字幕未变，校对单更新为 review-v5"
 }
