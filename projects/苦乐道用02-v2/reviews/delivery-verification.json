@@ -1,26 +1,17 @@
 {
-  "checked_at": "2026-11-24T16:51:47+08:00",
   "passed": true,
+  "checked_at": "2026-11-25T10:29:21+08:00",
+  "output": "待校对翻译初稿/苦乐道用02-v2",
+  "candidate_sha256": "eac6edda929cc4979ef0b1a8ad91821d43db7f1e9c6de8acb5906e8b60e6c8c0",
   "source_cues": 1154,
   "candidate_cues": 1154,
-  "as_received_sha256": "31d9fcf3c2d882237fa32f423d4d25c9574f880a017706f1bd0317f1ba33f0ba",
-  "source_sha256": "c14e6fc5011b3bce7523eefb88ab7358ac14eeea399138a18d7a262e9df2ccf6",
-  "authorized_chinese_changes": [
-    {
-      "cue": "2",
-      "chinese_line": 1,
-      "before": "赞如自莲闻名不退转",
-      "after": "赞如白莲闻名不退转"
-    }
-  ],
-  "all_other_source_bytes_identical": true,
-  "candidate_sha256": "617edfe7bbcbbf4b2bdf15da7be72f2a7aa514bffdf791520e7ce6ef23032250",
-  "delivery_directory": "待校对翻译初稿/苦乐道用02-v2",
-  "delivered_sha256": {
-    "translation-notes.md": "cfc3052de8df3bac64bbce09c4238f55d2c5311968f94a01070138c082394138",
-    "verification.json": "320880dc3954ae46c5f489ed9c0320ef9b0b5685681edf1bf3a3f17da9ba4d2a",
-    "苦乐道用_第02课_hi-zh_v2.srt": "617edfe7bbcbbf4b2bdf15da7be72f2a7aa514bffdf791520e7ce6ef23032250"
-  },
-  "project_and_delivery_identical": true,
-  "merged_chinese_cues": 51
+  "delivered_file": "苦乐道用_第02课_hi-zh_v3.srt",
+  "delivered_file_name_valid": true,
+  "draft_and_delivery_identical": true,
+  "report_candidate_matches": true,
+  "report_and_notes_copies_identical": true,
+  "preprocessed_source_unchanged": true,
+  "current_review_bound": true,
+  "current_readability_report_bound": true,
+  "note": "第3版：按第一轮校对报告修订17行印地语（A1—A10、B1/B2/B4—B7、C2）；B3、C1、C3、C4 未改"
 }

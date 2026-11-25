@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-25T02:28:08+00:00",
+  "source_sha256": "c14e6fc5011b3bce7523eefb88ab7358ac14eeea399138a18d7a262e9df2ccf6",
+  "glossary_sha256": "af1b9338fd6fa1ccd61d6c17d1499c44d360512ee89e157e0a203b35df1a6a82",
+  "candidate_sha256": "eac6edda929cc4979ef0b1a8ad91821d43db7f1e9c6de8acb5906e8b60e6c8c0",
+  "context_sha256": "d3b6bf29cc27e4409dfcb8ae38c1a27abec7a9f3bab3e7af57006b1e8115c3bf",
+  "reviewer": "Claude（AI）；校对意见由用户逐条确认",
+  "reviewed_at": "2026-11-25T10:30:00+08:00",
+  "checks": {
+    "meaning": true,
+    "terminology": false,
+    "reference_consistency": false,
+    "hindi_language": true,
+    "numbers_and_names": false,
+    "readability": false,
+    "source_integrity": true
+  },
+  "issues": [
+    {
+      "cue": "26",
+      "description": "A1：“不应该爱它的”原译为感受（मन नहीं होता），改为 प्यार नहीं करना चाहिए。用户同意。",
+      "status": "resolved"
+    },
+    {
+      "cue": "501",
+      "description": "A2：与500条末 तो ऐसे में 重复，删去句首 तो；阅读速度 4.69→3.91 词/秒。",
+      "status": "resolved"
+    },
+    {
+      "cue": "605",
+      "description": "A3：“全部”兼指人、事、声音，混合主语改阳性复数 पहुँचाते हैं。",
+      "status": "resolved"
+    },
+    {
+      "cue": "653",
+      "description": "A4：“妄取”统一为 मिथ्या ग्रहण（与672—675一致），主表新增“妄取→मिथ्या ग्रहण”。",
+      "status": "resolved"
+    },
+    {
+      "cue": "818",
+      "description": "A5：清净刹土按主表改为 शुद्ध बुद्धक्षेत्र。",
+      "status": "resolved"
+    },
+    {
+      "cue": "907",
+      "description": "A6：“调伏自心相续”原译 साधना 与“修行”同形易误读，改为 वश में करना，与940、952一致。",
+      "status": "resolved"
+    },
+    {
+      "cue": "968、1102",
+      "description": "A7、A8：删去原文没有的 अनुभव का（经历），按主表“转为道用→मार्ग में रूपांतरण”。",
+      "status": "resolved"
+    },
+    {
+      "cue": "972",
+      "description": "A9：“不想自己痛苦的心态”原译成“认定不该痛苦的习惯”，改为 कभी भी दुःख न चाहने वाली मनोवृत्ति。",
+      "status": "resolved"
+    },
+    {
+      "cue": "1092",
+      "description": "A10：“不但没有倒下”原译 तो नहीं ही 不通顺，改为 न केवल … नहीं गिरे，与1093 उलटे 呼应。",
+      "status": "resolved"
+    },
+    {
+      "cue": "128、807",
+      "description": "B1、B2：此处“功德”指长处、功用，按主表已有“功德（长处、价值）→गुण”改译 गुण；福德义仍用 पुण्य。用户确认。",
+      "status": "resolved"
+    },
+    {
+      "cue": "557",
+      "description": "B3：“对民族不满”原译 अपने समुदाय，用户决定维持现译。",
+      "status": "resolved"
+    },
+    {
+      "cue": "647",
+      "description": "B4：“自心现种种”主语改为自心（अपना ही चित्त नाना रूपों में प्रकट होता है）。依据为校对者所知的《楞伽经》唯心义，项目资料无经文原典。用户确认。",
+      "status": "resolved"
+    },
+    {
+      "cue": "718",
+      "description": "B5：改为“并不是我们随便就能把脏和美融为一体”（ऐसा नहीं कि हम … यूँ ही एक कर लें）。未听原声，按717—719上下文及用户确认修改。",
+      "status": "resolved"
+    },
+    {
+      "cue": "825",
+      "description": "B6：“我们学院”指喇荣五明佛学院，改 विद्यापीठ，主表新增“学院（喇荣五明佛学院简称）→विद्यापीठ”。",
+      "status": "resolved"
+    },
+    {
+      "cue": "833",
+      "description": "B7：法王改用全名 धर्मराज चिन्तामणि जिग्मे फुन्त्सोक（主表“法王如意宝”），阅读速度 4.31 词/秒。用户确认。",
+      "status": "resolved"
+    },
+    {
+      "cue": "343",
+      "description": "C2：用户要求按讲记译。字幕“导向思维”，讲记（REF-KLDY02-001）作“反向思维”，印地语改为 उलटी दिशा में सोचें；中文字幕照旧，中印两行在此不一致。",
+      "status": "resolved"
+    },
+    {
+      "cue": "203",
+      "description": "C1：《涅槃经》简称暂用 महापरिनिर्वाण सूत्र，“若常愁苦 愁遂增长”的卷品未核实；用户本轮未改。",
+      "status": "open"
+    },
+    {
+      "cue": "1037",
+      "description": "C3：《反脆弱》暂用 एंटीफ़्रैजाइल，未核实有无通行印地语版题名；用户本轮未改。",
+      "status": "open"
+    },
+    {
+      "cue": "4、877、929、1151",
+      "description": "C4：阅读速度。877（6.08）、929（6.88）、1151（6.13）词/秒超过6；4条4.33。用户本轮未改，待结合画面确认。",
+      "status": "open"
+    }
+  ],
+  "notes": "第一轮校对：Claude 逐条通读全部1154条，在线报告由用户填写意见（A类全部修改，B类除B3外修改，C类只改C2）。本版改17行印地语，check 通过，与第2版逐行比对确认仅印地语行变化。对照项目术语快照及REF-KLDY02-001、REF-KLDY02-002查阅记录；讲记EPUB原文不在仓库，未读到全文，未听原声、未看画面；不是人工审核或定稿授权。"
+}

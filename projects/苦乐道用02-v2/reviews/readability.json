@@ -1,0 +1,8086 @@
+{
+  "method": "按空格分词；大于6词/秒仅作为本次人工复核提示，不是语言质量合格标准；未试听视频",
+  "candidate_sha256": "eac6edda929cc4979ef0b1a8ad91821d43db7f1e9c6de8acb5906e8b60e6c8c0",
+  "cues_checked": 1154,
+  "flagged_count": 3,
+  "cues": [
+    {
+      "cue": "1",
+      "duration_seconds": 4.18,
+      "hindi_words": 15,
+      "words_per_second": 3.59,
+      "flag": false
+    },
+    {
+      "cue": "2",
+      "duration_seconds": 6.82,
+      "hindi_words": 20,
+      "words_per_second": 2.93,
+      "flag": false
+    },
+    {
+      "cue": "3",
+      "duration_seconds": 2.88,
+      "hindi_words": 12,
+      "words_per_second": 4.17,
+      "flag": false
+    },
+    {
+      "cue": "4",
+      "duration_seconds": 3.0,
+      "hindi_words": 13,
+      "words_per_second": 4.33,
+      "flag": false
+    },
+    {
+      "cue": "5",
+      "duration_seconds": 1.5,
+      "hindi_words": 6,
+      "words_per_second": 4.0,
+      "flag": false
+    },
+    {
+      "cue": "6",
+      "duration_seconds": 2.18,
+      "hindi_words": 9,
+      "words_per_second": 4.13,
+      "flag": false
+    },
+    {
+      "cue": "7",
+      "duration_seconds": 8.4,
+      "hindi_words": 14,
+      "words_per_second": 1.67,
+      "flag": false
+    },
+    {
+      "cue": "8",
+      "duration_seconds": 3.64,
+      "hindi_words": 8,
+      "words_per_second": 2.2,
+      "flag": false
+    },
+    {
+      "cue": "9",
+      "duration_seconds": 6.36,
+      "hindi_words": 8,
+      "words_per_second": 1.26,
+      "flag": false
+    },
+    {
+      "cue": "10",
+      "duration_seconds": 4.48,
+      "hindi_words": 12,
+      "words_per_second": 2.68,
+      "flag": false
+    },
+    {
+      "cue": "11",
+      "duration_seconds": 2.48,
+      "hindi_words": 9,
+      "words_per_second": 3.63,
+      "flag": false
+    },
+    {
+      "cue": "12",
+      "duration_seconds": 2.84,
+      "hindi_words": 8,
+      "words_per_second": 2.82,
+      "flag": false
+    },
+    {
+      "cue": "13",
+      "duration_seconds": 6.16,
+      "hindi_words": 9,
+      "words_per_second": 1.46,
+      "flag": false
+    },
+    {
+      "cue": "14",
+      "duration_seconds": 7.52,
+      "hindi_words": 8,
+      "words_per_second": 1.06,
+      "flag": false
+    },
+    {
+      "cue": "15",
+      "duration_seconds": 3.4,
+      "hindi_words": 8,
+      "words_per_second": 2.35,
+      "flag": false
+    },
+    {
+      "cue": "16",
+      "duration_seconds": 3.04,
+      "hindi_words": 8,
+      "words_per_second": 2.63,
+      "flag": false
+    },
+    {
+      "cue": "17",
+      "duration_seconds": 5.4,
+      "hindi_words": 9,
+      "words_per_second": 1.67,
+      "flag": false
+    },
+    {
+      "cue": "18",
+      "duration_seconds": 3.92,
+      "hindi_words": 7,
+      "words_per_second": 1.79,
+      "flag": false
+    },
+    {
+      "cue": "19",
+      "duration_seconds": 6.0,
+      "hindi_words": 5,
+      "words_per_second": 0.83,
+      "flag": false
+    },
+    {
+      "cue": "20",
+      "duration_seconds": 5.68,
+      "hindi_words": 5,
+      "words_per_second": 0.88,
+      "flag": false
+    },
+    {
+      "cue": "21",
+      "duration_seconds": 5.08,
+      "hindi_words": 8,
+      "words_per_second": 1.57,
+      "flag": false
+    },
+    {
+      "cue": "22",
+      "duration_seconds": 9.84,
+      "hindi_words": 7,
+      "words_per_second": 0.71,
+      "flag": false
+    },
+    {
+      "cue": "23",
+      "duration_seconds": 3.8,
+      "hindi_words": 8,
+      "words_per_second": 2.11,
+      "flag": false
+    },
+    {
+      "cue": "24",
+      "duration_seconds": 3.96,
+      "hindi_words": 7,
+      "words_per_second": 1.77,
+      "flag": false
+    },
+    {
+      "cue": "25",
+      "duration_seconds": 2.2,
+      "hindi_words": 8,
+      "words_per_second": 3.64,
+      "flag": false
+    },
+    {
+      "cue": "26",
+      "duration_seconds": 3.36,
+      "hindi_words": 9,
+      "words_per_second": 2.68,
+      "flag": false
+    },
+    {
+      "cue": "27",
+      "duration_seconds": 3.4,
+      "hindi_words": 11,
+      "words_per_second": 3.24,
+      "flag": false
+    },
+    {
+      "cue": "28",
+      "duration_seconds": 4.0,
+      "hindi_words": 4,
+      "words_per_second": 1.0,
+      "flag": false
+    },
+    {
+      "cue": "29",
+      "duration_seconds": 2.8,
+      "hindi_words": 7,
+      "words_per_second": 2.5,
+      "flag": false
+    },
+    {
+      "cue": "30",
+      "duration_seconds": 1.84,
+      "hindi_words": 8,
+      "words_per_second": 4.35,
+      "flag": false
+    },
+    {
+      "cue": "31",
+      "duration_seconds": 6.64,
+      "hindi_words": 11,
+      "words_per_second": 1.66,
+      "flag": false
+    },
+    {
+      "cue": "32",
+      "duration_seconds": 3.04,
+      "hindi_words": 10,
+      "words_per_second": 3.29,
+      "flag": false
+    },
+    {
+      "cue": "33",
+      "duration_seconds": 3.64,
+      "hindi_words": 11,
+      "words_per_second": 3.02,
+      "flag": false
+    },
+    {
+      "cue": "34",
+      "duration_seconds": 5.08,
+      "hindi_words": 10,
+      "words_per_second": 1.97,
+      "flag": false
+    },
+    {
+      "cue": "35",
+      "duration_seconds": 2.32,
+      "hindi_words": 6,
+      "words_per_second": 2.59,
+      "flag": false
+    },
+    {
+      "cue": "36",
+      "duration_seconds": 2.24,
+      "hindi_words": 6,
+      "words_per_second": 2.68,
+      "flag": false
+    },
+    {
+      "cue": "37",
+      "duration_seconds": 3.64,
+      "hindi_words": 11,
+      "words_per_second": 3.02,
+      "flag": false
+    },
+    {
+      "cue": "38",
+      "duration_seconds": 2.12,
+      "hindi_words": 7,
+      "words_per_second": 3.3,
+      "flag": false
+    },
+    {
+      "cue": "39",
+      "duration_seconds": 10.84,
+      "hindi_words": 7,
+      "words_per_second": 0.65,
+      "flag": false
+    },
+    {
+      "cue": "40",
+      "duration_seconds": 3.64,
+      "hindi_words": 9,
+      "words_per_second": 2.47,
+      "flag": false
+    },
+    {
+      "cue": "41",
+      "duration_seconds": 3.2,
+      "hindi_words": 10,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "42",
+      "duration_seconds": 1.32,
+      "hindi_words": 4,
+      "words_per_second": 3.03,
+      "flag": false
+    },
+    {
+      "cue": "43",
+      "duration_seconds": 4.6,
+      "hindi_words": 9,
+      "words_per_second": 1.96,
+      "flag": false
+    },
+    {
+      "cue": "44",
+      "duration_seconds": 2.0,
+      "hindi_words": 8,
+      "words_per_second": 4.0,
+      "flag": false
+    },
+    {
+      "cue": "45",
+      "duration_seconds": 1.8,
+      "hindi_words": 3,
+      "words_per_second": 1.67,
+      "flag": false
+    },
+    {
+      "cue": "46",
+      "duration_seconds": 3.28,
+      "hindi_words": 6,
+      "words_per_second": 1.83,
+      "flag": false
+    },
+    {
+      "cue": "47",
+      "duration_seconds": 3.08,
+      "hindi_words": 8,
+      "words_per_second": 2.6,
+      "flag": false
+    },
+    {
+      "cue": "48",
+      "duration_seconds": 2.24,
+      "hindi_words": 6,
+      "words_per_second": 2.68,
+      "flag": false
+    },
+    {
+      "cue": "49",
+      "duration_seconds": 3.76,
+      "hindi_words": 8,
+      "words_per_second": 2.13,
+      "flag": false
+    },
+    {
+      "cue": "50",
+      "duration_seconds": 3.84,
+      "hindi_words": 10,
+      "words_per_second": 2.6,
+      "flag": false
+    },
+    {
+      "cue": "51",
+      "duration_seconds": 3.28,
+      "hindi_words": 7,
+      "words_per_second": 2.13,
+      "flag": false
+    },
+    {
+      "cue": "52",
+      "duration_seconds": 3.56,
+      "hindi_words": 8,
+      "words_per_second": 2.25,
+      "flag": false
+    },
+    {
+      "cue": "53",
+      "duration_seconds": 3.12,
+      "hindi_words": 9,
+      "words_per_second": 2.88,
+      "flag": false
+    },
+    {
+      "cue": "54",
+      "duration_seconds": 3.28,
+      "hindi_words": 7,
+      "words_per_second": 2.13,
+      "flag": false
+    },
+    {
+      "cue": "55",
+      "duration_seconds": 4.16,
+      "hindi_words": 9,
+      "words_per_second": 2.16,
+      "flag": false
+    },
+    {
+      "cue": "56",
+      "duration_seconds": 3.36,
+      "hindi_words": 5,
+      "words_per_second": 1.49,
+      "flag": false
+    },
+    {
+      "cue": "57",
+      "duration_seconds": 5.04,
+      "hindi_words": 8,
+      "words_per_second": 1.59,
+      "flag": false
+    },
+    {
+      "cue": "58",
+      "duration_seconds": 4.6,
+      "hindi_words": 12,
+      "words_per_second": 2.61,
+      "flag": false
+    },
+    {
+      "cue": "59",
+      "duration_seconds": 7.52,
+      "hindi_words": 8,
+      "words_per_second": 1.06,
+      "flag": false
+    },
+    {
+      "cue": "60",
+      "duration_seconds": 2.0,
+      "hindi_words": 6,
+      "words_per_second": 3.0,
+      "flag": false
+    },
+    {
+      "cue": "61",
+      "duration_seconds": 3.28,
+      "hindi_words": 5,
+      "words_per_second": 1.52,
+      "flag": false
+    },
+    {
+      "cue": "62",
+      "duration_seconds": 2.12,
+      "hindi_words": 6,
+      "words_per_second": 2.83,
+      "flag": false
+    },
+    {
+      "cue": "63",
+      "duration_seconds": 3.28,
+      "hindi_words": 9,
+      "words_per_second": 2.74,
+      "flag": false
+    },
+    {
+      "cue": "64",
+      "duration_seconds": 2.64,
+      "hindi_words": 7,
+      "words_per_second": 2.65,
+      "flag": false
+    },
+    {
+      "cue": "65",
+      "duration_seconds": 4.4,
+      "hindi_words": 8,
+      "words_per_second": 1.82,
+      "flag": false
+    },
+    {
+      "cue": "66",
+      "duration_seconds": 4.52,
+      "hindi_words": 6,
+      "words_per_second": 1.33,
+      "flag": false
+    },
+    {
+      "cue": "67",
+      "duration_seconds": 1.96,
+      "hindi_words": 5,
+      "words_per_second": 2.55,
+      "flag": false
+    },
+    {
+      "cue": "68",
+      "duration_seconds": 3.36,
+      "hindi_words": 6,
+      "words_per_second": 1.79,
+      "flag": false
+    },
+    {
+      "cue": "69",
+      "duration_seconds": 4.2,
+      "hindi_words": 5,
+      "words_per_second": 1.19,
+      "flag": false
+    },
+    {
+      "cue": "70",
+      "duration_seconds": 4.36,
+      "hindi_words": 14,
+      "words_per_second": 3.21,
+      "flag": false
+    },
+    {
+      "cue": "71",
+      "duration_seconds": 4.52,
+      "hindi_words": 14,
+      "words_per_second": 3.1,
+      "flag": false
+    },
+    {
+      "cue": "72",
+      "duration_seconds": 5.88,
+      "hindi_words": 7,
+      "words_per_second": 1.19,
+      "flag": false
+    },
+    {
+      "cue": "73",
+      "duration_seconds": 8.68,
+      "hindi_words": 9,
+      "words_per_second": 1.04,
+      "flag": false
+    },
+    {
+      "cue": "74",
+      "duration_seconds": 6.12,
+      "hindi_words": 9,
+      "words_per_second": 1.47,
+      "flag": false
+    },
+    {
+      "cue": "75",
+      "duration_seconds": 8.08,
+      "hindi_words": 10,
+      "words_per_second": 1.24,
+      "flag": false
+    },
+    {
+      "cue": "76",
+      "duration_seconds": 1.8,
+      "hindi_words": 5,
+      "words_per_second": 2.78,
+      "flag": false
+    },
+    {
+      "cue": "77",
+      "duration_seconds": 3.24,
+      "hindi_words": 7,
+      "words_per_second": 2.16,
+      "flag": false
+    },
+    {
+      "cue": "78",
+      "duration_seconds": 3.48,
+      "hindi_words": 5,
+      "words_per_second": 1.44,
+      "flag": false
+    },
+    {
+      "cue": "79",
+      "duration_seconds": 3.44,
+      "hindi_words": 7,
+      "words_per_second": 2.03,
+      "flag": false
+    },
+    {
+      "cue": "80",
+      "duration_seconds": 2.36,
+      "hindi_words": 10,
+      "words_per_second": 4.24,
+      "flag": false
+    },
+    {
+      "cue": "81",
+      "duration_seconds": 5.48,
+      "hindi_words": 16,
+      "words_per_second": 2.92,
+      "flag": false
+    },
+    {
+      "cue": "82",
+      "duration_seconds": 1.04,
+      "hindi_words": 5,
+      "words_per_second": 4.81,
+      "flag": false
+    },
+    {
+      "cue": "83",
+      "duration_seconds": 2.56,
+      "hindi_words": 8,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "84",
+      "duration_seconds": 2.12,
+      "hindi_words": 5,
+      "words_per_second": 2.36,
+      "flag": false
+    },
+    {
+      "cue": "85",
+      "duration_seconds": 3.32,
+      "hindi_words": 10,
+      "words_per_second": 3.01,
+      "flag": false
+    },
+    {
+      "cue": "86",
+      "duration_seconds": 3.44,
+      "hindi_words": 5,
+      "words_per_second": 1.45,
+      "flag": false
+    },
+    {
+      "cue": "87",
+      "duration_seconds": 3.76,
+      "hindi_words": 9,
+      "words_per_second": 2.39,
+      "flag": false
+    },
+    {
+      "cue": "88",
+      "duration_seconds": 3.64,
+      "hindi_words": 9,
+      "words_per_second": 2.47,
+      "flag": false
+    },
+    {
+      "cue": "89",
+      "duration_seconds": 2.6,
+      "hindi_words": 10,
+      "words_per_second": 3.85,
+      "flag": false
+    },
+    {
+      "cue": "90",
+      "duration_seconds": 4.68,
+      "hindi_words": 8,
+      "words_per_second": 1.71,
+      "flag": false
+    },
+    {
+      "cue": "91",
+      "duration_seconds": 2.24,
+      "hindi_words": 7,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "92",
+      "duration_seconds": 3.76,
+      "hindi_words": 6,
+      "words_per_second": 1.6,
+      "flag": false
+    },
+    {
+      "cue": "93",
+      "duration_seconds": 1.52,
+      "hindi_words": 5,
+      "words_per_second": 3.29,
+      "flag": false
+    },
+    {
+      "cue": "94",
+      "duration_seconds": 3.36,
+      "hindi_words": 9,
+      "words_per_second": 2.68,
+      "flag": false
+    },
+    {
+      "cue": "95",
+      "duration_seconds": 3.72,
+      "hindi_words": 8,
+      "words_per_second": 2.15,
+      "flag": false
+    },
+    {
+      "cue": "96",
+      "duration_seconds": 3.36,
+      "hindi_words": 5,
+      "words_per_second": 1.49,
+      "flag": false
+    },
+    {
+      "cue": "97",
+      "duration_seconds": 2.92,
+      "hindi_words": 9,
+      "words_per_second": 3.08,
+      "flag": false
+    },
+    {
+      "cue": "98",
+      "duration_seconds": 2.84,
+      "hindi_words": 10,
+      "words_per_second": 3.52,
+      "flag": false
+    },
+    {
+      "cue": "99",
+      "duration_seconds": 4.32,
+      "hindi_words": 10,
+      "words_per_second": 2.31,
+      "flag": false
+    },
+    {
+      "cue": "100",
+      "duration_seconds": 2.56,
+      "hindi_words": 8,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "101",
+      "duration_seconds": 1.4,
+      "hindi_words": 7,
+      "words_per_second": 5.0,
+      "flag": false
+    },
+    {
+      "cue": "102",
+      "duration_seconds": 2.56,
+      "hindi_words": 8,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "103",
+      "duration_seconds": 4.76,
+      "hindi_words": 9,
+      "words_per_second": 1.89,
+      "flag": false
+    },
+    {
+      "cue": "104",
+      "duration_seconds": 6.6,
+      "hindi_words": 9,
+      "words_per_second": 1.36,
+      "flag": false
+    },
+    {
+      "cue": "105",
+      "duration_seconds": 1.8,
+      "hindi_words": 3,
+      "words_per_second": 1.67,
+      "flag": false
+    },
+    {
+      "cue": "106",
+      "duration_seconds": 2.88,
+      "hindi_words": 5,
+      "words_per_second": 1.74,
+      "flag": false
+    },
+    {
+      "cue": "107",
+      "duration_seconds": 5.64,
+      "hindi_words": 7,
+      "words_per_second": 1.24,
+      "flag": false
+    },
+    {
+      "cue": "108",
+      "duration_seconds": 3.48,
+      "hindi_words": 11,
+      "words_per_second": 3.16,
+      "flag": false
+    },
+    {
+      "cue": "109",
+      "duration_seconds": 3.56,
+      "hindi_words": 9,
+      "words_per_second": 2.53,
+      "flag": false
+    },
+    {
+      "cue": "110",
+      "duration_seconds": 1.4,
+      "hindi_words": 7,
+      "words_per_second": 5.0,
+      "flag": false
+    },
+    {
+      "cue": "111",
+      "duration_seconds": 4.0,
+      "hindi_words": 8,
+      "words_per_second": 2.0,
+      "flag": false
+    },
+    {
+      "cue": "112",
+      "duration_seconds": 3.12,
+      "hindi_words": 7,
+      "words_per_second": 2.24,
+      "flag": false
+    },
+    {
+      "cue": "113",
+      "duration_seconds": 1.64,
+      "hindi_words": 4,
+      "words_per_second": 2.44,
+      "flag": false
+    },
+    {
+      "cue": "114",
+      "duration_seconds": 3.44,
+      "hindi_words": 10,
+      "words_per_second": 2.91,
+      "flag": false
+    },
+    {
+      "cue": "115",
+      "duration_seconds": 4.4,
+      "hindi_words": 14,
+      "words_per_second": 3.18,
+      "flag": false
+    },
+    {
+      "cue": "116",
+      "duration_seconds": 1.28,
+      "hindi_words": 6,
+      "words_per_second": 4.69,
+      "flag": false
+    },
+    {
+      "cue": "117",
+      "duration_seconds": 1.64,
+      "hindi_words": 7,
+      "words_per_second": 4.27,
+      "flag": false
+    },
+    {
+      "cue": "118",
+      "duration_seconds": 1.4,
+      "hindi_words": 6,
+      "words_per_second": 4.29,
+      "flag": false
+    },
+    {
+      "cue": "119",
+      "duration_seconds": 3.6,
+      "hindi_words": 10,
+      "words_per_second": 2.78,
+      "flag": false
+    },
+    {
+      "cue": "120",
+      "duration_seconds": 2.44,
+      "hindi_words": 6,
+      "words_per_second": 2.46,
+      "flag": false
+    },
+    {
+      "cue": "121",
+      "duration_seconds": 2.88,
+      "hindi_words": 5,
+      "words_per_second": 1.74,
+      "flag": false
+    },
+    {
+      "cue": "122",
+      "duration_seconds": 3.76,
+      "hindi_words": 7,
+      "words_per_second": 1.86,
+      "flag": false
+    },
+    {
+      "cue": "123",
+      "duration_seconds": 1.92,
+      "hindi_words": 10,
+      "words_per_second": 5.21,
+      "flag": false
+    },
+    {
+      "cue": "124",
+      "duration_seconds": 4.16,
+      "hindi_words": 9,
+      "words_per_second": 2.16,
+      "flag": false
+    },
+    {
+      "cue": "125",
+      "duration_seconds": 2.04,
+      "hindi_words": 4,
+      "words_per_second": 1.96,
+      "flag": false
+    },
+    {
+      "cue": "126",
+      "duration_seconds": 3.28,
+      "hindi_words": 9,
+      "words_per_second": 2.74,
+      "flag": false
+    },
+    {
+      "cue": "127",
+      "duration_seconds": 4.4,
+      "hindi_words": 8,
+      "words_per_second": 1.82,
+      "flag": false
+    },
+    {
+      "cue": "128",
+      "duration_seconds": 4.44,
+      "hindi_words": 10,
+      "words_per_second": 2.25,
+      "flag": false
+    },
+    {
+      "cue": "129",
+      "duration_seconds": 4.96,
+      "hindi_words": 7,
+      "words_per_second": 1.41,
+      "flag": false
+    },
+    {
+      "cue": "130",
+      "duration_seconds": 3.8,
+      "hindi_words": 7,
+      "words_per_second": 1.84,
+      "flag": false
+    },
+    {
+      "cue": "131",
+      "duration_seconds": 2.12,
+      "hindi_words": 7,
+      "words_per_second": 3.3,
+      "flag": false
+    },
+    {
+      "cue": "132",
+      "duration_seconds": 3.24,
+      "hindi_words": 5,
+      "words_per_second": 1.54,
+      "flag": false
+    },
+    {
+      "cue": "133",
+      "duration_seconds": 2.8,
+      "hindi_words": 9,
+      "words_per_second": 3.21,
+      "flag": false
+    },
+    {
+      "cue": "134",
+      "duration_seconds": 3.0,
+      "hindi_words": 4,
+      "words_per_second": 1.33,
+      "flag": false
+    },
+    {
+      "cue": "135",
+      "duration_seconds": 2.72,
+      "hindi_words": 10,
+      "words_per_second": 3.68,
+      "flag": false
+    },
+    {
+      "cue": "136",
+      "duration_seconds": 3.0,
+      "hindi_words": 7,
+      "words_per_second": 2.33,
+      "flag": false
+    },
+    {
+      "cue": "137",
+      "duration_seconds": 2.04,
+      "hindi_words": 10,
+      "words_per_second": 4.9,
+      "flag": false
+    },
+    {
+      "cue": "138",
+      "duration_seconds": 2.76,
+      "hindi_words": 5,
+      "words_per_second": 1.81,
+      "flag": false
+    },
+    {
+      "cue": "139",
+      "duration_seconds": 1.44,
+      "hindi_words": 5,
+      "words_per_second": 3.47,
+      "flag": false
+    },
+    {
+      "cue": "140",
+      "duration_seconds": 4.92,
+      "hindi_words": 10,
+      "words_per_second": 2.03,
+      "flag": false
+    },
+    {
+      "cue": "141",
+      "duration_seconds": 3.44,
+      "hindi_words": 5,
+      "words_per_second": 1.45,
+      "flag": false
+    },
+    {
+      "cue": "142",
+      "duration_seconds": 8.8,
+      "hindi_words": 11,
+      "words_per_second": 1.25,
+      "flag": false
+    },
+    {
+      "cue": "143",
+      "duration_seconds": 4.4,
+      "hindi_words": 10,
+      "words_per_second": 2.27,
+      "flag": false
+    },
+    {
+      "cue": "144",
+      "duration_seconds": 1.76,
+      "hindi_words": 5,
+      "words_per_second": 2.84,
+      "flag": false
+    },
+    {
+      "cue": "145",
+      "duration_seconds": 1.76,
+      "hindi_words": 8,
+      "words_per_second": 4.55,
+      "flag": false
+    },
+    {
+      "cue": "146",
+      "duration_seconds": 1.8,
+      "hindi_words": 9,
+      "words_per_second": 5.0,
+      "flag": false
+    },
+    {
+      "cue": "147",
+      "duration_seconds": 3.16,
+      "hindi_words": 10,
+      "words_per_second": 3.16,
+      "flag": false
+    },
+    {
+      "cue": "148",
+      "duration_seconds": 3.96,
+      "hindi_words": 10,
+      "words_per_second": 2.53,
+      "flag": false
+    },
+    {
+      "cue": "149",
+      "duration_seconds": 1.84,
+      "hindi_words": 4,
+      "words_per_second": 2.17,
+      "flag": false
+    },
+    {
+      "cue": "150",
+      "duration_seconds": 3.44,
+      "hindi_words": 9,
+      "words_per_second": 2.62,
+      "flag": false
+    },
+    {
+      "cue": "151",
+      "duration_seconds": 1.88,
+      "hindi_words": 7,
+      "words_per_second": 3.72,
+      "flag": false
+    },
+    {
+      "cue": "152",
+      "duration_seconds": 2.96,
+      "hindi_words": 6,
+      "words_per_second": 2.03,
+      "flag": false
+    },
+    {
+      "cue": "153",
+      "duration_seconds": 9.36,
+      "hindi_words": 13,
+      "words_per_second": 1.39,
+      "flag": false
+    },
+    {
+      "cue": "154",
+      "duration_seconds": 5.48,
+      "hindi_words": 10,
+      "words_per_second": 1.82,
+      "flag": false
+    },
+    {
+      "cue": "155",
+      "duration_seconds": 2.44,
+      "hindi_words": 5,
+      "words_per_second": 2.05,
+      "flag": false
+    },
+    {
+      "cue": "156",
+      "duration_seconds": 2.52,
+      "hindi_words": 11,
+      "words_per_second": 4.37,
+      "flag": false
+    },
+    {
+      "cue": "157",
+      "duration_seconds": 3.32,
+      "hindi_words": 8,
+      "words_per_second": 2.41,
+      "flag": false
+    },
+    {
+      "cue": "158",
+      "duration_seconds": 5.04,
+      "hindi_words": 7,
+      "words_per_second": 1.39,
+      "flag": false
+    },
+    {
+      "cue": "159",
+      "duration_seconds": 2.32,
+      "hindi_words": 8,
+      "words_per_second": 3.45,
+      "flag": false
+    },
+    {
+      "cue": "160",
+      "duration_seconds": 3.0,
+      "hindi_words": 10,
+      "words_per_second": 3.33,
+      "flag": false
+    },
+    {
+      "cue": "161",
+      "duration_seconds": 2.4,
+      "hindi_words": 9,
+      "words_per_second": 3.75,
+      "flag": false
+    },
+    {
+      "cue": "162",
+      "duration_seconds": 2.08,
+      "hindi_words": 8,
+      "words_per_second": 3.85,
+      "flag": false
+    },
+    {
+      "cue": "163",
+      "duration_seconds": 4.32,
+      "hindi_words": 11,
+      "words_per_second": 2.55,
+      "flag": false
+    },
+    {
+      "cue": "164",
+      "duration_seconds": 4.6,
+      "hindi_words": 9,
+      "words_per_second": 1.96,
+      "flag": false
+    },
+    {
+      "cue": "165",
+      "duration_seconds": 2.76,
+      "hindi_words": 6,
+      "words_per_second": 2.17,
+      "flag": false
+    },
+    {
+      "cue": "166",
+      "duration_seconds": 4.2,
+      "hindi_words": 7,
+      "words_per_second": 1.67,
+      "flag": false
+    },
+    {
+      "cue": "167",
+      "duration_seconds": 2.48,
+      "hindi_words": 8,
+      "words_per_second": 3.23,
+      "flag": false
+    },
+    {
+      "cue": "168",
+      "duration_seconds": 3.24,
+      "hindi_words": 8,
+      "words_per_second": 2.47,
+      "flag": false
+    },
+    {
+      "cue": "169",
+      "duration_seconds": 1.72,
+      "hindi_words": 6,
+      "words_per_second": 3.49,
+      "flag": false
+    },
+    {
+      "cue": "170",
+      "duration_seconds": 2.48,
+      "hindi_words": 10,
+      "words_per_second": 4.03,
+      "flag": false
+    },
+    {
+      "cue": "171",
+      "duration_seconds": 5.12,
+      "hindi_words": 10,
+      "words_per_second": 1.95,
+      "flag": false
+    },
+    {
+      "cue": "172",
+      "duration_seconds": 1.36,
+      "hindi_words": 6,
+      "words_per_second": 4.41,
+      "flag": false
+    },
+    {
+      "cue": "173",
+      "duration_seconds": 3.68,
+      "hindi_words": 13,
+      "words_per_second": 3.53,
+      "flag": false
+    },
+    {
+      "cue": "174",
+      "duration_seconds": 2.32,
+      "hindi_words": 10,
+      "words_per_second": 4.31,
+      "flag": false
+    },
+    {
+      "cue": "175",
+      "duration_seconds": 4.44,
+      "hindi_words": 12,
+      "words_per_second": 2.7,
+      "flag": false
+    },
+    {
+      "cue": "176",
+      "duration_seconds": 3.2,
+      "hindi_words": 9,
+      "words_per_second": 2.81,
+      "flag": false
+    },
+    {
+      "cue": "177",
+      "duration_seconds": 4.68,
+      "hindi_words": 10,
+      "words_per_second": 2.14,
+      "flag": false
+    },
+    {
+      "cue": "178",
+      "duration_seconds": 2.36,
+      "hindi_words": 8,
+      "words_per_second": 3.39,
+      "flag": false
+    },
+    {
+      "cue": "179",
+      "duration_seconds": 2.0,
+      "hindi_words": 7,
+      "words_per_second": 3.5,
+      "flag": false
+    },
+    {
+      "cue": "180",
+      "duration_seconds": 2.48,
+      "hindi_words": 6,
+      "words_per_second": 2.42,
+      "flag": false
+    },
+    {
+      "cue": "181",
+      "duration_seconds": 3.92,
+      "hindi_words": 5,
+      "words_per_second": 1.28,
+      "flag": false
+    },
+    {
+      "cue": "182",
+      "duration_seconds": 2.08,
+      "hindi_words": 5,
+      "words_per_second": 2.4,
+      "flag": false
+    },
+    {
+      "cue": "183",
+      "duration_seconds": 4.0,
+      "hindi_words": 7,
+      "words_per_second": 1.75,
+      "flag": false
+    },
+    {
+      "cue": "184",
+      "duration_seconds": 3.88,
+      "hindi_words": 9,
+      "words_per_second": 2.32,
+      "flag": false
+    },
+    {
+      "cue": "185",
+      "duration_seconds": 1.92,
+      "hindi_words": 6,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "186",
+      "duration_seconds": 2.88,
+      "hindi_words": 7,
+      "words_per_second": 2.43,
+      "flag": false
+    },
+    {
+      "cue": "187",
+      "duration_seconds": 3.8,
+      "hindi_words": 8,
+      "words_per_second": 2.11,
+      "flag": false
+    },
+    {
+      "cue": "188",
+      "duration_seconds": 4.4,
+      "hindi_words": 12,
+      "words_per_second": 2.73,
+      "flag": false
+    },
+    {
+      "cue": "189",
+      "duration_seconds": 5.4,
+      "hindi_words": 9,
+      "words_per_second": 1.67,
+      "flag": false
+    },
+    {
+      "cue": "190",
+      "duration_seconds": 5.08,
+      "hindi_words": 7,
+      "words_per_second": 1.38,
+      "flag": false
+    },
+    {
+      "cue": "191",
+      "duration_seconds": 2.32,
+      "hindi_words": 8,
+      "words_per_second": 3.45,
+      "flag": false
+    },
+    {
+      "cue": "192",
+      "duration_seconds": 1.96,
+      "hindi_words": 7,
+      "words_per_second": 3.57,
+      "flag": false
+    },
+    {
+      "cue": "193",
+      "duration_seconds": 2.32,
+      "hindi_words": 7,
+      "words_per_second": 3.02,
+      "flag": false
+    },
+    {
+      "cue": "194",
+      "duration_seconds": 3.88,
+      "hindi_words": 9,
+      "words_per_second": 2.32,
+      "flag": false
+    },
+    {
+      "cue": "195",
+      "duration_seconds": 2.44,
+      "hindi_words": 6,
+      "words_per_second": 2.46,
+      "flag": false
+    },
+    {
+      "cue": "196",
+      "duration_seconds": 2.76,
+      "hindi_words": 10,
+      "words_per_second": 3.62,
+      "flag": false
+    },
+    {
+      "cue": "197",
+      "duration_seconds": 3.92,
+      "hindi_words": 9,
+      "words_per_second": 2.3,
+      "flag": false
+    },
+    {
+      "cue": "198",
+      "duration_seconds": 2.48,
+      "hindi_words": 10,
+      "words_per_second": 4.03,
+      "flag": false
+    },
+    {
+      "cue": "199",
+      "duration_seconds": 2.32,
+      "hindi_words": 7,
+      "words_per_second": 3.02,
+      "flag": false
+    },
+    {
+      "cue": "200",
+      "duration_seconds": 2.24,
+      "hindi_words": 8,
+      "words_per_second": 3.57,
+      "flag": false
+    },
+    {
+      "cue": "201",
+      "duration_seconds": 3.04,
+      "hindi_words": 8,
+      "words_per_second": 2.63,
+      "flag": false
+    },
+    {
+      "cue": "202",
+      "duration_seconds": 2.2,
+      "hindi_words": 8,
+      "words_per_second": 3.64,
+      "flag": false
+    },
+    {
+      "cue": "203",
+      "duration_seconds": 2.7,
+      "hindi_words": 8,
+      "words_per_second": 2.96,
+      "flag": false
+    },
+    {
+      "cue": "204",
+      "duration_seconds": 6.46,
+      "hindi_words": 11,
+      "words_per_second": 1.7,
+      "flag": false
+    },
+    {
+      "cue": "205",
+      "duration_seconds": 2.8,
+      "hindi_words": 5,
+      "words_per_second": 1.79,
+      "flag": false
+    },
+    {
+      "cue": "206",
+      "duration_seconds": 4.04,
+      "hindi_words": 9,
+      "words_per_second": 2.23,
+      "flag": false
+    },
+    {
+      "cue": "207",
+      "duration_seconds": 2.16,
+      "hindi_words": 7,
+      "words_per_second": 3.24,
+      "flag": false
+    },
+    {
+      "cue": "208",
+      "duration_seconds": 3.12,
+      "hindi_words": 8,
+      "words_per_second": 2.56,
+      "flag": false
+    },
+    {
+      "cue": "209",
+      "duration_seconds": 3.76,
+      "hindi_words": 7,
+      "words_per_second": 1.86,
+      "flag": false
+    },
+    {
+      "cue": "210",
+      "duration_seconds": 1.92,
+      "hindi_words": 9,
+      "words_per_second": 4.69,
+      "flag": false
+    },
+    {
+      "cue": "211",
+      "duration_seconds": 5.36,
+      "hindi_words": 12,
+      "words_per_second": 2.24,
+      "flag": false
+    },
+    {
+      "cue": "212",
+      "duration_seconds": 2.08,
+      "hindi_words": 7,
+      "words_per_second": 3.37,
+      "flag": false
+    },
+    {
+      "cue": "213",
+      "duration_seconds": 1.48,
+      "hindi_words": 6,
+      "words_per_second": 4.05,
+      "flag": false
+    },
+    {
+      "cue": "214",
+      "duration_seconds": 2.6,
+      "hindi_words": 6,
+      "words_per_second": 2.31,
+      "flag": false
+    },
+    {
+      "cue": "215",
+      "duration_seconds": 2.32,
+      "hindi_words": 10,
+      "words_per_second": 4.31,
+      "flag": false
+    },
+    {
+      "cue": "216",
+      "duration_seconds": 3.2,
+      "hindi_words": 9,
+      "words_per_second": 2.81,
+      "flag": false
+    },
+    {
+      "cue": "217",
+      "duration_seconds": 3.92,
+      "hindi_words": 11,
+      "words_per_second": 2.81,
+      "flag": false
+    },
+    {
+      "cue": "218",
+      "duration_seconds": 3.12,
+      "hindi_words": 10,
+      "words_per_second": 3.21,
+      "flag": false
+    },
+    {
+      "cue": "219",
+      "duration_seconds": 4.6,
+      "hindi_words": 9,
+      "words_per_second": 1.96,
+      "flag": false
+    },
+    {
+      "cue": "220",
+      "duration_seconds": 9.16,
+      "hindi_words": 11,
+      "words_per_second": 1.2,
+      "flag": false
+    },
+    {
+      "cue": "221",
+      "duration_seconds": 2.56,
+      "hindi_words": 5,
+      "words_per_second": 1.95,
+      "flag": false
+    },
+    {
+      "cue": "222",
+      "duration_seconds": 3.84,
+      "hindi_words": 4,
+      "words_per_second": 1.04,
+      "flag": false
+    },
+    {
+      "cue": "223",
+      "duration_seconds": 3.52,
+      "hindi_words": 9,
+      "words_per_second": 2.56,
+      "flag": false
+    },
+    {
+      "cue": "224",
+      "duration_seconds": 1.76,
+      "hindi_words": 8,
+      "words_per_second": 4.55,
+      "flag": false
+    },
+    {
+      "cue": "225",
+      "duration_seconds": 3.88,
+      "hindi_words": 10,
+      "words_per_second": 2.58,
+      "flag": false
+    },
+    {
+      "cue": "226",
+      "duration_seconds": 2.28,
+      "hindi_words": 7,
+      "words_per_second": 3.07,
+      "flag": false
+    },
+    {
+      "cue": "227",
+      "duration_seconds": 3.0,
+      "hindi_words": 7,
+      "words_per_second": 2.33,
+      "flag": false
+    },
+    {
+      "cue": "228",
+      "duration_seconds": 5.36,
+      "hindi_words": 8,
+      "words_per_second": 1.49,
+      "flag": false
+    },
+    {
+      "cue": "229",
+      "duration_seconds": 2.68,
+      "hindi_words": 8,
+      "words_per_second": 2.99,
+      "flag": false
+    },
+    {
+      "cue": "230",
+      "duration_seconds": 4.2,
+      "hindi_words": 6,
+      "words_per_second": 1.43,
+      "flag": false
+    },
+    {
+      "cue": "231",
+      "duration_seconds": 3.12,
+      "hindi_words": 4,
+      "words_per_second": 1.28,
+      "flag": false
+    },
+    {
+      "cue": "232",
+      "duration_seconds": 3.56,
+      "hindi_words": 8,
+      "words_per_second": 2.25,
+      "flag": false
+    },
+    {
+      "cue": "233",
+      "duration_seconds": 2.56,
+      "hindi_words": 5,
+      "words_per_second": 1.95,
+      "flag": false
+    },
+    {
+      "cue": "234",
+      "duration_seconds": 3.92,
+      "hindi_words": 11,
+      "words_per_second": 2.81,
+      "flag": false
+    },
+    {
+      "cue": "235",
+      "duration_seconds": 3.48,
+      "hindi_words": 5,
+      "words_per_second": 1.44,
+      "flag": false
+    },
+    {
+      "cue": "236",
+      "duration_seconds": 5.2,
+      "hindi_words": 6,
+      "words_per_second": 1.15,
+      "flag": false
+    },
+    {
+      "cue": "237",
+      "duration_seconds": 2.64,
+      "hindi_words": 8,
+      "words_per_second": 3.03,
+      "flag": false
+    },
+    {
+      "cue": "238",
+      "duration_seconds": 3.24,
+      "hindi_words": 5,
+      "words_per_second": 1.54,
+      "flag": false
+    },
+    {
+      "cue": "239",
+      "duration_seconds": 3.96,
+      "hindi_words": 7,
+      "words_per_second": 1.77,
+      "flag": false
+    },
+    {
+      "cue": "240",
+      "duration_seconds": 2.48,
+      "hindi_words": 8,
+      "words_per_second": 3.23,
+      "flag": false
+    },
+    {
+      "cue": "241",
+      "duration_seconds": 3.56,
+      "hindi_words": 7,
+      "words_per_second": 1.97,
+      "flag": false
+    },
+    {
+      "cue": "242",
+      "duration_seconds": 4.28,
+      "hindi_words": 8,
+      "words_per_second": 1.87,
+      "flag": false
+    },
+    {
+      "cue": "243",
+      "duration_seconds": 3.08,
+      "hindi_words": 10,
+      "words_per_second": 3.25,
+      "flag": false
+    },
+    {
+      "cue": "244",
+      "duration_seconds": 2.92,
+      "hindi_words": 10,
+      "words_per_second": 3.42,
+      "flag": false
+    },
+    {
+      "cue": "245",
+      "duration_seconds": 5.4,
+      "hindi_words": 8,
+      "words_per_second": 1.48,
+      "flag": false
+    },
+    {
+      "cue": "246",
+      "duration_seconds": 3.2,
+      "hindi_words": 8,
+      "words_per_second": 2.5,
+      "flag": false
+    },
+    {
+      "cue": "247",
+      "duration_seconds": 3.68,
+      "hindi_words": 11,
+      "words_per_second": 2.99,
+      "flag": false
+    },
+    {
+      "cue": "248",
+      "duration_seconds": 3.16,
+      "hindi_words": 10,
+      "words_per_second": 3.16,
+      "flag": false
+    },
+    {
+      "cue": "249",
+      "duration_seconds": 1.72,
+      "hindi_words": 5,
+      "words_per_second": 2.91,
+      "flag": false
+    },
+    {
+      "cue": "250",
+      "duration_seconds": 5.32,
+      "hindi_words": 8,
+      "words_per_second": 1.5,
+      "flag": false
+    },
+    {
+      "cue": "251",
+      "duration_seconds": 5.04,
+      "hindi_words": 7,
+      "words_per_second": 1.39,
+      "flag": false
+    },
+    {
+      "cue": "252",
+      "duration_seconds": 3.64,
+      "hindi_words": 9,
+      "words_per_second": 2.47,
+      "flag": false
+    },
+    {
+      "cue": "253",
+      "duration_seconds": 3.44,
+      "hindi_words": 8,
+      "words_per_second": 2.33,
+      "flag": false
+    },
+    {
+      "cue": "254",
+      "duration_seconds": 1.92,
+      "hindi_words": 5,
+      "words_per_second": 2.6,
+      "flag": false
+    },
+    {
+      "cue": "255",
+      "duration_seconds": 4.56,
+      "hindi_words": 8,
+      "words_per_second": 1.75,
+      "flag": false
+    },
+    {
+      "cue": "256",
+      "duration_seconds": 3.44,
+      "hindi_words": 7,
+      "words_per_second": 2.03,
+      "flag": false
+    },
+    {
+      "cue": "257",
+      "duration_seconds": 2.44,
+      "hindi_words": 6,
+      "words_per_second": 2.46,
+      "flag": false
+    },
+    {
+      "cue": "258",
+      "duration_seconds": 2.6,
+      "hindi_words": 4,
+      "words_per_second": 1.54,
+      "flag": false
+    },
+    {
+      "cue": "259",
+      "duration_seconds": 2.44,
+      "hindi_words": 5,
+      "words_per_second": 2.05,
+      "flag": false
+    },
+    {
+      "cue": "260",
+      "duration_seconds": 4.2,
+      "hindi_words": 12,
+      "words_per_second": 2.86,
+      "flag": false
+    },
+    {
+      "cue": "261",
+      "duration_seconds": 2.76,
+      "hindi_words": 5,
+      "words_per_second": 1.81,
+      "flag": false
+    },
+    {
+      "cue": "262",
+      "duration_seconds": 4.04,
+      "hindi_words": 9,
+      "words_per_second": 2.23,
+      "flag": false
+    },
+    {
+      "cue": "263",
+      "duration_seconds": 2.64,
+      "hindi_words": 9,
+      "words_per_second": 3.41,
+      "flag": false
+    },
+    {
+      "cue": "264",
+      "duration_seconds": 5.04,
+      "hindi_words": 13,
+      "words_per_second": 2.58,
+      "flag": false
+    },
+    {
+      "cue": "265",
+      "duration_seconds": 2.2,
+      "hindi_words": 7,
+      "words_per_second": 3.18,
+      "flag": false
+    },
+    {
+      "cue": "266",
+      "duration_seconds": 4.0,
+      "hindi_words": 8,
+      "words_per_second": 2.0,
+      "flag": false
+    },
+    {
+      "cue": "267",
+      "duration_seconds": 3.72,
+      "hindi_words": 7,
+      "words_per_second": 1.88,
+      "flag": false
+    },
+    {
+      "cue": "268",
+      "duration_seconds": 3.24,
+      "hindi_words": 5,
+      "words_per_second": 1.54,
+      "flag": false
+    },
+    {
+      "cue": "269",
+      "duration_seconds": 2.36,
+      "hindi_words": 7,
+      "words_per_second": 2.97,
+      "flag": false
+    },
+    {
+      "cue": "270",
+      "duration_seconds": 3.52,
+      "hindi_words": 7,
+      "words_per_second": 1.99,
+      "flag": false
+    },
+    {
+      "cue": "271",
+      "duration_seconds": 4.32,
+      "hindi_words": 6,
+      "words_per_second": 1.39,
+      "flag": false
+    },
+    {
+      "cue": "272",
+      "duration_seconds": 2.04,
+      "hindi_words": 4,
+      "words_per_second": 1.96,
+      "flag": false
+    },
+    {
+      "cue": "273",
+      "duration_seconds": 4.6,
+      "hindi_words": 7,
+      "words_per_second": 1.52,
+      "flag": false
+    },
+    {
+      "cue": "274",
+      "duration_seconds": 1.96,
+      "hindi_words": 7,
+      "words_per_second": 3.57,
+      "flag": false
+    },
+    {
+      "cue": "275",
+      "duration_seconds": 3.0,
+      "hindi_words": 9,
+      "words_per_second": 3.0,
+      "flag": false
+    },
+    {
+      "cue": "276",
+      "duration_seconds": 1.68,
+      "hindi_words": 7,
+      "words_per_second": 4.17,
+      "flag": false
+    },
+    {
+      "cue": "277",
+      "duration_seconds": 4.2,
+      "hindi_words": 6,
+      "words_per_second": 1.43,
+      "flag": false
+    },
+    {
+      "cue": "278",
+      "duration_seconds": 2.24,
+      "hindi_words": 5,
+      "words_per_second": 2.23,
+      "flag": false
+    },
+    {
+      "cue": "279",
+      "duration_seconds": 3.28,
+      "hindi_words": 10,
+      "words_per_second": 3.05,
+      "flag": false
+    },
+    {
+      "cue": "280",
+      "duration_seconds": 2.16,
+      "hindi_words": 6,
+      "words_per_second": 2.78,
+      "flag": false
+    },
+    {
+      "cue": "281",
+      "duration_seconds": 5.28,
+      "hindi_words": 9,
+      "words_per_second": 1.7,
+      "flag": false
+    },
+    {
+      "cue": "282",
+      "duration_seconds": 3.0,
+      "hindi_words": 9,
+      "words_per_second": 3.0,
+      "flag": false
+    },
+    {
+      "cue": "283",
+      "duration_seconds": 2.08,
+      "hindi_words": 7,
+      "words_per_second": 3.37,
+      "flag": false
+    },
+    {
+      "cue": "284",
+      "duration_seconds": 3.24,
+      "hindi_words": 8,
+      "words_per_second": 2.47,
+      "flag": false
+    },
+    {
+      "cue": "285",
+      "duration_seconds": 1.92,
+      "hindi_words": 8,
+      "words_per_second": 4.17,
+      "flag": false
+    },
+    {
+      "cue": "286",
+      "duration_seconds": 1.96,
+      "hindi_words": 10,
+      "words_per_second": 5.1,
+      "flag": false
+    },
+    {
+      "cue": "287",
+      "duration_seconds": 1.96,
+      "hindi_words": 10,
+      "words_per_second": 5.1,
+      "flag": false
+    },
+    {
+      "cue": "288",
+      "duration_seconds": 3.84,
+      "hindi_words": 9,
+      "words_per_second": 2.34,
+      "flag": false
+    },
+    {
+      "cue": "289",
+      "duration_seconds": 3.44,
+      "hindi_words": 9,
+      "words_per_second": 2.62,
+      "flag": false
+    },
+    {
+      "cue": "290",
+      "duration_seconds": 2.16,
+      "hindi_words": 6,
+      "words_per_second": 2.78,
+      "flag": false
+    },
+    {
+      "cue": "291",
+      "duration_seconds": 4.12,
+      "hindi_words": 6,
+      "words_per_second": 1.46,
+      "flag": false
+    },
+    {
+      "cue": "292",
+      "duration_seconds": 4.16,
+      "hindi_words": 10,
+      "words_per_second": 2.4,
+      "flag": false
+    },
+    {
+      "cue": "293",
+      "duration_seconds": 4.72,
+      "hindi_words": 5,
+      "words_per_second": 1.06,
+      "flag": false
+    },
+    {
+      "cue": "294",
+      "duration_seconds": 3.72,
+      "hindi_words": 7,
+      "words_per_second": 1.88,
+      "flag": false
+    },
+    {
+      "cue": "295",
+      "duration_seconds": 2.84,
+      "hindi_words": 10,
+      "words_per_second": 3.52,
+      "flag": false
+    },
+    {
+      "cue": "296",
+      "duration_seconds": 4.84,
+      "hindi_words": 6,
+      "words_per_second": 1.24,
+      "flag": false
+    },
+    {
+      "cue": "297",
+      "duration_seconds": 2.98,
+      "hindi_words": 8,
+      "words_per_second": 2.68,
+      "flag": false
+    },
+    {
+      "cue": "298",
+      "duration_seconds": 1.64,
+      "hindi_words": 5,
+      "words_per_second": 3.05,
+      "flag": false
+    },
+    {
+      "cue": "299",
+      "duration_seconds": 1.84,
+      "hindi_words": 8,
+      "words_per_second": 4.35,
+      "flag": false
+    },
+    {
+      "cue": "300",
+      "duration_seconds": 1.6,
+      "hindi_words": 7,
+      "words_per_second": 4.38,
+      "flag": false
+    },
+    {
+      "cue": "301",
+      "duration_seconds": 1.86,
+      "hindi_words": 9,
+      "words_per_second": 4.84,
+      "flag": false
+    },
+    {
+      "cue": "302",
+      "duration_seconds": 2.08,
+      "hindi_words": 5,
+      "words_per_second": 2.4,
+      "flag": false
+    },
+    {
+      "cue": "303",
+      "duration_seconds": 2.64,
+      "hindi_words": 9,
+      "words_per_second": 3.41,
+      "flag": false
+    },
+    {
+      "cue": "304",
+      "duration_seconds": 4.6,
+      "hindi_words": 8,
+      "words_per_second": 1.74,
+      "flag": false
+    },
+    {
+      "cue": "305",
+      "duration_seconds": 3.44,
+      "hindi_words": 10,
+      "words_per_second": 2.91,
+      "flag": false
+    },
+    {
+      "cue": "306",
+      "duration_seconds": 1.72,
+      "hindi_words": 9,
+      "words_per_second": 5.23,
+      "flag": false
+    },
+    {
+      "cue": "307",
+      "duration_seconds": 3.56,
+      "hindi_words": 9,
+      "words_per_second": 2.53,
+      "flag": false
+    },
+    {
+      "cue": "308",
+      "duration_seconds": 3.4,
+      "hindi_words": 10,
+      "words_per_second": 2.94,
+      "flag": false
+    },
+    {
+      "cue": "309",
+      "duration_seconds": 3.0,
+      "hindi_words": 11,
+      "words_per_second": 3.67,
+      "flag": false
+    },
+    {
+      "cue": "310",
+      "duration_seconds": 5.68,
+      "hindi_words": 10,
+      "words_per_second": 1.76,
+      "flag": false
+    },
+    {
+      "cue": "311",
+      "duration_seconds": 2.76,
+      "hindi_words": 10,
+      "words_per_second": 3.62,
+      "flag": false
+    },
+    {
+      "cue": "312",
+      "duration_seconds": 5.6,
+      "hindi_words": 10,
+      "words_per_second": 1.79,
+      "flag": false
+    },
+    {
+      "cue": "313",
+      "duration_seconds": 3.92,
+      "hindi_words": 9,
+      "words_per_second": 2.3,
+      "flag": false
+    },
+    {
+      "cue": "314",
+      "duration_seconds": 3.04,
+      "hindi_words": 5,
+      "words_per_second": 1.64,
+      "flag": false
+    },
+    {
+      "cue": "315",
+      "duration_seconds": 5.2,
+      "hindi_words": 9,
+      "words_per_second": 1.73,
+      "flag": false
+    },
+    {
+      "cue": "316",
+      "duration_seconds": 2.96,
+      "hindi_words": 6,
+      "words_per_second": 2.03,
+      "flag": false
+    },
+    {
+      "cue": "317",
+      "duration_seconds": 2.52,
+      "hindi_words": 5,
+      "words_per_second": 1.98,
+      "flag": false
+    },
+    {
+      "cue": "318",
+      "duration_seconds": 4.48,
+      "hindi_words": 9,
+      "words_per_second": 2.01,
+      "flag": false
+    },
+    {
+      "cue": "319",
+      "duration_seconds": 1.6,
+      "hindi_words": 5,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "320",
+      "duration_seconds": 5.72,
+      "hindi_words": 10,
+      "words_per_second": 1.75,
+      "flag": false
+    },
+    {
+      "cue": "321",
+      "duration_seconds": 4.0,
+      "hindi_words": 5,
+      "words_per_second": 1.25,
+      "flag": false
+    },
+    {
+      "cue": "322",
+      "duration_seconds": 5.04,
+      "hindi_words": 9,
+      "words_per_second": 1.79,
+      "flag": false
+    },
+    {
+      "cue": "323",
+      "duration_seconds": 5.2,
+      "hindi_words": 13,
+      "words_per_second": 2.5,
+      "flag": false
+    },
+    {
+      "cue": "324",
+      "duration_seconds": 4.44,
+      "hindi_words": 9,
+      "words_per_second": 2.03,
+      "flag": false
+    },
+    {
+      "cue": "325",
+      "duration_seconds": 1.84,
+      "hindi_words": 9,
+      "words_per_second": 4.89,
+      "flag": false
+    },
+    {
+      "cue": "326",
+      "duration_seconds": 1.96,
+      "hindi_words": 6,
+      "words_per_second": 3.06,
+      "flag": false
+    },
+    {
+      "cue": "327",
+      "duration_seconds": 3.4,
+      "hindi_words": 11,
+      "words_per_second": 3.24,
+      "flag": false
+    },
+    {
+      "cue": "328",
+      "duration_seconds": 5.4,
+      "hindi_words": 10,
+      "words_per_second": 1.85,
+      "flag": false
+    },
+    {
+      "cue": "329",
+      "duration_seconds": 2.36,
+      "hindi_words": 8,
+      "words_per_second": 3.39,
+      "flag": false
+    },
+    {
+      "cue": "330",
+      "duration_seconds": 2.32,
+      "hindi_words": 7,
+      "words_per_second": 3.02,
+      "flag": false
+    },
+    {
+      "cue": "331",
+      "duration_seconds": 2.76,
+      "hindi_words": 7,
+      "words_per_second": 2.54,
+      "flag": false
+    },
+    {
+      "cue": "332",
+      "duration_seconds": 5.28,
+      "hindi_words": 9,
+      "words_per_second": 1.7,
+      "flag": false
+    },
+    {
+      "cue": "333",
+      "duration_seconds": 6.04,
+      "hindi_words": 11,
+      "words_per_second": 1.82,
+      "flag": false
+    },
+    {
+      "cue": "334",
+      "duration_seconds": 4.44,
+      "hindi_words": 7,
+      "words_per_second": 1.58,
+      "flag": false
+    },
+    {
+      "cue": "335",
+      "duration_seconds": 3.56,
+      "hindi_words": 8,
+      "words_per_second": 2.25,
+      "flag": false
+    },
+    {
+      "cue": "336",
+      "duration_seconds": 7.0,
+      "hindi_words": 11,
+      "words_per_second": 1.57,
+      "flag": false
+    },
+    {
+      "cue": "337",
+      "duration_seconds": 4.2,
+      "hindi_words": 9,
+      "words_per_second": 2.14,
+      "flag": false
+    },
+    {
+      "cue": "338",
+      "duration_seconds": 5.92,
+      "hindi_words": 8,
+      "words_per_second": 1.35,
+      "flag": false
+    },
+    {
+      "cue": "339",
+      "duration_seconds": 2.84,
+      "hindi_words": 12,
+      "words_per_second": 4.23,
+      "flag": false
+    },
+    {
+      "cue": "340",
+      "duration_seconds": 4.2,
+      "hindi_words": 10,
+      "words_per_second": 2.38,
+      "flag": false
+    },
+    {
+      "cue": "341",
+      "duration_seconds": 2.28,
+      "hindi_words": 8,
+      "words_per_second": 3.51,
+      "flag": false
+    },
+    {
+      "cue": "342",
+      "duration_seconds": 4.28,
+      "hindi_words": 11,
+      "words_per_second": 2.57,
+      "flag": false
+    },
+    {
+      "cue": "343",
+      "duration_seconds": 3.6,
+      "hindi_words": 9,
+      "words_per_second": 2.5,
+      "flag": false
+    },
+    {
+      "cue": "344",
+      "duration_seconds": 2.16,
+      "hindi_words": 11,
+      "words_per_second": 5.09,
+      "flag": false
+    },
+    {
+      "cue": "345",
+      "duration_seconds": 4.84,
+      "hindi_words": 9,
+      "words_per_second": 1.86,
+      "flag": false
+    },
+    {
+      "cue": "346",
+      "duration_seconds": 5.2,
+      "hindi_words": 5,
+      "words_per_second": 0.96,
+      "flag": false
+    },
+    {
+      "cue": "347",
+      "duration_seconds": 1.48,
+      "hindi_words": 7,
+      "words_per_second": 4.73,
+      "flag": false
+    },
+    {
+      "cue": "348",
+      "duration_seconds": 2.92,
+      "hindi_words": 9,
+      "words_per_second": 3.08,
+      "flag": false
+    },
+    {
+      "cue": "349",
+      "duration_seconds": 6.08,
+      "hindi_words": 10,
+      "words_per_second": 1.64,
+      "flag": false
+    },
+    {
+      "cue": "350",
+      "duration_seconds": 4.48,
+      "hindi_words": 7,
+      "words_per_second": 1.56,
+      "flag": false
+    },
+    {
+      "cue": "351",
+      "duration_seconds": 5.96,
+      "hindi_words": 12,
+      "words_per_second": 2.01,
+      "flag": false
+    },
+    {
+      "cue": "352",
+      "duration_seconds": 5.08,
+      "hindi_words": 15,
+      "words_per_second": 2.95,
+      "flag": false
+    },
+    {
+      "cue": "353",
+      "duration_seconds": 4.32,
+      "hindi_words": 9,
+      "words_per_second": 2.08,
+      "flag": false
+    },
+    {
+      "cue": "354",
+      "duration_seconds": 1.96,
+      "hindi_words": 8,
+      "words_per_second": 4.08,
+      "flag": false
+    },
+    {
+      "cue": "355",
+      "duration_seconds": 2.76,
+      "hindi_words": 11,
+      "words_per_second": 3.99,
+      "flag": false
+    },
+    {
+      "cue": "356",
+      "duration_seconds": 2.12,
+      "hindi_words": 8,
+      "words_per_second": 3.77,
+      "flag": false
+    },
+    {
+      "cue": "357",
+      "duration_seconds": 2.52,
+      "hindi_words": 6,
+      "words_per_second": 2.38,
+      "flag": false
+    },
+    {
+      "cue": "358",
+      "duration_seconds": 1.44,
+      "hindi_words": 6,
+      "words_per_second": 4.17,
+      "flag": false
+    },
+    {
+      "cue": "359",
+      "duration_seconds": 2.84,
+      "hindi_words": 9,
+      "words_per_second": 3.17,
+      "flag": false
+    },
+    {
+      "cue": "360",
+      "duration_seconds": 3.28,
+      "hindi_words": 8,
+      "words_per_second": 2.44,
+      "flag": false
+    },
+    {
+      "cue": "361",
+      "duration_seconds": 1.56,
+      "hindi_words": 6,
+      "words_per_second": 3.85,
+      "flag": false
+    },
+    {
+      "cue": "362",
+      "duration_seconds": 1.92,
+      "hindi_words": 6,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "363",
+      "duration_seconds": 6.96,
+      "hindi_words": 12,
+      "words_per_second": 1.72,
+      "flag": false
+    },
+    {
+      "cue": "364",
+      "duration_seconds": 4.28,
+      "hindi_words": 8,
+      "words_per_second": 1.87,
+      "flag": false
+    },
+    {
+      "cue": "365",
+      "duration_seconds": 2.24,
+      "hindi_words": 6,
+      "words_per_second": 2.68,
+      "flag": false
+    },
+    {
+      "cue": "366",
+      "duration_seconds": 3.64,
+      "hindi_words": 10,
+      "words_per_second": 2.75,
+      "flag": false
+    },
+    {
+      "cue": "367",
+      "duration_seconds": 2.84,
+      "hindi_words": 7,
+      "words_per_second": 2.46,
+      "flag": false
+    },
+    {
+      "cue": "368",
+      "duration_seconds": 2.04,
+      "hindi_words": 6,
+      "words_per_second": 2.94,
+      "flag": false
+    },
+    {
+      "cue": "369",
+      "duration_seconds": 5.96,
+      "hindi_words": 10,
+      "words_per_second": 1.68,
+      "flag": false
+    },
+    {
+      "cue": "370",
+      "duration_seconds": 3.32,
+      "hindi_words": 8,
+      "words_per_second": 2.41,
+      "flag": false
+    },
+    {
+      "cue": "371",
+      "duration_seconds": 1.88,
+      "hindi_words": 5,
+      "words_per_second": 2.66,
+      "flag": false
+    },
+    {
+      "cue": "372",
+      "duration_seconds": 4.2,
+      "hindi_words": 7,
+      "words_per_second": 1.67,
+      "flag": false
+    },
+    {
+      "cue": "373",
+      "duration_seconds": 5.64,
+      "hindi_words": 12,
+      "words_per_second": 2.13,
+      "flag": false
+    },
+    {
+      "cue": "374",
+      "duration_seconds": 2.84,
+      "hindi_words": 8,
+      "words_per_second": 2.82,
+      "flag": false
+    },
+    {
+      "cue": "375",
+      "duration_seconds": 4.44,
+      "hindi_words": 9,
+      "words_per_second": 2.03,
+      "flag": false
+    },
+    {
+      "cue": "376",
+      "duration_seconds": 3.64,
+      "hindi_words": 9,
+      "words_per_second": 2.47,
+      "flag": false
+    },
+    {
+      "cue": "377",
+      "duration_seconds": 3.04,
+      "hindi_words": 5,
+      "words_per_second": 1.64,
+      "flag": false
+    },
+    {
+      "cue": "378",
+      "duration_seconds": 3.8,
+      "hindi_words": 5,
+      "words_per_second": 1.32,
+      "flag": false
+    },
+    {
+      "cue": "379",
+      "duration_seconds": 1.36,
+      "hindi_words": 5,
+      "words_per_second": 3.68,
+      "flag": false
+    },
+    {
+      "cue": "380",
+      "duration_seconds": 3.52,
+      "hindi_words": 9,
+      "words_per_second": 2.56,
+      "flag": false
+    },
+    {
+      "cue": "381",
+      "duration_seconds": 3.76,
+      "hindi_words": 7,
+      "words_per_second": 1.86,
+      "flag": false
+    },
+    {
+      "cue": "382",
+      "duration_seconds": 3.48,
+      "hindi_words": 6,
+      "words_per_second": 1.72,
+      "flag": false
+    },
+    {
+      "cue": "383",
+      "duration_seconds": 2.8,
+      "hindi_words": 5,
+      "words_per_second": 1.79,
+      "flag": false
+    },
+    {
+      "cue": "384",
+      "duration_seconds": 3.2,
+      "hindi_words": 7,
+      "words_per_second": 2.19,
+      "flag": false
+    },
+    {
+      "cue": "385",
+      "duration_seconds": 2.04,
+      "hindi_words": 6,
+      "words_per_second": 2.94,
+      "flag": false
+    },
+    {
+      "cue": "386",
+      "duration_seconds": 5.56,
+      "hindi_words": 7,
+      "words_per_second": 1.26,
+      "flag": false
+    },
+    {
+      "cue": "387",
+      "duration_seconds": 2.56,
+      "hindi_words": 9,
+      "words_per_second": 3.52,
+      "flag": false
+    },
+    {
+      "cue": "388",
+      "duration_seconds": 4.28,
+      "hindi_words": 6,
+      "words_per_second": 1.4,
+      "flag": false
+    },
+    {
+      "cue": "389",
+      "duration_seconds": 3.8,
+      "hindi_words": 10,
+      "words_per_second": 2.63,
+      "flag": false
+    },
+    {
+      "cue": "390",
+      "duration_seconds": 4.76,
+      "hindi_words": 7,
+      "words_per_second": 1.47,
+      "flag": false
+    },
+    {
+      "cue": "391",
+      "duration_seconds": 2.28,
+      "hindi_words": 7,
+      "words_per_second": 3.07,
+      "flag": false
+    },
+    {
+      "cue": "392",
+      "duration_seconds": 2.92,
+      "hindi_words": 8,
+      "words_per_second": 2.74,
+      "flag": false
+    },
+    {
+      "cue": "393",
+      "duration_seconds": 3.0,
+      "hindi_words": 5,
+      "words_per_second": 1.67,
+      "flag": false
+    },
+    {
+      "cue": "394",
+      "duration_seconds": 3.88,
+      "hindi_words": 7,
+      "words_per_second": 1.8,
+      "flag": false
+    },
+    {
+      "cue": "395",
+      "duration_seconds": 7.16,
+      "hindi_words": 7,
+      "words_per_second": 0.98,
+      "flag": false
+    },
+    {
+      "cue": "396",
+      "duration_seconds": 6.88,
+      "hindi_words": 8,
+      "words_per_second": 1.16,
+      "flag": false
+    },
+    {
+      "cue": "397",
+      "duration_seconds": 2.64,
+      "hindi_words": 6,
+      "words_per_second": 2.27,
+      "flag": false
+    },
+    {
+      "cue": "398",
+      "duration_seconds": 4.24,
+      "hindi_words": 4,
+      "words_per_second": 0.94,
+      "flag": false
+    },
+    {
+      "cue": "399",
+      "duration_seconds": 2.6,
+      "hindi_words": 9,
+      "words_per_second": 3.46,
+      "flag": false
+    },
+    {
+      "cue": "400",
+      "duration_seconds": 1.84,
+      "hindi_words": 6,
+      "words_per_second": 3.26,
+      "flag": false
+    },
+    {
+      "cue": "401",
+      "duration_seconds": 3.36,
+      "hindi_words": 10,
+      "words_per_second": 2.98,
+      "flag": false
+    },
+    {
+      "cue": "402",
+      "duration_seconds": 2.04,
+      "hindi_words": 7,
+      "words_per_second": 3.43,
+      "flag": false
+    },
+    {
+      "cue": "403",
+      "duration_seconds": 1.72,
+      "hindi_words": 6,
+      "words_per_second": 3.49,
+      "flag": false
+    },
+    {
+      "cue": "404",
+      "duration_seconds": 3.24,
+      "hindi_words": 10,
+      "words_per_second": 3.09,
+      "flag": false
+    },
+    {
+      "cue": "405",
+      "duration_seconds": 3.52,
+      "hindi_words": 8,
+      "words_per_second": 2.27,
+      "flag": false
+    },
+    {
+      "cue": "406",
+      "duration_seconds": 3.92,
+      "hindi_words": 11,
+      "words_per_second": 2.81,
+      "flag": false
+    },
+    {
+      "cue": "407",
+      "duration_seconds": 2.08,
+      "hindi_words": 3,
+      "words_per_second": 1.44,
+      "flag": false
+    },
+    {
+      "cue": "408",
+      "duration_seconds": 2.56,
+      "hindi_words": 5,
+      "words_per_second": 1.95,
+      "flag": false
+    },
+    {
+      "cue": "409",
+      "duration_seconds": 4.56,
+      "hindi_words": 9,
+      "words_per_second": 1.97,
+      "flag": false
+    },
+    {
+      "cue": "410",
+      "duration_seconds": 3.72,
+      "hindi_words": 7,
+      "words_per_second": 1.88,
+      "flag": false
+    },
+    {
+      "cue": "411",
+      "duration_seconds": 4.6,
+      "hindi_words": 12,
+      "words_per_second": 2.61,
+      "flag": false
+    },
+    {
+      "cue": "412",
+      "duration_seconds": 2.84,
+      "hindi_words": 8,
+      "words_per_second": 2.82,
+      "flag": false
+    },
+    {
+      "cue": "413",
+      "duration_seconds": 4.48,
+      "hindi_words": 12,
+      "words_per_second": 2.68,
+      "flag": false
+    },
+    {
+      "cue": "414",
+      "duration_seconds": 2.36,
+      "hindi_words": 6,
+      "words_per_second": 2.54,
+      "flag": false
+    },
+    {
+      "cue": "415",
+      "duration_seconds": 4.0,
+      "hindi_words": 8,
+      "words_per_second": 2.0,
+      "flag": false
+    },
+    {
+      "cue": "416",
+      "duration_seconds": 2.36,
+      "hindi_words": 8,
+      "words_per_second": 3.39,
+      "flag": false
+    },
+    {
+      "cue": "417",
+      "duration_seconds": 2.48,
+      "hindi_words": 8,
+      "words_per_second": 3.23,
+      "flag": false
+    },
+    {
+      "cue": "418",
+      "duration_seconds": 6.0,
+      "hindi_words": 8,
+      "words_per_second": 1.33,
+      "flag": false
+    },
+    {
+      "cue": "419",
+      "duration_seconds": 4.64,
+      "hindi_words": 11,
+      "words_per_second": 2.37,
+      "flag": false
+    },
+    {
+      "cue": "420",
+      "duration_seconds": 2.64,
+      "hindi_words": 13,
+      "words_per_second": 4.92,
+      "flag": false
+    },
+    {
+      "cue": "421",
+      "duration_seconds": 2.04,
+      "hindi_words": 7,
+      "words_per_second": 3.43,
+      "flag": false
+    },
+    {
+      "cue": "422",
+      "duration_seconds": 3.24,
+      "hindi_words": 8,
+      "words_per_second": 2.47,
+      "flag": false
+    },
+    {
+      "cue": "423",
+      "duration_seconds": 3.24,
+      "hindi_words": 9,
+      "words_per_second": 2.78,
+      "flag": false
+    },
+    {
+      "cue": "424",
+      "duration_seconds": 2.6,
+      "hindi_words": 7,
+      "words_per_second": 2.69,
+      "flag": false
+    },
+    {
+      "cue": "425",
+      "duration_seconds": 3.0,
+      "hindi_words": 9,
+      "words_per_second": 3.0,
+      "flag": false
+    },
+    {
+      "cue": "426",
+      "duration_seconds": 3.72,
+      "hindi_words": 9,
+      "words_per_second": 2.42,
+      "flag": false
+    },
+    {
+      "cue": "427",
+      "duration_seconds": 7.4,
+      "hindi_words": 13,
+      "words_per_second": 1.76,
+      "flag": false
+    },
+    {
+      "cue": "428",
+      "duration_seconds": 2.56,
+      "hindi_words": 8,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "429",
+      "duration_seconds": 3.8,
+      "hindi_words": 7,
+      "words_per_second": 1.84,
+      "flag": false
+    },
+    {
+      "cue": "430",
+      "duration_seconds": 3.56,
+      "hindi_words": 9,
+      "words_per_second": 2.53,
+      "flag": false
+    },
+    {
+      "cue": "431",
+      "duration_seconds": 3.4,
+      "hindi_words": 9,
+      "words_per_second": 2.65,
+      "flag": false
+    },
+    {
+      "cue": "432",
+      "duration_seconds": 4.64,
+      "hindi_words": 13,
+      "words_per_second": 2.8,
+      "flag": false
+    },
+    {
+      "cue": "433",
+      "duration_seconds": 3.04,
+      "hindi_words": 5,
+      "words_per_second": 1.64,
+      "flag": false
+    },
+    {
+      "cue": "434",
+      "duration_seconds": 4.8,
+      "hindi_words": 8,
+      "words_per_second": 1.67,
+      "flag": false
+    },
+    {
+      "cue": "435",
+      "duration_seconds": 3.92,
+      "hindi_words": 11,
+      "words_per_second": 2.81,
+      "flag": false
+    },
+    {
+      "cue": "436",
+      "duration_seconds": 1.92,
+      "hindi_words": 7,
+      "words_per_second": 3.65,
+      "flag": false
+    },
+    {
+      "cue": "437",
+      "duration_seconds": 2.4,
+      "hindi_words": 7,
+      "words_per_second": 2.92,
+      "flag": false
+    },
+    {
+      "cue": "438",
+      "duration_seconds": 2.64,
+      "hindi_words": 10,
+      "words_per_second": 3.79,
+      "flag": false
+    },
+    {
+      "cue": "439",
+      "duration_seconds": 3.16,
+      "hindi_words": 13,
+      "words_per_second": 4.11,
+      "flag": false
+    },
+    {
+      "cue": "440",
+      "duration_seconds": 2.76,
+      "hindi_words": 8,
+      "words_per_second": 2.9,
+      "flag": false
+    },
+    {
+      "cue": "441",
+      "duration_seconds": 4.44,
+      "hindi_words": 7,
+      "words_per_second": 1.58,
+      "flag": false
+    },
+    {
+      "cue": "442",
+      "duration_seconds": 2.64,
+      "hindi_words": 7,
+      "words_per_second": 2.65,
+      "flag": false
+    },
+    {
+      "cue": "443",
+      "duration_seconds": 2.68,
+      "hindi_words": 9,
+      "words_per_second": 3.36,
+      "flag": false
+    },
+    {
+      "cue": "444",
+      "duration_seconds": 3.04,
+      "hindi_words": 13,
+      "words_per_second": 4.28,
+      "flag": false
+    },
+    {
+      "cue": "445",
+      "duration_seconds": 2.56,
+      "hindi_words": 11,
+      "words_per_second": 4.3,
+      "flag": false
+    },
+    {
+      "cue": "446",
+      "duration_seconds": 3.6,
+      "hindi_words": 10,
+      "words_per_second": 2.78,
+      "flag": false
+    },
+    {
+      "cue": "447",
+      "duration_seconds": 2.88,
+      "hindi_words": 7,
+      "words_per_second": 2.43,
+      "flag": false
+    },
+    {
+      "cue": "448",
+      "duration_seconds": 4.52,
+      "hindi_words": 12,
+      "words_per_second": 2.65,
+      "flag": false
+    },
+    {
+      "cue": "449",
+      "duration_seconds": 2.24,
+      "hindi_words": 8,
+      "words_per_second": 3.57,
+      "flag": false
+    },
+    {
+      "cue": "450",
+      "duration_seconds": 5.04,
+      "hindi_words": 8,
+      "words_per_second": 1.59,
+      "flag": false
+    },
+    {
+      "cue": "451",
+      "duration_seconds": 1.68,
+      "hindi_words": 7,
+      "words_per_second": 4.17,
+      "flag": false
+    },
+    {
+      "cue": "452",
+      "duration_seconds": 2.84,
+      "hindi_words": 11,
+      "words_per_second": 3.87,
+      "flag": false
+    },
+    {
+      "cue": "453",
+      "duration_seconds": 3.88,
+      "hindi_words": 10,
+      "words_per_second": 2.58,
+      "flag": false
+    },
+    {
+      "cue": "454",
+      "duration_seconds": 1.08,
+      "hindi_words": 5,
+      "words_per_second": 4.63,
+      "flag": false
+    },
+    {
+      "cue": "455",
+      "duration_seconds": 5.6,
+      "hindi_words": 10,
+      "words_per_second": 1.79,
+      "flag": false
+    },
+    {
+      "cue": "456",
+      "duration_seconds": 1.12,
+      "hindi_words": 4,
+      "words_per_second": 3.57,
+      "flag": false
+    },
+    {
+      "cue": "457",
+      "duration_seconds": 5.08,
+      "hindi_words": 7,
+      "words_per_second": 1.38,
+      "flag": false
+    },
+    {
+      "cue": "458",
+      "duration_seconds": 4.64,
+      "hindi_words": 6,
+      "words_per_second": 1.29,
+      "flag": false
+    },
+    {
+      "cue": "459",
+      "duration_seconds": 4.16,
+      "hindi_words": 9,
+      "words_per_second": 2.16,
+      "flag": false
+    },
+    {
+      "cue": "460",
+      "duration_seconds": 2.36,
+      "hindi_words": 10,
+      "words_per_second": 4.24,
+      "flag": false
+    },
+    {
+      "cue": "461",
+      "duration_seconds": 3.64,
+      "hindi_words": 15,
+      "words_per_second": 4.12,
+      "flag": false
+    },
+    {
+      "cue": "462",
+      "duration_seconds": 2.48,
+      "hindi_words": 12,
+      "words_per_second": 4.84,
+      "flag": false
+    },
+    {
+      "cue": "463",
+      "duration_seconds": 2.68,
+      "hindi_words": 9,
+      "words_per_second": 3.36,
+      "flag": false
+    },
+    {
+      "cue": "464",
+      "duration_seconds": 2.08,
+      "hindi_words": 8,
+      "words_per_second": 3.85,
+      "flag": false
+    },
+    {
+      "cue": "465",
+      "duration_seconds": 2.6,
+      "hindi_words": 10,
+      "words_per_second": 3.85,
+      "flag": false
+    },
+    {
+      "cue": "466",
+      "duration_seconds": 2.64,
+      "hindi_words": 8,
+      "words_per_second": 3.03,
+      "flag": false
+    },
+    {
+      "cue": "467",
+      "duration_seconds": 2.4,
+      "hindi_words": 6,
+      "words_per_second": 2.5,
+      "flag": false
+    },
+    {
+      "cue": "468",
+      "duration_seconds": 0.96,
+      "hindi_words": 4,
+      "words_per_second": 4.17,
+      "flag": false
+    },
+    {
+      "cue": "469",
+      "duration_seconds": 1.68,
+      "hindi_words": 5,
+      "words_per_second": 2.98,
+      "flag": false
+    },
+    {
+      "cue": "470",
+      "duration_seconds": 3.48,
+      "hindi_words": 11,
+      "words_per_second": 3.16,
+      "flag": false
+    },
+    {
+      "cue": "471",
+      "duration_seconds": 2.52,
+      "hindi_words": 11,
+      "words_per_second": 4.37,
+      "flag": false
+    },
+    {
+      "cue": "472",
+      "duration_seconds": 1.68,
+      "hindi_words": 7,
+      "words_per_second": 4.17,
+      "flag": false
+    },
+    {
+      "cue": "473",
+      "duration_seconds": 2.4,
+      "hindi_words": 9,
+      "words_per_second": 3.75,
+      "flag": false
+    },
+    {
+      "cue": "474",
+      "duration_seconds": 1.24,
+      "hindi_words": 4,
+      "words_per_second": 3.23,
+      "flag": false
+    },
+    {
+      "cue": "475",
+      "duration_seconds": 3.44,
+      "hindi_words": 10,
+      "words_per_second": 2.91,
+      "flag": false
+    },
+    {
+      "cue": "476",
+      "duration_seconds": 3.2,
+      "hindi_words": 11,
+      "words_per_second": 3.44,
+      "flag": false
+    },
+    {
+      "cue": "477",
+      "duration_seconds": 2.64,
+      "hindi_words": 8,
+      "words_per_second": 3.03,
+      "flag": false
+    },
+    {
+      "cue": "478",
+      "duration_seconds": 11.6,
+      "hindi_words": 11,
+      "words_per_second": 0.95,
+      "flag": false
+    },
+    {
+      "cue": "479",
+      "duration_seconds": 4.12,
+      "hindi_words": 11,
+      "words_per_second": 2.67,
+      "flag": false
+    },
+    {
+      "cue": "480",
+      "duration_seconds": 3.8,
+      "hindi_words": 8,
+      "words_per_second": 2.11,
+      "flag": false
+    },
+    {
+      "cue": "481",
+      "duration_seconds": 3.16,
+      "hindi_words": 12,
+      "words_per_second": 3.8,
+      "flag": false
+    },
+    {
+      "cue": "482",
+      "duration_seconds": 3.48,
+      "hindi_words": 7,
+      "words_per_second": 2.01,
+      "flag": false
+    },
+    {
+      "cue": "483",
+      "duration_seconds": 3.64,
+      "hindi_words": 4,
+      "words_per_second": 1.1,
+      "flag": false
+    },
+    {
+      "cue": "484",
+      "duration_seconds": 1.64,
+      "hindi_words": 4,
+      "words_per_second": 2.44,
+      "flag": false
+    },
+    {
+      "cue": "485",
+      "duration_seconds": 2.56,
+      "hindi_words": 8,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "486",
+      "duration_seconds": 5.04,
+      "hindi_words": 12,
+      "words_per_second": 2.38,
+      "flag": false
+    },
+    {
+      "cue": "487",
+      "duration_seconds": 3.32,
+      "hindi_words": 11,
+      "words_per_second": 3.31,
+      "flag": false
+    },
+    {
+      "cue": "488",
+      "duration_seconds": 3.36,
+      "hindi_words": 10,
+      "words_per_second": 2.98,
+      "flag": false
+    },
+    {
+      "cue": "489",
+      "duration_seconds": 6.2,
+      "hindi_words": 9,
+      "words_per_second": 1.45,
+      "flag": false
+    },
+    {
+      "cue": "490",
+      "duration_seconds": 5.72,
+      "hindi_words": 11,
+      "words_per_second": 1.92,
+      "flag": false
+    },
+    {
+      "cue": "491",
+      "duration_seconds": 2.84,
+      "hindi_words": 10,
+      "words_per_second": 3.52,
+      "flag": false
+    },
+    {
+      "cue": "492",
+      "duration_seconds": 4.2,
+      "hindi_words": 11,
+      "words_per_second": 2.62,
+      "flag": false
+    },
+    {
+      "cue": "493",
+      "duration_seconds": 2.08,
+      "hindi_words": 8,
+      "words_per_second": 3.85,
+      "flag": false
+    },
+    {
+      "cue": "494",
+      "duration_seconds": 1.48,
+      "hindi_words": 8,
+      "words_per_second": 5.41,
+      "flag": false
+    },
+    {
+      "cue": "495",
+      "duration_seconds": 1.84,
+      "hindi_words": 8,
+      "words_per_second": 4.35,
+      "flag": false
+    },
+    {
+      "cue": "496",
+      "duration_seconds": 3.96,
+      "hindi_words": 11,
+      "words_per_second": 2.78,
+      "flag": false
+    },
+    {
+      "cue": "497",
+      "duration_seconds": 4.12,
+      "hindi_words": 6,
+      "words_per_second": 1.46,
+      "flag": false
+    },
+    {
+      "cue": "498",
+      "duration_seconds": 4.4,
+      "hindi_words": 3,
+      "words_per_second": 0.68,
+      "flag": false
+    },
+    {
+      "cue": "499",
+      "duration_seconds": 3.76,
+      "hindi_words": 6,
+      "words_per_second": 1.6,
+      "flag": false
+    },
+    {
+      "cue": "500",
+      "duration_seconds": 3.24,
+      "hindi_words": 8,
+      "words_per_second": 2.47,
+      "flag": false
+    },
+    {
+      "cue": "501",
+      "duration_seconds": 1.28,
+      "hindi_words": 5,
+      "words_per_second": 3.91,
+      "flag": false
+    },
+    {
+      "cue": "502",
+      "duration_seconds": 1.28,
+      "hindi_words": 7,
+      "words_per_second": 5.47,
+      "flag": false
+    },
+    {
+      "cue": "503",
+      "duration_seconds": 1.52,
+      "hindi_words": 4,
+      "words_per_second": 2.63,
+      "flag": false
+    },
+    {
+      "cue": "504",
+      "duration_seconds": 2.72,
+      "hindi_words": 7,
+      "words_per_second": 2.57,
+      "flag": false
+    },
+    {
+      "cue": "505",
+      "duration_seconds": 2.72,
+      "hindi_words": 7,
+      "words_per_second": 2.57,
+      "flag": false
+    },
+    {
+      "cue": "506",
+      "duration_seconds": 7.68,
+      "hindi_words": 15,
+      "words_per_second": 1.95,
+      "flag": false
+    },
+    {
+      "cue": "507",
+      "duration_seconds": 4.76,
+      "hindi_words": 10,
+      "words_per_second": 2.1,
+      "flag": false
+    },
+    {
+      "cue": "508",
+      "duration_seconds": 1.44,
+      "hindi_words": 6,
+      "words_per_second": 4.17,
+      "flag": false
+    },
+    {
+      "cue": "509",
+      "duration_seconds": 2.96,
+      "hindi_words": 8,
+      "words_per_second": 2.7,
+      "flag": false
+    },
+    {
+      "cue": "510",
+      "duration_seconds": 3.68,
+      "hindi_words": 5,
+      "words_per_second": 1.36,
+      "flag": false
+    },
+    {
+      "cue": "511",
+      "duration_seconds": 5.68,
+      "hindi_words": 9,
+      "words_per_second": 1.58,
+      "flag": false
+    },
+    {
+      "cue": "512",
+      "duration_seconds": 5.52,
+      "hindi_words": 10,
+      "words_per_second": 1.81,
+      "flag": false
+    },
+    {
+      "cue": "513",
+      "duration_seconds": 1.68,
+      "hindi_words": 5,
+      "words_per_second": 2.98,
+      "flag": false
+    },
+    {
+      "cue": "514",
+      "duration_seconds": 3.44,
+      "hindi_words": 9,
+      "words_per_second": 2.62,
+      "flag": false
+    },
+    {
+      "cue": "515",
+      "duration_seconds": 1.96,
+      "hindi_words": 6,
+      "words_per_second": 3.06,
+      "flag": false
+    },
+    {
+      "cue": "516",
+      "duration_seconds": 1.56,
+      "hindi_words": 6,
+      "words_per_second": 3.85,
+      "flag": false
+    },
+    {
+      "cue": "517",
+      "duration_seconds": 4.92,
+      "hindi_words": 14,
+      "words_per_second": 2.85,
+      "flag": false
+    },
+    {
+      "cue": "518",
+      "duration_seconds": 4.04,
+      "hindi_words": 10,
+      "words_per_second": 2.48,
+      "flag": false
+    },
+    {
+      "cue": "519",
+      "duration_seconds": 2.6,
+      "hindi_words": 6,
+      "words_per_second": 2.31,
+      "flag": false
+    },
+    {
+      "cue": "520",
+      "duration_seconds": 1.6,
+      "hindi_words": 6,
+      "words_per_second": 3.75,
+      "flag": false
+    },
+    {
+      "cue": "521",
+      "duration_seconds": 2.96,
+      "hindi_words": 7,
+      "words_per_second": 2.36,
+      "flag": false
+    },
+    {
+      "cue": "522",
+      "duration_seconds": 1.72,
+      "hindi_words": 7,
+      "words_per_second": 4.07,
+      "flag": false
+    },
+    {
+      "cue": "523",
+      "duration_seconds": 2.76,
+      "hindi_words": 6,
+      "words_per_second": 2.17,
+      "flag": false
+    },
+    {
+      "cue": "524",
+      "duration_seconds": 3.76,
+      "hindi_words": 7,
+      "words_per_second": 1.86,
+      "flag": false
+    },
+    {
+      "cue": "525",
+      "duration_seconds": 2.68,
+      "hindi_words": 9,
+      "words_per_second": 3.36,
+      "flag": false
+    },
+    {
+      "cue": "526",
+      "duration_seconds": 5.84,
+      "hindi_words": 11,
+      "words_per_second": 1.88,
+      "flag": false
+    },
+    {
+      "cue": "527",
+      "duration_seconds": 2.76,
+      "hindi_words": 6,
+      "words_per_second": 2.17,
+      "flag": false
+    },
+    {
+      "cue": "528",
+      "duration_seconds": 2.64,
+      "hindi_words": 5,
+      "words_per_second": 1.89,
+      "flag": false
+    },
+    {
+      "cue": "529",
+      "duration_seconds": 5.44,
+      "hindi_words": 11,
+      "words_per_second": 2.02,
+      "flag": false
+    },
+    {
+      "cue": "530",
+      "duration_seconds": 3.2,
+      "hindi_words": 10,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "531",
+      "duration_seconds": 2.56,
+      "hindi_words": 12,
+      "words_per_second": 4.69,
+      "flag": false
+    },
+    {
+      "cue": "532",
+      "duration_seconds": 1.64,
+      "hindi_words": 5,
+      "words_per_second": 3.05,
+      "flag": false
+    },
+    {
+      "cue": "533",
+      "duration_seconds": 4.2,
+      "hindi_words": 11,
+      "words_per_second": 2.62,
+      "flag": false
+    },
+    {
+      "cue": "534",
+      "duration_seconds": 2.12,
+      "hindi_words": 7,
+      "words_per_second": 3.3,
+      "flag": false
+    },
+    {
+      "cue": "535",
+      "duration_seconds": 1.76,
+      "hindi_words": 9,
+      "words_per_second": 5.11,
+      "flag": false
+    },
+    {
+      "cue": "536",
+      "duration_seconds": 2.24,
+      "hindi_words": 5,
+      "words_per_second": 2.23,
+      "flag": false
+    },
+    {
+      "cue": "537",
+      "duration_seconds": 2.36,
+      "hindi_words": 10,
+      "words_per_second": 4.24,
+      "flag": false
+    },
+    {
+      "cue": "538",
+      "duration_seconds": 3.24,
+      "hindi_words": 11,
+      "words_per_second": 3.4,
+      "flag": false
+    },
+    {
+      "cue": "539",
+      "duration_seconds": 3.24,
+      "hindi_words": 11,
+      "words_per_second": 3.4,
+      "flag": false
+    },
+    {
+      "cue": "540",
+      "duration_seconds": 5.68,
+      "hindi_words": 8,
+      "words_per_second": 1.41,
+      "flag": false
+    },
+    {
+      "cue": "541",
+      "duration_seconds": 2.4,
+      "hindi_words": 7,
+      "words_per_second": 2.92,
+      "flag": false
+    },
+    {
+      "cue": "542",
+      "duration_seconds": 3.96,
+      "hindi_words": 14,
+      "words_per_second": 3.54,
+      "flag": false
+    },
+    {
+      "cue": "543",
+      "duration_seconds": 1.32,
+      "hindi_words": 5,
+      "words_per_second": 3.79,
+      "flag": false
+    },
+    {
+      "cue": "544",
+      "duration_seconds": 3.64,
+      "hindi_words": 9,
+      "words_per_second": 2.47,
+      "flag": false
+    },
+    {
+      "cue": "545",
+      "duration_seconds": 5.32,
+      "hindi_words": 12,
+      "words_per_second": 2.26,
+      "flag": false
+    },
+    {
+      "cue": "546",
+      "duration_seconds": 4.08,
+      "hindi_words": 10,
+      "words_per_second": 2.45,
+      "flag": false
+    },
+    {
+      "cue": "547",
+      "duration_seconds": 2.16,
+      "hindi_words": 10,
+      "words_per_second": 4.63,
+      "flag": false
+    },
+    {
+      "cue": "548",
+      "duration_seconds": 3.56,
+      "hindi_words": 7,
+      "words_per_second": 1.97,
+      "flag": false
+    },
+    {
+      "cue": "549",
+      "duration_seconds": 3.12,
+      "hindi_words": 8,
+      "words_per_second": 2.56,
+      "flag": false
+    },
+    {
+      "cue": "550",
+      "duration_seconds": 2.36,
+      "hindi_words": 6,
+      "words_per_second": 2.54,
+      "flag": false
+    },
+    {
+      "cue": "551",
+      "duration_seconds": 2.84,
+      "hindi_words": 8,
+      "words_per_second": 2.82,
+      "flag": false
+    },
+    {
+      "cue": "552",
+      "duration_seconds": 2.0,
+      "hindi_words": 8,
+      "words_per_second": 4.0,
+      "flag": false
+    },
+    {
+      "cue": "553",
+      "duration_seconds": 1.32,
+      "hindi_words": 5,
+      "words_per_second": 3.79,
+      "flag": false
+    },
+    {
+      "cue": "554",
+      "duration_seconds": 1.84,
+      "hindi_words": 5,
+      "words_per_second": 2.72,
+      "flag": false
+    },
+    {
+      "cue": "555",
+      "duration_seconds": 2.88,
+      "hindi_words": 6,
+      "words_per_second": 2.08,
+      "flag": false
+    },
+    {
+      "cue": "556",
+      "duration_seconds": 2.6,
+      "hindi_words": 9,
+      "words_per_second": 3.46,
+      "flag": false
+    },
+    {
+      "cue": "557",
+      "duration_seconds": 2.28,
+      "hindi_words": 10,
+      "words_per_second": 4.39,
+      "flag": false
+    },
+    {
+      "cue": "558",
+      "duration_seconds": 1.48,
+      "hindi_words": 5,
+      "words_per_second": 3.38,
+      "flag": false
+    },
+    {
+      "cue": "559",
+      "duration_seconds": 4.28,
+      "hindi_words": 8,
+      "words_per_second": 1.87,
+      "flag": false
+    },
+    {
+      "cue": "560",
+      "duration_seconds": 2.92,
+      "hindi_words": 6,
+      "words_per_second": 2.05,
+      "flag": false
+    },
+    {
+      "cue": "561",
+      "duration_seconds": 3.32,
+      "hindi_words": 10,
+      "words_per_second": 3.01,
+      "flag": false
+    },
+    {
+      "cue": "562",
+      "duration_seconds": 2.28,
+      "hindi_words": 9,
+      "words_per_second": 3.95,
+      "flag": false
+    },
+    {
+      "cue": "563",
+      "duration_seconds": 1.72,
+      "hindi_words": 5,
+      "words_per_second": 2.91,
+      "flag": false
+    },
+    {
+      "cue": "564",
+      "duration_seconds": 5.24,
+      "hindi_words": 11,
+      "words_per_second": 2.1,
+      "flag": false
+    },
+    {
+      "cue": "565",
+      "duration_seconds": 3.68,
+      "hindi_words": 10,
+      "words_per_second": 2.72,
+      "flag": false
+    },
+    {
+      "cue": "566",
+      "duration_seconds": 3.28,
+      "hindi_words": 6,
+      "words_per_second": 1.83,
+      "flag": false
+    },
+    {
+      "cue": "567",
+      "duration_seconds": 3.32,
+      "hindi_words": 9,
+      "words_per_second": 2.71,
+      "flag": false
+    },
+    {
+      "cue": "568",
+      "duration_seconds": 2.28,
+      "hindi_words": 5,
+      "words_per_second": 2.19,
+      "flag": false
+    },
+    {
+      "cue": "569",
+      "duration_seconds": 1.76,
+      "hindi_words": 5,
+      "words_per_second": 2.84,
+      "flag": false
+    },
+    {
+      "cue": "570",
+      "duration_seconds": 2.24,
+      "hindi_words": 6,
+      "words_per_second": 2.68,
+      "flag": false
+    },
+    {
+      "cue": "571",
+      "duration_seconds": 1.56,
+      "hindi_words": 5,
+      "words_per_second": 3.21,
+      "flag": false
+    },
+    {
+      "cue": "572",
+      "duration_seconds": 3.44,
+      "hindi_words": 5,
+      "words_per_second": 1.45,
+      "flag": false
+    },
+    {
+      "cue": "573",
+      "duration_seconds": 8.96,
+      "hindi_words": 12,
+      "words_per_second": 1.34,
+      "flag": false
+    },
+    {
+      "cue": "574",
+      "duration_seconds": 1.56,
+      "hindi_words": 4,
+      "words_per_second": 2.56,
+      "flag": false
+    },
+    {
+      "cue": "575",
+      "duration_seconds": 3.16,
+      "hindi_words": 11,
+      "words_per_second": 3.48,
+      "flag": false
+    },
+    {
+      "cue": "576",
+      "duration_seconds": 5.24,
+      "hindi_words": 12,
+      "words_per_second": 2.29,
+      "flag": false
+    },
+    {
+      "cue": "577",
+      "duration_seconds": 4.88,
+      "hindi_words": 11,
+      "words_per_second": 2.25,
+      "flag": false
+    },
+    {
+      "cue": "578",
+      "duration_seconds": 2.56,
+      "hindi_words": 7,
+      "words_per_second": 2.73,
+      "flag": false
+    },
+    {
+      "cue": "579",
+      "duration_seconds": 2.12,
+      "hindi_words": 10,
+      "words_per_second": 4.72,
+      "flag": false
+    },
+    {
+      "cue": "580",
+      "duration_seconds": 2.84,
+      "hindi_words": 8,
+      "words_per_second": 2.82,
+      "flag": false
+    },
+    {
+      "cue": "581",
+      "duration_seconds": 4.76,
+      "hindi_words": 9,
+      "words_per_second": 1.89,
+      "flag": false
+    },
+    {
+      "cue": "582",
+      "duration_seconds": 4.24,
+      "hindi_words": 8,
+      "words_per_second": 1.89,
+      "flag": false
+    },
+    {
+      "cue": "583",
+      "duration_seconds": 2.24,
+      "hindi_words": 6,
+      "words_per_second": 2.68,
+      "flag": false
+    },
+    {
+      "cue": "584",
+      "duration_seconds": 4.12,
+      "hindi_words": 8,
+      "words_per_second": 1.94,
+      "flag": false
+    },
+    {
+      "cue": "585",
+      "duration_seconds": 4.36,
+      "hindi_words": 8,
+      "words_per_second": 1.83,
+      "flag": false
+    },
+    {
+      "cue": "586",
+      "duration_seconds": 6.96,
+      "hindi_words": 10,
+      "words_per_second": 1.44,
+      "flag": false
+    },
+    {
+      "cue": "587",
+      "duration_seconds": 3.48,
+      "hindi_words": 8,
+      "words_per_second": 2.3,
+      "flag": false
+    },
+    {
+      "cue": "588",
+      "duration_seconds": 5.76,
+      "hindi_words": 11,
+      "words_per_second": 1.91,
+      "flag": false
+    },
+    {
+      "cue": "589",
+      "duration_seconds": 3.0,
+      "hindi_words": 5,
+      "words_per_second": 1.67,
+      "flag": false
+    },
+    {
+      "cue": "590",
+      "duration_seconds": 5.48,
+      "hindi_words": 7,
+      "words_per_second": 1.28,
+      "flag": false
+    },
+    {
+      "cue": "591",
+      "duration_seconds": 3.04,
+      "hindi_words": 7,
+      "words_per_second": 2.3,
+      "flag": false
+    },
+    {
+      "cue": "592",
+      "duration_seconds": 5.68,
+      "hindi_words": 8,
+      "words_per_second": 1.41,
+      "flag": false
+    },
+    {
+      "cue": "593",
+      "duration_seconds": 4.48,
+      "hindi_words": 8,
+      "words_per_second": 1.79,
+      "flag": false
+    },
+    {
+      "cue": "594",
+      "duration_seconds": 3.56,
+      "hindi_words": 11,
+      "words_per_second": 3.09,
+      "flag": false
+    },
+    {
+      "cue": "595",
+      "duration_seconds": 3.04,
+      "hindi_words": 7,
+      "words_per_second": 2.3,
+      "flag": false
+    },
+    {
+      "cue": "596",
+      "duration_seconds": 2.96,
+      "hindi_words": 6,
+      "words_per_second": 2.03,
+      "flag": false
+    },
+    {
+      "cue": "597",
+      "duration_seconds": 4.64,
+      "hindi_words": 9,
+      "words_per_second": 1.94,
+      "flag": false
+    },
+    {
+      "cue": "598",
+      "duration_seconds": 6.12,
+      "hindi_words": 8,
+      "words_per_second": 1.31,
+      "flag": false
+    },
+    {
+      "cue": "599",
+      "duration_seconds": 1.92,
+      "hindi_words": 6,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "600",
+      "duration_seconds": 0.92,
+      "hindi_words": 4,
+      "words_per_second": 4.35,
+      "flag": false
+    },
+    {
+      "cue": "601",
+      "duration_seconds": 1.56,
+      "hindi_words": 7,
+      "words_per_second": 4.49,
+      "flag": false
+    },
+    {
+      "cue": "602",
+      "duration_seconds": 2.56,
+      "hindi_words": 6,
+      "words_per_second": 2.34,
+      "flag": false
+    },
+    {
+      "cue": "603",
+      "duration_seconds": 1.68,
+      "hindi_words": 4,
+      "words_per_second": 2.38,
+      "flag": false
+    },
+    {
+      "cue": "604",
+      "duration_seconds": 1.56,
+      "hindi_words": 4,
+      "words_per_second": 2.56,
+      "flag": false
+    },
+    {
+      "cue": "605",
+      "duration_seconds": 3.36,
+      "hindi_words": 9,
+      "words_per_second": 2.68,
+      "flag": false
+    },
+    {
+      "cue": "606",
+      "duration_seconds": 3.04,
+      "hindi_words": 8,
+      "words_per_second": 2.63,
+      "flag": false
+    },
+    {
+      "cue": "607",
+      "duration_seconds": 2.08,
+      "hindi_words": 8,
+      "words_per_second": 3.85,
+      "flag": false
+    },
+    {
+      "cue": "608",
+      "duration_seconds": 1.48,
+      "hindi_words": 8,
+      "words_per_second": 5.41,
+      "flag": false
+    },
+    {
+      "cue": "609",
+      "duration_seconds": 4.52,
+      "hindi_words": 8,
+      "words_per_second": 1.77,
+      "flag": false
+    },
+    {
+      "cue": "610",
+      "duration_seconds": 3.84,
+      "hindi_words": 8,
+      "words_per_second": 2.08,
+      "flag": false
+    },
+    {
+      "cue": "611",
+      "duration_seconds": 7.48,
+      "hindi_words": 9,
+      "words_per_second": 1.2,
+      "flag": false
+    },
+    {
+      "cue": "612",
+      "duration_seconds": 2.72,
+      "hindi_words": 9,
+      "words_per_second": 3.31,
+      "flag": false
+    },
+    {
+      "cue": "613",
+      "duration_seconds": 2.8,
+      "hindi_words": 6,
+      "words_per_second": 2.14,
+      "flag": false
+    },
+    {
+      "cue": "614",
+      "duration_seconds": 5.28,
+      "hindi_words": 11,
+      "words_per_second": 2.08,
+      "flag": false
+    },
+    {
+      "cue": "615",
+      "duration_seconds": 2.52,
+      "hindi_words": 8,
+      "words_per_second": 3.17,
+      "flag": false
+    },
+    {
+      "cue": "616",
+      "duration_seconds": 2.24,
+      "hindi_words": 6,
+      "words_per_second": 2.68,
+      "flag": false
+    },
+    {
+      "cue": "617",
+      "duration_seconds": 3.52,
+      "hindi_words": 7,
+      "words_per_second": 1.99,
+      "flag": false
+    },
+    {
+      "cue": "618",
+      "duration_seconds": 3.28,
+      "hindi_words": 7,
+      "words_per_second": 2.13,
+      "flag": false
+    },
+    {
+      "cue": "619",
+      "duration_seconds": 4.44,
+      "hindi_words": 9,
+      "words_per_second": 2.03,
+      "flag": false
+    },
+    {
+      "cue": "620",
+      "duration_seconds": 1.64,
+      "hindi_words": 6,
+      "words_per_second": 3.66,
+      "flag": false
+    },
+    {
+      "cue": "621",
+      "duration_seconds": 1.88,
+      "hindi_words": 7,
+      "words_per_second": 3.72,
+      "flag": false
+    },
+    {
+      "cue": "622",
+      "duration_seconds": 4.04,
+      "hindi_words": 9,
+      "words_per_second": 2.23,
+      "flag": false
+    },
+    {
+      "cue": "623",
+      "duration_seconds": 1.2,
+      "hindi_words": 4,
+      "words_per_second": 3.33,
+      "flag": false
+    },
+    {
+      "cue": "624",
+      "duration_seconds": 1.28,
+      "hindi_words": 4,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "625",
+      "duration_seconds": 1.88,
+      "hindi_words": 5,
+      "words_per_second": 2.66,
+      "flag": false
+    },
+    {
+      "cue": "626",
+      "duration_seconds": 2.46,
+      "hindi_words": 9,
+      "words_per_second": 3.66,
+      "flag": false
+    },
+    {
+      "cue": "627",
+      "duration_seconds": 4.24,
+      "hindi_words": 12,
+      "words_per_second": 2.83,
+      "flag": false
+    },
+    {
+      "cue": "628",
+      "duration_seconds": 2.56,
+      "hindi_words": 9,
+      "words_per_second": 3.52,
+      "flag": false
+    },
+    {
+      "cue": "629",
+      "duration_seconds": 2.64,
+      "hindi_words": 7,
+      "words_per_second": 2.65,
+      "flag": false
+    },
+    {
+      "cue": "630",
+      "duration_seconds": 1.96,
+      "hindi_words": 6,
+      "words_per_second": 3.06,
+      "flag": false
+    },
+    {
+      "cue": "631",
+      "duration_seconds": 3.64,
+      "hindi_words": 8,
+      "words_per_second": 2.2,
+      "flag": false
+    },
+    {
+      "cue": "632",
+      "duration_seconds": 3.16,
+      "hindi_words": 8,
+      "words_per_second": 2.53,
+      "flag": false
+    },
+    {
+      "cue": "633",
+      "duration_seconds": 5.0,
+      "hindi_words": 9,
+      "words_per_second": 1.8,
+      "flag": false
+    },
+    {
+      "cue": "634",
+      "duration_seconds": 2.64,
+      "hindi_words": 7,
+      "words_per_second": 2.65,
+      "flag": false
+    },
+    {
+      "cue": "635",
+      "duration_seconds": 2.32,
+      "hindi_words": 6,
+      "words_per_second": 2.59,
+      "flag": false
+    },
+    {
+      "cue": "636",
+      "duration_seconds": 5.24,
+      "hindi_words": 10,
+      "words_per_second": 1.91,
+      "flag": false
+    },
+    {
+      "cue": "637",
+      "duration_seconds": 3.16,
+      "hindi_words": 7,
+      "words_per_second": 2.22,
+      "flag": false
+    },
+    {
+      "cue": "638",
+      "duration_seconds": 2.0,
+      "hindi_words": 9,
+      "words_per_second": 4.5,
+      "flag": false
+    },
+    {
+      "cue": "639",
+      "duration_seconds": 7.88,
+      "hindi_words": 7,
+      "words_per_second": 0.89,
+      "flag": false
+    },
+    {
+      "cue": "640",
+      "duration_seconds": 2.16,
+      "hindi_words": 9,
+      "words_per_second": 4.17,
+      "flag": false
+    },
+    {
+      "cue": "641",
+      "duration_seconds": 5.0,
+      "hindi_words": 12,
+      "words_per_second": 2.4,
+      "flag": false
+    },
+    {
+      "cue": "642",
+      "duration_seconds": 2.56,
+      "hindi_words": 10,
+      "words_per_second": 3.91,
+      "flag": false
+    },
+    {
+      "cue": "643",
+      "duration_seconds": 4.6,
+      "hindi_words": 11,
+      "words_per_second": 2.39,
+      "flag": false
+    },
+    {
+      "cue": "644",
+      "duration_seconds": 2.0,
+      "hindi_words": 6,
+      "words_per_second": 3.0,
+      "flag": false
+    },
+    {
+      "cue": "645",
+      "duration_seconds": 2.12,
+      "hindi_words": 6,
+      "words_per_second": 2.83,
+      "flag": false
+    },
+    {
+      "cue": "646",
+      "duration_seconds": 3.52,
+      "hindi_words": 9,
+      "words_per_second": 2.56,
+      "flag": false
+    },
+    {
+      "cue": "647",
+      "duration_seconds": 6.52,
+      "hindi_words": 16,
+      "words_per_second": 2.45,
+      "flag": false
+    },
+    {
+      "cue": "648",
+      "duration_seconds": 6.16,
+      "hindi_words": 13,
+      "words_per_second": 2.11,
+      "flag": false
+    },
+    {
+      "cue": "649",
+      "duration_seconds": 3.72,
+      "hindi_words": 7,
+      "words_per_second": 1.88,
+      "flag": false
+    },
+    {
+      "cue": "650",
+      "duration_seconds": 8.44,
+      "hindi_words": 10,
+      "words_per_second": 1.18,
+      "flag": false
+    },
+    {
+      "cue": "651",
+      "duration_seconds": 2.44,
+      "hindi_words": 10,
+      "words_per_second": 4.1,
+      "flag": false
+    },
+    {
+      "cue": "652",
+      "duration_seconds": 2.16,
+      "hindi_words": 5,
+      "words_per_second": 2.31,
+      "flag": false
+    },
+    {
+      "cue": "653",
+      "duration_seconds": 4.2,
+      "hindi_words": 8,
+      "words_per_second": 1.9,
+      "flag": false
+    },
+    {
+      "cue": "654",
+      "duration_seconds": 6.28,
+      "hindi_words": 13,
+      "words_per_second": 2.07,
+      "flag": false
+    },
+    {
+      "cue": "655",
+      "duration_seconds": 4.0,
+      "hindi_words": 7,
+      "words_per_second": 1.75,
+      "flag": false
+    },
+    {
+      "cue": "656",
+      "duration_seconds": 2.88,
+      "hindi_words": 9,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "657",
+      "duration_seconds": 1.64,
+      "hindi_words": 5,
+      "words_per_second": 3.05,
+      "flag": false
+    },
+    {
+      "cue": "658",
+      "duration_seconds": 3.04,
+      "hindi_words": 9,
+      "words_per_second": 2.96,
+      "flag": false
+    },
+    {
+      "cue": "659",
+      "duration_seconds": 7.04,
+      "hindi_words": 12,
+      "words_per_second": 1.7,
+      "flag": false
+    },
+    {
+      "cue": "660",
+      "duration_seconds": 4.12,
+      "hindi_words": 6,
+      "words_per_second": 1.46,
+      "flag": false
+    },
+    {
+      "cue": "661",
+      "duration_seconds": 1.92,
+      "hindi_words": 11,
+      "words_per_second": 5.73,
+      "flag": false
+    },
+    {
+      "cue": "662",
+      "duration_seconds": 1.4,
+      "hindi_words": 7,
+      "words_per_second": 5.0,
+      "flag": false
+    },
+    {
+      "cue": "663",
+      "duration_seconds": 4.08,
+      "hindi_words": 11,
+      "words_per_second": 2.7,
+      "flag": false
+    },
+    {
+      "cue": "664",
+      "duration_seconds": 6.08,
+      "hindi_words": 9,
+      "words_per_second": 1.48,
+      "flag": false
+    },
+    {
+      "cue": "665",
+      "duration_seconds": 4.44,
+      "hindi_words": 12,
+      "words_per_second": 2.7,
+      "flag": false
+    },
+    {
+      "cue": "666",
+      "duration_seconds": 2.32,
+      "hindi_words": 4,
+      "words_per_second": 1.72,
+      "flag": false
+    },
+    {
+      "cue": "667",
+      "duration_seconds": 3.72,
+      "hindi_words": 13,
+      "words_per_second": 3.49,
+      "flag": false
+    },
+    {
+      "cue": "668",
+      "duration_seconds": 3.76,
+      "hindi_words": 8,
+      "words_per_second": 2.13,
+      "flag": false
+    },
+    {
+      "cue": "669",
+      "duration_seconds": 1.16,
+      "hindi_words": 4,
+      "words_per_second": 3.45,
+      "flag": false
+    },
+    {
+      "cue": "670",
+      "duration_seconds": 4.76,
+      "hindi_words": 8,
+      "words_per_second": 1.68,
+      "flag": false
+    },
+    {
+      "cue": "671",
+      "duration_seconds": 1.84,
+      "hindi_words": 9,
+      "words_per_second": 4.89,
+      "flag": false
+    },
+    {
+      "cue": "672",
+      "duration_seconds": 5.64,
+      "hindi_words": 10,
+      "words_per_second": 1.77,
+      "flag": false
+    },
+    {
+      "cue": "673",
+      "duration_seconds": 1.88,
+      "hindi_words": 6,
+      "words_per_second": 3.19,
+      "flag": false
+    },
+    {
+      "cue": "674",
+      "duration_seconds": 8.6,
+      "hindi_words": 8,
+      "words_per_second": 0.93,
+      "flag": false
+    },
+    {
+      "cue": "675",
+      "duration_seconds": 3.04,
+      "hindi_words": 8,
+      "words_per_second": 2.63,
+      "flag": false
+    },
+    {
+      "cue": "676",
+      "duration_seconds": 2.88,
+      "hindi_words": 9,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "677",
+      "duration_seconds": 2.88,
+      "hindi_words": 9,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "678",
+      "duration_seconds": 7.48,
+      "hindi_words": 9,
+      "words_per_second": 1.2,
+      "flag": false
+    },
+    {
+      "cue": "679",
+      "duration_seconds": 6.4,
+      "hindi_words": 8,
+      "words_per_second": 1.25,
+      "flag": false
+    },
+    {
+      "cue": "680",
+      "duration_seconds": 9.56,
+      "hindi_words": 11,
+      "words_per_second": 1.15,
+      "flag": false
+    },
+    {
+      "cue": "681",
+      "duration_seconds": 3.84,
+      "hindi_words": 9,
+      "words_per_second": 2.34,
+      "flag": false
+    },
+    {
+      "cue": "682",
+      "duration_seconds": 5.96,
+      "hindi_words": 10,
+      "words_per_second": 1.68,
+      "flag": false
+    },
+    {
+      "cue": "683",
+      "duration_seconds": 5.68,
+      "hindi_words": 12,
+      "words_per_second": 2.11,
+      "flag": false
+    },
+    {
+      "cue": "684",
+      "duration_seconds": 5.64,
+      "hindi_words": 12,
+      "words_per_second": 2.13,
+      "flag": false
+    },
+    {
+      "cue": "685",
+      "duration_seconds": 6.72,
+      "hindi_words": 10,
+      "words_per_second": 1.49,
+      "flag": false
+    },
+    {
+      "cue": "686",
+      "duration_seconds": 6.84,
+      "hindi_words": 11,
+      "words_per_second": 1.61,
+      "flag": false
+    },
+    {
+      "cue": "687",
+      "duration_seconds": 6.84,
+      "hindi_words": 7,
+      "words_per_second": 1.02,
+      "flag": false
+    },
+    {
+      "cue": "688",
+      "duration_seconds": 4.24,
+      "hindi_words": 12,
+      "words_per_second": 2.83,
+      "flag": false
+    },
+    {
+      "cue": "689",
+      "duration_seconds": 3.36,
+      "hindi_words": 9,
+      "words_per_second": 2.68,
+      "flag": false
+    },
+    {
+      "cue": "690",
+      "duration_seconds": 3.2,
+      "hindi_words": 7,
+      "words_per_second": 2.19,
+      "flag": false
+    },
+    {
+      "cue": "691",
+      "duration_seconds": 3.28,
+      "hindi_words": 5,
+      "words_per_second": 1.52,
+      "flag": false
+    },
+    {
+      "cue": "692",
+      "duration_seconds": 1.24,
+      "hindi_words": 6,
+      "words_per_second": 4.84,
+      "flag": false
+    },
+    {
+      "cue": "693",
+      "duration_seconds": 5.08,
+      "hindi_words": 11,
+      "words_per_second": 2.17,
+      "flag": false
+    },
+    {
+      "cue": "694",
+      "duration_seconds": 1.68,
+      "hindi_words": 4,
+      "words_per_second": 2.38,
+      "flag": false
+    },
+    {
+      "cue": "695",
+      "duration_seconds": 2.8,
+      "hindi_words": 5,
+      "words_per_second": 1.79,
+      "flag": false
+    },
+    {
+      "cue": "696",
+      "duration_seconds": 5.68,
+      "hindi_words": 10,
+      "words_per_second": 1.76,
+      "flag": false
+    },
+    {
+      "cue": "697",
+      "duration_seconds": 1.64,
+      "hindi_words": 3,
+      "words_per_second": 1.83,
+      "flag": false
+    },
+    {
+      "cue": "698",
+      "duration_seconds": 5.96,
+      "hindi_words": 11,
+      "words_per_second": 1.85,
+      "flag": false
+    },
+    {
+      "cue": "699",
+      "duration_seconds": 6.44,
+      "hindi_words": 10,
+      "words_per_second": 1.55,
+      "flag": false
+    },
+    {
+      "cue": "700",
+      "duration_seconds": 2.64,
+      "hindi_words": 7,
+      "words_per_second": 2.65,
+      "flag": false
+    },
+    {
+      "cue": "701",
+      "duration_seconds": 3.64,
+      "hindi_words": 7,
+      "words_per_second": 1.92,
+      "flag": false
+    },
+    {
+      "cue": "702",
+      "duration_seconds": 5.32,
+      "hindi_words": 8,
+      "words_per_second": 1.5,
+      "flag": false
+    },
+    {
+      "cue": "703",
+      "duration_seconds": 2.4,
+      "hindi_words": 7,
+      "words_per_second": 2.92,
+      "flag": false
+    },
+    {
+      "cue": "704",
+      "duration_seconds": 5.12,
+      "hindi_words": 7,
+      "words_per_second": 1.37,
+      "flag": false
+    },
+    {
+      "cue": "705",
+      "duration_seconds": 2.16,
+      "hindi_words": 9,
+      "words_per_second": 4.17,
+      "flag": false
+    },
+    {
+      "cue": "706",
+      "duration_seconds": 4.16,
+      "hindi_words": 10,
+      "words_per_second": 2.4,
+      "flag": false
+    },
+    {
+      "cue": "707",
+      "duration_seconds": 3.12,
+      "hindi_words": 7,
+      "words_per_second": 2.24,
+      "flag": false
+    },
+    {
+      "cue": "708",
+      "duration_seconds": 6.12,
+      "hindi_words": 10,
+      "words_per_second": 1.63,
+      "flag": false
+    },
+    {
+      "cue": "709",
+      "duration_seconds": 1.68,
+      "hindi_words": 4,
+      "words_per_second": 2.38,
+      "flag": false
+    },
+    {
+      "cue": "710",
+      "duration_seconds": 2.12,
+      "hindi_words": 5,
+      "words_per_second": 2.36,
+      "flag": false
+    },
+    {
+      "cue": "711",
+      "duration_seconds": 5.02,
+      "hindi_words": 10,
+      "words_per_second": 1.99,
+      "flag": false
+    },
+    {
+      "cue": "712",
+      "duration_seconds": 4.18,
+      "hindi_words": 12,
+      "words_per_second": 2.87,
+      "flag": false
+    },
+    {
+      "cue": "713",
+      "duration_seconds": 2.08,
+      "hindi_words": 5,
+      "words_per_second": 2.4,
+      "flag": false
+    },
+    {
+      "cue": "714",
+      "duration_seconds": 3.44,
+      "hindi_words": 8,
+      "words_per_second": 2.33,
+      "flag": false
+    },
+    {
+      "cue": "715",
+      "duration_seconds": 2.0,
+      "hindi_words": 7,
+      "words_per_second": 3.5,
+      "flag": false
+    },
+    {
+      "cue": "716",
+      "duration_seconds": 3.76,
+      "hindi_words": 8,
+      "words_per_second": 2.13,
+      "flag": false
+    },
+    {
+      "cue": "717",
+      "duration_seconds": 4.32,
+      "hindi_words": 11,
+      "words_per_second": 2.55,
+      "flag": false
+    },
+    {
+      "cue": "718",
+      "duration_seconds": 8.0,
+      "hindi_words": 13,
+      "words_per_second": 1.62,
+      "flag": false
+    },
+    {
+      "cue": "719",
+      "duration_seconds": 2.68,
+      "hindi_words": 9,
+      "words_per_second": 3.36,
+      "flag": false
+    },
+    {
+      "cue": "720",
+      "duration_seconds": 2.8,
+      "hindi_words": 6,
+      "words_per_second": 2.14,
+      "flag": false
+    },
+    {
+      "cue": "721",
+      "duration_seconds": 2.44,
+      "hindi_words": 7,
+      "words_per_second": 2.87,
+      "flag": false
+    },
+    {
+      "cue": "722",
+      "duration_seconds": 2.88,
+      "hindi_words": 7,
+      "words_per_second": 2.43,
+      "flag": false
+    },
+    {
+      "cue": "723",
+      "duration_seconds": 3.44,
+      "hindi_words": 14,
+      "words_per_second": 4.07,
+      "flag": false
+    },
+    {
+      "cue": "724",
+      "duration_seconds": 5.36,
+      "hindi_words": 9,
+      "words_per_second": 1.68,
+      "flag": false
+    },
+    {
+      "cue": "725",
+      "duration_seconds": 5.4,
+      "hindi_words": 9,
+      "words_per_second": 1.67,
+      "flag": false
+    },
+    {
+      "cue": "726",
+      "duration_seconds": 4.96,
+      "hindi_words": 11,
+      "words_per_second": 2.22,
+      "flag": false
+    },
+    {
+      "cue": "727",
+      "duration_seconds": 2.84,
+      "hindi_words": 13,
+      "words_per_second": 4.58,
+      "flag": false
+    },
+    {
+      "cue": "728",
+      "duration_seconds": 2.92,
+      "hindi_words": 9,
+      "words_per_second": 3.08,
+      "flag": false
+    },
+    {
+      "cue": "729",
+      "duration_seconds": 1.88,
+      "hindi_words": 8,
+      "words_per_second": 4.26,
+      "flag": false
+    },
+    {
+      "cue": "730",
+      "duration_seconds": 3.8,
+      "hindi_words": 7,
+      "words_per_second": 1.84,
+      "flag": false
+    },
+    {
+      "cue": "731",
+      "duration_seconds": 2.96,
+      "hindi_words": 11,
+      "words_per_second": 3.72,
+      "flag": false
+    },
+    {
+      "cue": "732",
+      "duration_seconds": 6.04,
+      "hindi_words": 15,
+      "words_per_second": 2.48,
+      "flag": false
+    },
+    {
+      "cue": "733",
+      "duration_seconds": 1.6,
+      "hindi_words": 2,
+      "words_per_second": 1.25,
+      "flag": false
+    },
+    {
+      "cue": "734",
+      "duration_seconds": 4.2,
+      "hindi_words": 8,
+      "words_per_second": 1.9,
+      "flag": false
+    },
+    {
+      "cue": "735",
+      "duration_seconds": 3.04,
+      "hindi_words": 7,
+      "words_per_second": 2.3,
+      "flag": false
+    },
+    {
+      "cue": "736",
+      "duration_seconds": 1.96,
+      "hindi_words": 9,
+      "words_per_second": 4.59,
+      "flag": false
+    },
+    {
+      "cue": "737",
+      "duration_seconds": 4.28,
+      "hindi_words": 11,
+      "words_per_second": 2.57,
+      "flag": false
+    },
+    {
+      "cue": "738",
+      "duration_seconds": 1.88,
+      "hindi_words": 5,
+      "words_per_second": 2.66,
+      "flag": false
+    },
+    {
+      "cue": "739",
+      "duration_seconds": 4.04,
+      "hindi_words": 8,
+      "words_per_second": 1.98,
+      "flag": false
+    },
+    {
+      "cue": "740",
+      "duration_seconds": 3.48,
+      "hindi_words": 11,
+      "words_per_second": 3.16,
+      "flag": false
+    },
+    {
+      "cue": "741",
+      "duration_seconds": 2.88,
+      "hindi_words": 7,
+      "words_per_second": 2.43,
+      "flag": false
+    },
+    {
+      "cue": "742",
+      "duration_seconds": 3.68,
+      "hindi_words": 11,
+      "words_per_second": 2.99,
+      "flag": false
+    },
+    {
+      "cue": "743",
+      "duration_seconds": 2.44,
+      "hindi_words": 5,
+      "words_per_second": 2.05,
+      "flag": false
+    },
+    {
+      "cue": "744",
+      "duration_seconds": 2.68,
+      "hindi_words": 6,
+      "words_per_second": 2.24,
+      "flag": false
+    },
+    {
+      "cue": "745",
+      "duration_seconds": 5.16,
+      "hindi_words": 11,
+      "words_per_second": 2.13,
+      "flag": false
+    },
+    {
+      "cue": "746",
+      "duration_seconds": 4.52,
+      "hindi_words": 11,
+      "words_per_second": 2.43,
+      "flag": false
+    },
+    {
+      "cue": "747",
+      "duration_seconds": 4.28,
+      "hindi_words": 13,
+      "words_per_second": 3.04,
+      "flag": false
+    },
+    {
+      "cue": "748",
+      "duration_seconds": 4.12,
+      "hindi_words": 8,
+      "words_per_second": 1.94,
+      "flag": false
+    },
+    {
+      "cue": "749",
+      "duration_seconds": 4.88,
+      "hindi_words": 9,
+      "words_per_second": 1.84,
+      "flag": false
+    },
+    {
+      "cue": "750",
+      "duration_seconds": 4.56,
+      "hindi_words": 8,
+      "words_per_second": 1.75,
+      "flag": false
+    },
+    {
+      "cue": "751",
+      "duration_seconds": 3.4,
+      "hindi_words": 4,
+      "words_per_second": 1.18,
+      "flag": false
+    },
+    {
+      "cue": "752",
+      "duration_seconds": 4.32,
+      "hindi_words": 9,
+      "words_per_second": 2.08,
+      "flag": false
+    },
+    {
+      "cue": "753",
+      "duration_seconds": 2.08,
+      "hindi_words": 8,
+      "words_per_second": 3.85,
+      "flag": false
+    },
+    {
+      "cue": "754",
+      "duration_seconds": 2.4,
+      "hindi_words": 6,
+      "words_per_second": 2.5,
+      "flag": false
+    },
+    {
+      "cue": "755",
+      "duration_seconds": 4.32,
+      "hindi_words": 10,
+      "words_per_second": 2.31,
+      "flag": false
+    },
+    {
+      "cue": "756",
+      "duration_seconds": 3.6,
+      "hindi_words": 9,
+      "words_per_second": 2.5,
+      "flag": false
+    },
+    {
+      "cue": "757",
+      "duration_seconds": 1.92,
+      "hindi_words": 6,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "758",
+      "duration_seconds": 3.64,
+      "hindi_words": 12,
+      "words_per_second": 3.3,
+      "flag": false
+    },
+    {
+      "cue": "759",
+      "duration_seconds": 3.32,
+      "hindi_words": 6,
+      "words_per_second": 1.81,
+      "flag": false
+    },
+    {
+      "cue": "760",
+      "duration_seconds": 1.64,
+      "hindi_words": 7,
+      "words_per_second": 4.27,
+      "flag": false
+    },
+    {
+      "cue": "761",
+      "duration_seconds": 1.32,
+      "hindi_words": 3,
+      "words_per_second": 2.27,
+      "flag": false
+    },
+    {
+      "cue": "762",
+      "duration_seconds": 2.64,
+      "hindi_words": 12,
+      "words_per_second": 4.55,
+      "flag": false
+    },
+    {
+      "cue": "763",
+      "duration_seconds": 2.08,
+      "hindi_words": 9,
+      "words_per_second": 4.33,
+      "flag": false
+    },
+    {
+      "cue": "764",
+      "duration_seconds": 3.04,
+      "hindi_words": 9,
+      "words_per_second": 2.96,
+      "flag": false
+    },
+    {
+      "cue": "765",
+      "duration_seconds": 4.32,
+      "hindi_words": 7,
+      "words_per_second": 1.62,
+      "flag": false
+    },
+    {
+      "cue": "766",
+      "duration_seconds": 3.2,
+      "hindi_words": 8,
+      "words_per_second": 2.5,
+      "flag": false
+    },
+    {
+      "cue": "767",
+      "duration_seconds": 2.76,
+      "hindi_words": 6,
+      "words_per_second": 2.17,
+      "flag": false
+    },
+    {
+      "cue": "768",
+      "duration_seconds": 1.28,
+      "hindi_words": 6,
+      "words_per_second": 4.69,
+      "flag": false
+    },
+    {
+      "cue": "769",
+      "duration_seconds": 2.84,
+      "hindi_words": 10,
+      "words_per_second": 3.52,
+      "flag": false
+    },
+    {
+      "cue": "770",
+      "duration_seconds": 2.84,
+      "hindi_words": 7,
+      "words_per_second": 2.46,
+      "flag": false
+    },
+    {
+      "cue": "771",
+      "duration_seconds": 2.76,
+      "hindi_words": 10,
+      "words_per_second": 3.62,
+      "flag": false
+    },
+    {
+      "cue": "772",
+      "duration_seconds": 5.88,
+      "hindi_words": 5,
+      "words_per_second": 0.85,
+      "flag": false
+    },
+    {
+      "cue": "773",
+      "duration_seconds": 2.4,
+      "hindi_words": 9,
+      "words_per_second": 3.75,
+      "flag": false
+    },
+    {
+      "cue": "774",
+      "duration_seconds": 4.56,
+      "hindi_words": 10,
+      "words_per_second": 2.19,
+      "flag": false
+    },
+    {
+      "cue": "775",
+      "duration_seconds": 2.48,
+      "hindi_words": 6,
+      "words_per_second": 2.42,
+      "flag": false
+    },
+    {
+      "cue": "776",
+      "duration_seconds": 1.44,
+      "hindi_words": 5,
+      "words_per_second": 3.47,
+      "flag": false
+    },
+    {
+      "cue": "777",
+      "duration_seconds": 1.88,
+      "hindi_words": 9,
+      "words_per_second": 4.79,
+      "flag": false
+    },
+    {
+      "cue": "778",
+      "duration_seconds": 2.96,
+      "hindi_words": 6,
+      "words_per_second": 2.03,
+      "flag": false
+    },
+    {
+      "cue": "779",
+      "duration_seconds": 2.92,
+      "hindi_words": 10,
+      "words_per_second": 3.42,
+      "flag": false
+    },
+    {
+      "cue": "780",
+      "duration_seconds": 1.28,
+      "hindi_words": 3,
+      "words_per_second": 2.34,
+      "flag": false
+    },
+    {
+      "cue": "781",
+      "duration_seconds": 2.2,
+      "hindi_words": 8,
+      "words_per_second": 3.64,
+      "flag": false
+    },
+    {
+      "cue": "782",
+      "duration_seconds": 2.24,
+      "hindi_words": 4,
+      "words_per_second": 1.79,
+      "flag": false
+    },
+    {
+      "cue": "783",
+      "duration_seconds": 2.88,
+      "hindi_words": 9,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "784",
+      "duration_seconds": 3.48,
+      "hindi_words": 7,
+      "words_per_second": 2.01,
+      "flag": false
+    },
+    {
+      "cue": "785",
+      "duration_seconds": 2.32,
+      "hindi_words": 5,
+      "words_per_second": 2.16,
+      "flag": false
+    },
+    {
+      "cue": "786",
+      "duration_seconds": 3.68,
+      "hindi_words": 9,
+      "words_per_second": 2.45,
+      "flag": false
+    },
+    {
+      "cue": "787",
+      "duration_seconds": 2.32,
+      "hindi_words": 7,
+      "words_per_second": 3.02,
+      "flag": false
+    },
+    {
+      "cue": "788",
+      "duration_seconds": 2.48,
+      "hindi_words": 6,
+      "words_per_second": 2.42,
+      "flag": false
+    },
+    {
+      "cue": "789",
+      "duration_seconds": 4.24,
+      "hindi_words": 12,
+      "words_per_second": 2.83,
+      "flag": false
+    },
+    {
+      "cue": "790",
+      "duration_seconds": 2.28,
+      "hindi_words": 8,
+      "words_per_second": 3.51,
+      "flag": false
+    },
+    {
+      "cue": "791",
+      "duration_seconds": 1.72,
+      "hindi_words": 7,
+      "words_per_second": 4.07,
+      "flag": false
+    },
+    {
+      "cue": "792",
+      "duration_seconds": 2.92,
+      "hindi_words": 10,
+      "words_per_second": 3.42,
+      "flag": false
+    },
+    {
+      "cue": "793",
+      "duration_seconds": 2.44,
+      "hindi_words": 7,
+      "words_per_second": 2.87,
+      "flag": false
+    },
+    {
+      "cue": "794",
+      "duration_seconds": 3.16,
+      "hindi_words": 12,
+      "words_per_second": 3.8,
+      "flag": false
+    },
+    {
+      "cue": "795",
+      "duration_seconds": 2.96,
+      "hindi_words": 8,
+      "words_per_second": 2.7,
+      "flag": false
+    },
+    {
+      "cue": "796",
+      "duration_seconds": 3.96,
+      "hindi_words": 12,
+      "words_per_second": 3.03,
+      "flag": false
+    },
+    {
+      "cue": "797",
+      "duration_seconds": 1.8,
+      "hindi_words": 8,
+      "words_per_second": 4.44,
+      "flag": false
+    },
+    {
+      "cue": "798",
+      "duration_seconds": 2.16,
+      "hindi_words": 6,
+      "words_per_second": 2.78,
+      "flag": false
+    },
+    {
+      "cue": "799",
+      "duration_seconds": 2.32,
+      "hindi_words": 9,
+      "words_per_second": 3.88,
+      "flag": false
+    },
+    {
+      "cue": "800",
+      "duration_seconds": 1.28,
+      "hindi_words": 3,
+      "words_per_second": 2.34,
+      "flag": false
+    },
+    {
+      "cue": "801",
+      "duration_seconds": 3.36,
+      "hindi_words": 9,
+      "words_per_second": 2.68,
+      "flag": false
+    },
+    {
+      "cue": "802",
+      "duration_seconds": 1.48,
+      "hindi_words": 7,
+      "words_per_second": 4.73,
+      "flag": false
+    },
+    {
+      "cue": "803",
+      "duration_seconds": 3.32,
+      "hindi_words": 9,
+      "words_per_second": 2.71,
+      "flag": false
+    },
+    {
+      "cue": "804",
+      "duration_seconds": 9.6,
+      "hindi_words": 10,
+      "words_per_second": 1.04,
+      "flag": false
+    },
+    {
+      "cue": "805",
+      "duration_seconds": 3.8,
+      "hindi_words": 9,
+      "words_per_second": 2.37,
+      "flag": false
+    },
+    {
+      "cue": "806",
+      "duration_seconds": 2.8,
+      "hindi_words": 11,
+      "words_per_second": 3.93,
+      "flag": false
+    },
+    {
+      "cue": "807",
+      "duration_seconds": 5.64,
+      "hindi_words": 13,
+      "words_per_second": 2.3,
+      "flag": false
+    },
+    {
+      "cue": "808",
+      "duration_seconds": 2.56,
+      "hindi_words": 9,
+      "words_per_second": 3.52,
+      "flag": false
+    },
+    {
+      "cue": "809",
+      "duration_seconds": 4.0,
+      "hindi_words": 10,
+      "words_per_second": 2.5,
+      "flag": false
+    },
+    {
+      "cue": "810",
+      "duration_seconds": 3.0,
+      "hindi_words": 9,
+      "words_per_second": 3.0,
+      "flag": false
+    },
+    {
+      "cue": "811",
+      "duration_seconds": 2.76,
+      "hindi_words": 10,
+      "words_per_second": 3.62,
+      "flag": false
+    },
+    {
+      "cue": "812",
+      "duration_seconds": 4.76,
+      "hindi_words": 10,
+      "words_per_second": 2.1,
+      "flag": false
+    },
+    {
+      "cue": "813",
+      "duration_seconds": 10.08,
+      "hindi_words": 5,
+      "words_per_second": 0.5,
+      "flag": false
+    },
+    {
+      "cue": "814",
+      "duration_seconds": 2.32,
+      "hindi_words": 5,
+      "words_per_second": 2.16,
+      "flag": false
+    },
+    {
+      "cue": "815",
+      "duration_seconds": 1.84,
+      "hindi_words": 8,
+      "words_per_second": 4.35,
+      "flag": false
+    },
+    {
+      "cue": "816",
+      "duration_seconds": 4.28,
+      "hindi_words": 12,
+      "words_per_second": 2.8,
+      "flag": false
+    },
+    {
+      "cue": "817",
+      "duration_seconds": 3.52,
+      "hindi_words": 10,
+      "words_per_second": 2.84,
+      "flag": false
+    },
+    {
+      "cue": "818",
+      "duration_seconds": 4.04,
+      "hindi_words": 10,
+      "words_per_second": 2.48,
+      "flag": false
+    },
+    {
+      "cue": "819",
+      "duration_seconds": 2.76,
+      "hindi_words": 9,
+      "words_per_second": 3.26,
+      "flag": false
+    },
+    {
+      "cue": "820",
+      "duration_seconds": 2.0,
+      "hindi_words": 4,
+      "words_per_second": 2.0,
+      "flag": false
+    },
+    {
+      "cue": "821",
+      "duration_seconds": 2.68,
+      "hindi_words": 6,
+      "words_per_second": 2.24,
+      "flag": false
+    },
+    {
+      "cue": "822",
+      "duration_seconds": 5.68,
+      "hindi_words": 11,
+      "words_per_second": 1.94,
+      "flag": false
+    },
+    {
+      "cue": "823",
+      "duration_seconds": 1.68,
+      "hindi_words": 3,
+      "words_per_second": 1.79,
+      "flag": false
+    },
+    {
+      "cue": "824",
+      "duration_seconds": 4.76,
+      "hindi_words": 12,
+      "words_per_second": 2.52,
+      "flag": false
+    },
+    {
+      "cue": "825",
+      "duration_seconds": 2.64,
+      "hindi_words": 9,
+      "words_per_second": 3.41,
+      "flag": false
+    },
+    {
+      "cue": "826",
+      "duration_seconds": 4.0,
+      "hindi_words": 8,
+      "words_per_second": 2.0,
+      "flag": false
+    },
+    {
+      "cue": "827",
+      "duration_seconds": 0.76,
+      "hindi_words": 3,
+      "words_per_second": 3.95,
+      "flag": false
+    },
+    {
+      "cue": "828",
+      "duration_seconds": 4.88,
+      "hindi_words": 10,
+      "words_per_second": 2.05,
+      "flag": false
+    },
+    {
+      "cue": "829",
+      "duration_seconds": 1.6,
+      "hindi_words": 7,
+      "words_per_second": 4.38,
+      "flag": false
+    },
+    {
+      "cue": "830",
+      "duration_seconds": 2.6,
+      "hindi_words": 7,
+      "words_per_second": 2.69,
+      "flag": false
+    },
+    {
+      "cue": "831",
+      "duration_seconds": 2.24,
+      "hindi_words": 7,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "832",
+      "duration_seconds": 3.64,
+      "hindi_words": 8,
+      "words_per_second": 2.2,
+      "flag": false
+    },
+    {
+      "cue": "833",
+      "duration_seconds": 3.48,
+      "hindi_words": 15,
+      "words_per_second": 4.31,
+      "flag": false
+    },
+    {
+      "cue": "834",
+      "duration_seconds": 4.92,
+      "hindi_words": 10,
+      "words_per_second": 2.03,
+      "flag": false
+    },
+    {
+      "cue": "835",
+      "duration_seconds": 4.72,
+      "hindi_words": 9,
+      "words_per_second": 1.91,
+      "flag": false
+    },
+    {
+      "cue": "836",
+      "duration_seconds": 3.16,
+      "hindi_words": 9,
+      "words_per_second": 2.85,
+      "flag": false
+    },
+    {
+      "cue": "837",
+      "duration_seconds": 3.68,
+      "hindi_words": 6,
+      "words_per_second": 1.63,
+      "flag": false
+    },
+    {
+      "cue": "838",
+      "duration_seconds": 4.72,
+      "hindi_words": 7,
+      "words_per_second": 1.48,
+      "flag": false
+    },
+    {
+      "cue": "839",
+      "duration_seconds": 2.48,
+      "hindi_words": 8,
+      "words_per_second": 3.23,
+      "flag": false
+    },
+    {
+      "cue": "840",
+      "duration_seconds": 5.08,
+      "hindi_words": 12,
+      "words_per_second": 2.36,
+      "flag": false
+    },
+    {
+      "cue": "841",
+      "duration_seconds": 4.16,
+      "hindi_words": 13,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "842",
+      "duration_seconds": 2.6,
+      "hindi_words": 6,
+      "words_per_second": 2.31,
+      "flag": false
+    },
+    {
+      "cue": "843",
+      "duration_seconds": 4.52,
+      "hindi_words": 8,
+      "words_per_second": 1.77,
+      "flag": false
+    },
+    {
+      "cue": "844",
+      "duration_seconds": 2.36,
+      "hindi_words": 7,
+      "words_per_second": 2.97,
+      "flag": false
+    },
+    {
+      "cue": "845",
+      "duration_seconds": 1.48,
+      "hindi_words": 5,
+      "words_per_second": 3.38,
+      "flag": false
+    },
+    {
+      "cue": "846",
+      "duration_seconds": 2.72,
+      "hindi_words": 11,
+      "words_per_second": 4.04,
+      "flag": false
+    },
+    {
+      "cue": "847",
+      "duration_seconds": 2.92,
+      "hindi_words": 9,
+      "words_per_second": 3.08,
+      "flag": false
+    },
+    {
+      "cue": "848",
+      "duration_seconds": 2.56,
+      "hindi_words": 6,
+      "words_per_second": 2.34,
+      "flag": false
+    },
+    {
+      "cue": "849",
+      "duration_seconds": 2.68,
+      "hindi_words": 7,
+      "words_per_second": 2.61,
+      "flag": false
+    },
+    {
+      "cue": "850",
+      "duration_seconds": 1.48,
+      "hindi_words": 7,
+      "words_per_second": 4.73,
+      "flag": false
+    },
+    {
+      "cue": "851",
+      "duration_seconds": 2.44,
+      "hindi_words": 7,
+      "words_per_second": 2.87,
+      "flag": false
+    },
+    {
+      "cue": "852",
+      "duration_seconds": 1.68,
+      "hindi_words": 8,
+      "words_per_second": 4.76,
+      "flag": false
+    },
+    {
+      "cue": "853",
+      "duration_seconds": 1.68,
+      "hindi_words": 6,
+      "words_per_second": 3.57,
+      "flag": false
+    },
+    {
+      "cue": "854",
+      "duration_seconds": 3.36,
+      "hindi_words": 8,
+      "words_per_second": 2.38,
+      "flag": false
+    },
+    {
+      "cue": "855",
+      "duration_seconds": 1.36,
+      "hindi_words": 7,
+      "words_per_second": 5.15,
+      "flag": false
+    },
+    {
+      "cue": "856",
+      "duration_seconds": 1.96,
+      "hindi_words": 8,
+      "words_per_second": 4.08,
+      "flag": false
+    },
+    {
+      "cue": "857",
+      "duration_seconds": 2.8,
+      "hindi_words": 9,
+      "words_per_second": 3.21,
+      "flag": false
+    },
+    {
+      "cue": "858",
+      "duration_seconds": 2.36,
+      "hindi_words": 7,
+      "words_per_second": 2.97,
+      "flag": false
+    },
+    {
+      "cue": "859",
+      "duration_seconds": 4.2,
+      "hindi_words": 9,
+      "words_per_second": 2.14,
+      "flag": false
+    },
+    {
+      "cue": "860",
+      "duration_seconds": 4.04,
+      "hindi_words": 14,
+      "words_per_second": 3.47,
+      "flag": false
+    },
+    {
+      "cue": "861",
+      "duration_seconds": 2.08,
+      "hindi_words": 9,
+      "words_per_second": 4.33,
+      "flag": false
+    },
+    {
+      "cue": "862",
+      "duration_seconds": 3.28,
+      "hindi_words": 9,
+      "words_per_second": 2.74,
+      "flag": false
+    },
+    {
+      "cue": "863",
+      "duration_seconds": 4.44,
+      "hindi_words": 7,
+      "words_per_second": 1.58,
+      "flag": false
+    },
+    {
+      "cue": "864",
+      "duration_seconds": 5.4,
+      "hindi_words": 12,
+      "words_per_second": 2.22,
+      "flag": false
+    },
+    {
+      "cue": "865",
+      "duration_seconds": 1.76,
+      "hindi_words": 4,
+      "words_per_second": 2.27,
+      "flag": false
+    },
+    {
+      "cue": "866",
+      "duration_seconds": 4.8,
+      "hindi_words": 9,
+      "words_per_second": 1.88,
+      "flag": false
+    },
+    {
+      "cue": "867",
+      "duration_seconds": 4.52,
+      "hindi_words": 5,
+      "words_per_second": 1.11,
+      "flag": false
+    },
+    {
+      "cue": "868",
+      "duration_seconds": 3.92,
+      "hindi_words": 7,
+      "words_per_second": 1.79,
+      "flag": false
+    },
+    {
+      "cue": "869",
+      "duration_seconds": 1.52,
+      "hindi_words": 5,
+      "words_per_second": 3.29,
+      "flag": false
+    },
+    {
+      "cue": "870",
+      "duration_seconds": 6.6,
+      "hindi_words": 12,
+      "words_per_second": 1.82,
+      "flag": false
+    },
+    {
+      "cue": "871",
+      "duration_seconds": 3.48,
+      "hindi_words": 10,
+      "words_per_second": 2.87,
+      "flag": false
+    },
+    {
+      "cue": "872",
+      "duration_seconds": 1.2,
+      "hindi_words": 3,
+      "words_per_second": 2.5,
+      "flag": false
+    },
+    {
+      "cue": "873",
+      "duration_seconds": 3.32,
+      "hindi_words": 10,
+      "words_per_second": 3.01,
+      "flag": false
+    },
+    {
+      "cue": "874",
+      "duration_seconds": 4.36,
+      "hindi_words": 9,
+      "words_per_second": 2.06,
+      "flag": false
+    },
+    {
+      "cue": "875",
+      "duration_seconds": 2.12,
+      "hindi_words": 5,
+      "words_per_second": 2.36,
+      "flag": false
+    },
+    {
+      "cue": "876",
+      "duration_seconds": 1.88,
+      "hindi_words": 7,
+      "words_per_second": 3.72,
+      "flag": false
+    },
+    {
+      "cue": "877",
+      "duration_seconds": 1.48,
+      "hindi_words": 9,
+      "words_per_second": 6.08,
+      "flag": true
+    },
+    {
+      "cue": "878",
+      "duration_seconds": 1.48,
+      "hindi_words": 7,
+      "words_per_second": 4.73,
+      "flag": false
+    },
+    {
+      "cue": "879",
+      "duration_seconds": 3.28,
+      "hindi_words": 6,
+      "words_per_second": 1.83,
+      "flag": false
+    },
+    {
+      "cue": "880",
+      "duration_seconds": 1.4,
+      "hindi_words": 6,
+      "words_per_second": 4.29,
+      "flag": false
+    },
+    {
+      "cue": "881",
+      "duration_seconds": 3.8,
+      "hindi_words": 9,
+      "words_per_second": 2.37,
+      "flag": false
+    },
+    {
+      "cue": "882",
+      "duration_seconds": 1.64,
+      "hindi_words": 7,
+      "words_per_second": 4.27,
+      "flag": false
+    },
+    {
+      "cue": "883",
+      "duration_seconds": 2.68,
+      "hindi_words": 7,
+      "words_per_second": 2.61,
+      "flag": false
+    },
+    {
+      "cue": "884",
+      "duration_seconds": 3.32,
+      "hindi_words": 6,
+      "words_per_second": 1.81,
+      "flag": false
+    },
+    {
+      "cue": "885",
+      "duration_seconds": 6.96,
+      "hindi_words": 10,
+      "words_per_second": 1.44,
+      "flag": false
+    },
+    {
+      "cue": "886",
+      "duration_seconds": 2.24,
+      "hindi_words": 5,
+      "words_per_second": 2.23,
+      "flag": false
+    },
+    {
+      "cue": "887",
+      "duration_seconds": 1.96,
+      "hindi_words": 4,
+      "words_per_second": 2.04,
+      "flag": false
+    },
+    {
+      "cue": "888",
+      "duration_seconds": 4.08,
+      "hindi_words": 8,
+      "words_per_second": 1.96,
+      "flag": false
+    },
+    {
+      "cue": "889",
+      "duration_seconds": 4.52,
+      "hindi_words": 6,
+      "words_per_second": 1.33,
+      "flag": false
+    },
+    {
+      "cue": "890",
+      "duration_seconds": 3.8,
+      "hindi_words": 9,
+      "words_per_second": 2.37,
+      "flag": false
+    },
+    {
+      "cue": "891",
+      "duration_seconds": 5.24,
+      "hindi_words": 9,
+      "words_per_second": 1.72,
+      "flag": false
+    },
+    {
+      "cue": "892",
+      "duration_seconds": 2.4,
+      "hindi_words": 8,
+      "words_per_second": 3.33,
+      "flag": false
+    },
+    {
+      "cue": "893",
+      "duration_seconds": 1.24,
+      "hindi_words": 6,
+      "words_per_second": 4.84,
+      "flag": false
+    },
+    {
+      "cue": "894",
+      "duration_seconds": 3.12,
+      "hindi_words": 8,
+      "words_per_second": 2.56,
+      "flag": false
+    },
+    {
+      "cue": "895",
+      "duration_seconds": 3.28,
+      "hindi_words": 10,
+      "words_per_second": 3.05,
+      "flag": false
+    },
+    {
+      "cue": "896",
+      "duration_seconds": 3.76,
+      "hindi_words": 8,
+      "words_per_second": 2.13,
+      "flag": false
+    },
+    {
+      "cue": "897",
+      "duration_seconds": 2.52,
+      "hindi_words": 10,
+      "words_per_second": 3.97,
+      "flag": false
+    },
+    {
+      "cue": "898",
+      "duration_seconds": 1.96,
+      "hindi_words": 8,
+      "words_per_second": 4.08,
+      "flag": false
+    },
+    {
+      "cue": "899",
+      "duration_seconds": 3.0,
+      "hindi_words": 10,
+      "words_per_second": 3.33,
+      "flag": false
+    },
+    {
+      "cue": "900",
+      "duration_seconds": 5.36,
+      "hindi_words": 12,
+      "words_per_second": 2.24,
+      "flag": false
+    },
+    {
+      "cue": "901",
+      "duration_seconds": 3.32,
+      "hindi_words": 6,
+      "words_per_second": 1.81,
+      "flag": false
+    },
+    {
+      "cue": "902",
+      "duration_seconds": 4.24,
+      "hindi_words": 11,
+      "words_per_second": 2.59,
+      "flag": false
+    },
+    {
+      "cue": "903",
+      "duration_seconds": 2.52,
+      "hindi_words": 5,
+      "words_per_second": 1.98,
+      "flag": false
+    },
+    {
+      "cue": "904",
+      "duration_seconds": 4.4,
+      "hindi_words": 10,
+      "words_per_second": 2.27,
+      "flag": false
+    },
+    {
+      "cue": "905",
+      "duration_seconds": 2.32,
+      "hindi_words": 7,
+      "words_per_second": 3.02,
+      "flag": false
+    },
+    {
+      "cue": "906",
+      "duration_seconds": 1.32,
+      "hindi_words": 7,
+      "words_per_second": 5.3,
+      "flag": false
+    },
+    {
+      "cue": "907",
+      "duration_seconds": 3.72,
+      "hindi_words": 8,
+      "words_per_second": 2.15,
+      "flag": false
+    },
+    {
+      "cue": "908",
+      "duration_seconds": 2.16,
+      "hindi_words": 7,
+      "words_per_second": 3.24,
+      "flag": false
+    },
+    {
+      "cue": "909",
+      "duration_seconds": 2.24,
+      "hindi_words": 8,
+      "words_per_second": 3.57,
+      "flag": false
+    },
+    {
+      "cue": "910",
+      "duration_seconds": 2.52,
+      "hindi_words": 5,
+      "words_per_second": 1.98,
+      "flag": false
+    },
+    {
+      "cue": "911",
+      "duration_seconds": 3.32,
+      "hindi_words": 9,
+      "words_per_second": 2.71,
+      "flag": false
+    },
+    {
+      "cue": "912",
+      "duration_seconds": 2.16,
+      "hindi_words": 6,
+      "words_per_second": 2.78,
+      "flag": false
+    },
+    {
+      "cue": "913",
+      "duration_seconds": 2.28,
+      "hindi_words": 10,
+      "words_per_second": 4.39,
+      "flag": false
+    },
+    {
+      "cue": "914",
+      "duration_seconds": 5.76,
+      "hindi_words": 8,
+      "words_per_second": 1.39,
+      "flag": false
+    },
+    {
+      "cue": "915",
+      "duration_seconds": 5.12,
+      "hindi_words": 14,
+      "words_per_second": 2.73,
+      "flag": false
+    },
+    {
+      "cue": "916",
+      "duration_seconds": 4.92,
+      "hindi_words": 10,
+      "words_per_second": 2.03,
+      "flag": false
+    },
+    {
+      "cue": "917",
+      "duration_seconds": 2.64,
+      "hindi_words": 7,
+      "words_per_second": 2.65,
+      "flag": false
+    },
+    {
+      "cue": "918",
+      "duration_seconds": 1.24,
+      "hindi_words": 4,
+      "words_per_second": 3.23,
+      "flag": false
+    },
+    {
+      "cue": "919",
+      "duration_seconds": 3.24,
+      "hindi_words": 13,
+      "words_per_second": 4.01,
+      "flag": false
+    },
+    {
+      "cue": "920",
+      "duration_seconds": 3.68,
+      "hindi_words": 11,
+      "words_per_second": 2.99,
+      "flag": false
+    },
+    {
+      "cue": "921",
+      "duration_seconds": 1.72,
+      "hindi_words": 8,
+      "words_per_second": 4.65,
+      "flag": false
+    },
+    {
+      "cue": "922",
+      "duration_seconds": 4.2,
+      "hindi_words": 12,
+      "words_per_second": 2.86,
+      "flag": false
+    },
+    {
+      "cue": "923",
+      "duration_seconds": 2.6,
+      "hindi_words": 10,
+      "words_per_second": 3.85,
+      "flag": false
+    },
+    {
+      "cue": "924",
+      "duration_seconds": 1.68,
+      "hindi_words": 6,
+      "words_per_second": 3.57,
+      "flag": false
+    },
+    {
+      "cue": "925",
+      "duration_seconds": 3.44,
+      "hindi_words": 8,
+      "words_per_second": 2.33,
+      "flag": false
+    },
+    {
+      "cue": "926",
+      "duration_seconds": 2.32,
+      "hindi_words": 9,
+      "words_per_second": 3.88,
+      "flag": false
+    },
+    {
+      "cue": "927",
+      "duration_seconds": 1.76,
+      "hindi_words": 6,
+      "words_per_second": 3.41,
+      "flag": false
+    },
+    {
+      "cue": "928",
+      "duration_seconds": 1.48,
+      "hindi_words": 5,
+      "words_per_second": 3.38,
+      "flag": false
+    },
+    {
+      "cue": "929",
+      "duration_seconds": 1.6,
+      "hindi_words": 11,
+      "words_per_second": 6.88,
+      "flag": true
+    },
+    {
+      "cue": "930",
+      "duration_seconds": 2.64,
+      "hindi_words": 5,
+      "words_per_second": 1.89,
+      "flag": false
+    },
+    {
+      "cue": "931",
+      "duration_seconds": 1.88,
+      "hindi_words": 8,
+      "words_per_second": 4.26,
+      "flag": false
+    },
+    {
+      "cue": "932",
+      "duration_seconds": 3.16,
+      "hindi_words": 10,
+      "words_per_second": 3.16,
+      "flag": false
+    },
+    {
+      "cue": "933",
+      "duration_seconds": 2.76,
+      "hindi_words": 8,
+      "words_per_second": 2.9,
+      "flag": false
+    },
+    {
+      "cue": "934",
+      "duration_seconds": 3.44,
+      "hindi_words": 8,
+      "words_per_second": 2.33,
+      "flag": false
+    },
+    {
+      "cue": "935",
+      "duration_seconds": 2.96,
+      "hindi_words": 9,
+      "words_per_second": 3.04,
+      "flag": false
+    },
+    {
+      "cue": "936",
+      "duration_seconds": 6.24,
+      "hindi_words": 9,
+      "words_per_second": 1.44,
+      "flag": false
+    },
+    {
+      "cue": "937",
+      "duration_seconds": 1.64,
+      "hindi_words": 4,
+      "words_per_second": 2.44,
+      "flag": false
+    },
+    {
+      "cue": "938",
+      "duration_seconds": 4.0,
+      "hindi_words": 9,
+      "words_per_second": 2.25,
+      "flag": false
+    },
+    {
+      "cue": "939",
+      "duration_seconds": 3.16,
+      "hindi_words": 4,
+      "words_per_second": 1.27,
+      "flag": false
+    },
+    {
+      "cue": "940",
+      "duration_seconds": 4.68,
+      "hindi_words": 10,
+      "words_per_second": 2.14,
+      "flag": false
+    },
+    {
+      "cue": "941",
+      "duration_seconds": 3.28,
+      "hindi_words": 12,
+      "words_per_second": 3.66,
+      "flag": false
+    },
+    {
+      "cue": "942",
+      "duration_seconds": 4.28,
+      "hindi_words": 15,
+      "words_per_second": 3.5,
+      "flag": false
+    },
+    {
+      "cue": "943",
+      "duration_seconds": 1.92,
+      "hindi_words": 7,
+      "words_per_second": 3.65,
+      "flag": false
+    },
+    {
+      "cue": "944",
+      "duration_seconds": 3.64,
+      "hindi_words": 12,
+      "words_per_second": 3.3,
+      "flag": false
+    },
+    {
+      "cue": "945",
+      "duration_seconds": 4.2,
+      "hindi_words": 6,
+      "words_per_second": 1.43,
+      "flag": false
+    },
+    {
+      "cue": "946",
+      "duration_seconds": 4.24,
+      "hindi_words": 13,
+      "words_per_second": 3.07,
+      "flag": false
+    },
+    {
+      "cue": "947",
+      "duration_seconds": 4.2,
+      "hindi_words": 8,
+      "words_per_second": 1.9,
+      "flag": false
+    },
+    {
+      "cue": "948",
+      "duration_seconds": 3.24,
+      "hindi_words": 14,
+      "words_per_second": 4.32,
+      "flag": false
+    },
+    {
+      "cue": "949",
+      "duration_seconds": 3.8,
+      "hindi_words": 9,
+      "words_per_second": 2.37,
+      "flag": false
+    },
+    {
+      "cue": "950",
+      "duration_seconds": 3.8,
+      "hindi_words": 10,
+      "words_per_second": 2.63,
+      "flag": false
+    },
+    {
+      "cue": "951",
+      "duration_seconds": 5.44,
+      "hindi_words": 5,
+      "words_per_second": 0.92,
+      "flag": false
+    },
+    {
+      "cue": "952",
+      "duration_seconds": 7.48,
+      "hindi_words": 9,
+      "words_per_second": 1.2,
+      "flag": false
+    },
+    {
+      "cue": "953",
+      "duration_seconds": 3.2,
+      "hindi_words": 6,
+      "words_per_second": 1.88,
+      "flag": false
+    },
+    {
+      "cue": "954",
+      "duration_seconds": 5.12,
+      "hindi_words": 7,
+      "words_per_second": 1.37,
+      "flag": false
+    },
+    {
+      "cue": "955",
+      "duration_seconds": 7.08,
+      "hindi_words": 12,
+      "words_per_second": 1.69,
+      "flag": false
+    },
+    {
+      "cue": "956",
+      "duration_seconds": 2.84,
+      "hindi_words": 11,
+      "words_per_second": 3.87,
+      "flag": false
+    },
+    {
+      "cue": "957",
+      "duration_seconds": 2.0,
+      "hindi_words": 8,
+      "words_per_second": 4.0,
+      "flag": false
+    },
+    {
+      "cue": "958",
+      "duration_seconds": 4.84,
+      "hindi_words": 9,
+      "words_per_second": 1.86,
+      "flag": false
+    },
+    {
+      "cue": "959",
+      "duration_seconds": 4.68,
+      "hindi_words": 7,
+      "words_per_second": 1.5,
+      "flag": false
+    },
+    {
+      "cue": "960",
+      "duration_seconds": 4.4,
+      "hindi_words": 11,
+      "words_per_second": 2.5,
+      "flag": false
+    },
+    {
+      "cue": "961",
+      "duration_seconds": 1.88,
+      "hindi_words": 10,
+      "words_per_second": 5.32,
+      "flag": false
+    },
+    {
+      "cue": "962",
+      "duration_seconds": 2.56,
+      "hindi_words": 12,
+      "words_per_second": 4.69,
+      "flag": false
+    },
+    {
+      "cue": "963",
+      "duration_seconds": 3.2,
+      "hindi_words": 7,
+      "words_per_second": 2.19,
+      "flag": false
+    },
+    {
+      "cue": "964",
+      "duration_seconds": 2.88,
+      "hindi_words": 9,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "965",
+      "duration_seconds": 3.96,
+      "hindi_words": 10,
+      "words_per_second": 2.53,
+      "flag": false
+    },
+    {
+      "cue": "966",
+      "duration_seconds": 3.8,
+      "hindi_words": 8,
+      "words_per_second": 2.11,
+      "flag": false
+    },
+    {
+      "cue": "967",
+      "duration_seconds": 4.04,
+      "hindi_words": 10,
+      "words_per_second": 2.48,
+      "flag": false
+    },
+    {
+      "cue": "968",
+      "duration_seconds": 2.12,
+      "hindi_words": 6,
+      "words_per_second": 2.83,
+      "flag": false
+    },
+    {
+      "cue": "969",
+      "duration_seconds": 1.84,
+      "hindi_words": 10,
+      "words_per_second": 5.43,
+      "flag": false
+    },
+    {
+      "cue": "970",
+      "duration_seconds": 1.4,
+      "hindi_words": 3,
+      "words_per_second": 2.14,
+      "flag": false
+    },
+    {
+      "cue": "971",
+      "duration_seconds": 1.8,
+      "hindi_words": 6,
+      "words_per_second": 3.33,
+      "flag": false
+    },
+    {
+      "cue": "972",
+      "duration_seconds": 4.72,
+      "hindi_words": 9,
+      "words_per_second": 1.91,
+      "flag": false
+    },
+    {
+      "cue": "973",
+      "duration_seconds": 3.24,
+      "hindi_words": 10,
+      "words_per_second": 3.09,
+      "flag": false
+    },
+    {
+      "cue": "974",
+      "duration_seconds": 1.64,
+      "hindi_words": 8,
+      "words_per_second": 4.88,
+      "flag": false
+    },
+    {
+      "cue": "975",
+      "duration_seconds": 3.96,
+      "hindi_words": 6,
+      "words_per_second": 1.52,
+      "flag": false
+    },
+    {
+      "cue": "976",
+      "duration_seconds": 1.52,
+      "hindi_words": 5,
+      "words_per_second": 3.29,
+      "flag": false
+    },
+    {
+      "cue": "977",
+      "duration_seconds": 2.72,
+      "hindi_words": 10,
+      "words_per_second": 3.68,
+      "flag": false
+    },
+    {
+      "cue": "978",
+      "duration_seconds": 3.84,
+      "hindi_words": 7,
+      "words_per_second": 1.82,
+      "flag": false
+    },
+    {
+      "cue": "979",
+      "duration_seconds": 4.88,
+      "hindi_words": 5,
+      "words_per_second": 1.02,
+      "flag": false
+    },
+    {
+      "cue": "980",
+      "duration_seconds": 2.32,
+      "hindi_words": 6,
+      "words_per_second": 2.59,
+      "flag": false
+    },
+    {
+      "cue": "981",
+      "duration_seconds": 1.56,
+      "hindi_words": 5,
+      "words_per_second": 3.21,
+      "flag": false
+    },
+    {
+      "cue": "982",
+      "duration_seconds": 2.6,
+      "hindi_words": 10,
+      "words_per_second": 3.85,
+      "flag": false
+    },
+    {
+      "cue": "983",
+      "duration_seconds": 2.6,
+      "hindi_words": 11,
+      "words_per_second": 4.23,
+      "flag": false
+    },
+    {
+      "cue": "984",
+      "duration_seconds": 2.64,
+      "hindi_words": 10,
+      "words_per_second": 3.79,
+      "flag": false
+    },
+    {
+      "cue": "985",
+      "duration_seconds": 2.84,
+      "hindi_words": 4,
+      "words_per_second": 1.41,
+      "flag": false
+    },
+    {
+      "cue": "986",
+      "duration_seconds": 2.76,
+      "hindi_words": 9,
+      "words_per_second": 3.26,
+      "flag": false
+    },
+    {
+      "cue": "987",
+      "duration_seconds": 0.92,
+      "hindi_words": 4,
+      "words_per_second": 4.35,
+      "flag": false
+    },
+    {
+      "cue": "988",
+      "duration_seconds": 2.36,
+      "hindi_words": 8,
+      "words_per_second": 3.39,
+      "flag": false
+    },
+    {
+      "cue": "989",
+      "duration_seconds": 2.88,
+      "hindi_words": 11,
+      "words_per_second": 3.82,
+      "flag": false
+    },
+    {
+      "cue": "990",
+      "duration_seconds": 2.92,
+      "hindi_words": 10,
+      "words_per_second": 3.42,
+      "flag": false
+    },
+    {
+      "cue": "991",
+      "duration_seconds": 3.32,
+      "hindi_words": 9,
+      "words_per_second": 2.71,
+      "flag": false
+    },
+    {
+      "cue": "992",
+      "duration_seconds": 3.68,
+      "hindi_words": 7,
+      "words_per_second": 1.9,
+      "flag": false
+    },
+    {
+      "cue": "993",
+      "duration_seconds": 2.08,
+      "hindi_words": 4,
+      "words_per_second": 1.92,
+      "flag": false
+    },
+    {
+      "cue": "994",
+      "duration_seconds": 1.12,
+      "hindi_words": 5,
+      "words_per_second": 4.46,
+      "flag": false
+    },
+    {
+      "cue": "995",
+      "duration_seconds": 2.2,
+      "hindi_words": 12,
+      "words_per_second": 5.45,
+      "flag": false
+    },
+    {
+      "cue": "996",
+      "duration_seconds": 2.52,
+      "hindi_words": 9,
+      "words_per_second": 3.57,
+      "flag": false
+    },
+    {
+      "cue": "997",
+      "duration_seconds": 2.88,
+      "hindi_words": 13,
+      "words_per_second": 4.51,
+      "flag": false
+    },
+    {
+      "cue": "998",
+      "duration_seconds": 2.0,
+      "hindi_words": 5,
+      "words_per_second": 2.5,
+      "flag": false
+    },
+    {
+      "cue": "999",
+      "duration_seconds": 1.92,
+      "hindi_words": 5,
+      "words_per_second": 2.6,
+      "flag": false
+    },
+    {
+      "cue": "1000",
+      "duration_seconds": 3.84,
+      "hindi_words": 7,
+      "words_per_second": 1.82,
+      "flag": false
+    },
+    {
+      "cue": "1001",
+      "duration_seconds": 3.56,
+      "hindi_words": 9,
+      "words_per_second": 2.53,
+      "flag": false
+    },
+    {
+      "cue": "1002",
+      "duration_seconds": 1.04,
+      "hindi_words": 5,
+      "words_per_second": 4.81,
+      "flag": false
+    },
+    {
+      "cue": "1003",
+      "duration_seconds": 3.36,
+      "hindi_words": 9,
+      "words_per_second": 2.68,
+      "flag": false
+    },
+    {
+      "cue": "1004",
+      "duration_seconds": 3.68,
+      "hindi_words": 10,
+      "words_per_second": 2.72,
+      "flag": false
+    },
+    {
+      "cue": "1005",
+      "duration_seconds": 4.32,
+      "hindi_words": 10,
+      "words_per_second": 2.31,
+      "flag": false
+    },
+    {
+      "cue": "1006",
+      "duration_seconds": 4.16,
+      "hindi_words": 10,
+      "words_per_second": 2.4,
+      "flag": false
+    },
+    {
+      "cue": "1007",
+      "duration_seconds": 3.92,
+      "hindi_words": 6,
+      "words_per_second": 1.53,
+      "flag": false
+    },
+    {
+      "cue": "1008",
+      "duration_seconds": 4.16,
+      "hindi_words": 11,
+      "words_per_second": 2.64,
+      "flag": false
+    },
+    {
+      "cue": "1009",
+      "duration_seconds": 3.44,
+      "hindi_words": 7,
+      "words_per_second": 2.03,
+      "flag": false
+    },
+    {
+      "cue": "1010",
+      "duration_seconds": 6.04,
+      "hindi_words": 9,
+      "words_per_second": 1.49,
+      "flag": false
+    },
+    {
+      "cue": "1011",
+      "duration_seconds": 2.2,
+      "hindi_words": 6,
+      "words_per_second": 2.73,
+      "flag": false
+    },
+    {
+      "cue": "1012",
+      "duration_seconds": 2.92,
+      "hindi_words": 11,
+      "words_per_second": 3.77,
+      "flag": false
+    },
+    {
+      "cue": "1013",
+      "duration_seconds": 1.6,
+      "hindi_words": 7,
+      "words_per_second": 4.38,
+      "flag": false
+    },
+    {
+      "cue": "1014",
+      "duration_seconds": 2.72,
+      "hindi_words": 7,
+      "words_per_second": 2.57,
+      "flag": false
+    },
+    {
+      "cue": "1015",
+      "duration_seconds": 2.12,
+      "hindi_words": 8,
+      "words_per_second": 3.77,
+      "flag": false
+    },
+    {
+      "cue": "1016",
+      "duration_seconds": 6.76,
+      "hindi_words": 11,
+      "words_per_second": 1.63,
+      "flag": false
+    },
+    {
+      "cue": "1017",
+      "duration_seconds": 5.56,
+      "hindi_words": 8,
+      "words_per_second": 1.44,
+      "flag": false
+    },
+    {
+      "cue": "1018",
+      "duration_seconds": 2.84,
+      "hindi_words": 8,
+      "words_per_second": 2.82,
+      "flag": false
+    },
+    {
+      "cue": "1019",
+      "duration_seconds": 4.92,
+      "hindi_words": 8,
+      "words_per_second": 1.63,
+      "flag": false
+    },
+    {
+      "cue": "1020",
+      "duration_seconds": 3.48,
+      "hindi_words": 6,
+      "words_per_second": 1.72,
+      "flag": false
+    },
+    {
+      "cue": "1021",
+      "duration_seconds": 1.76,
+      "hindi_words": 6,
+      "words_per_second": 3.41,
+      "flag": false
+    },
+    {
+      "cue": "1022",
+      "duration_seconds": 1.68,
+      "hindi_words": 6,
+      "words_per_second": 3.57,
+      "flag": false
+    },
+    {
+      "cue": "1023",
+      "duration_seconds": 5.2,
+      "hindi_words": 10,
+      "words_per_second": 1.92,
+      "flag": false
+    },
+    {
+      "cue": "1024",
+      "duration_seconds": 6.88,
+      "hindi_words": 9,
+      "words_per_second": 1.31,
+      "flag": false
+    },
+    {
+      "cue": "1025",
+      "duration_seconds": 3.48,
+      "hindi_words": 7,
+      "words_per_second": 2.01,
+      "flag": false
+    },
+    {
+      "cue": "1026",
+      "duration_seconds": 6.0,
+      "hindi_words": 10,
+      "words_per_second": 1.67,
+      "flag": false
+    },
+    {
+      "cue": "1027",
+      "duration_seconds": 3.6,
+      "hindi_words": 11,
+      "words_per_second": 3.06,
+      "flag": false
+    },
+    {
+      "cue": "1028",
+      "duration_seconds": 4.88,
+      "hindi_words": 10,
+      "words_per_second": 2.05,
+      "flag": false
+    },
+    {
+      "cue": "1029",
+      "duration_seconds": 3.08,
+      "hindi_words": 10,
+      "words_per_second": 3.25,
+      "flag": false
+    },
+    {
+      "cue": "1030",
+      "duration_seconds": 1.28,
+      "hindi_words": 7,
+      "words_per_second": 5.47,
+      "flag": false
+    },
+    {
+      "cue": "1031",
+      "duration_seconds": 1.76,
+      "hindi_words": 8,
+      "words_per_second": 4.55,
+      "flag": false
+    },
+    {
+      "cue": "1032",
+      "duration_seconds": 2.68,
+      "hindi_words": 10,
+      "words_per_second": 3.73,
+      "flag": false
+    },
+    {
+      "cue": "1033",
+      "duration_seconds": 5.44,
+      "hindi_words": 12,
+      "words_per_second": 2.21,
+      "flag": false
+    },
+    {
+      "cue": "1034",
+      "duration_seconds": 3.64,
+      "hindi_words": 9,
+      "words_per_second": 2.47,
+      "flag": false
+    },
+    {
+      "cue": "1035",
+      "duration_seconds": 2.88,
+      "hindi_words": 9,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "1036",
+      "duration_seconds": 6.24,
+      "hindi_words": 7,
+      "words_per_second": 1.12,
+      "flag": false
+    },
+    {
+      "cue": "1037",
+      "duration_seconds": 4.6,
+      "hindi_words": 8,
+      "words_per_second": 1.74,
+      "flag": false
+    },
+    {
+      "cue": "1038",
+      "duration_seconds": 3.52,
+      "hindi_words": 5,
+      "words_per_second": 1.42,
+      "flag": false
+    },
+    {
+      "cue": "1039",
+      "duration_seconds": 1.12,
+      "hindi_words": 6,
+      "words_per_second": 5.36,
+      "flag": false
+    },
+    {
+      "cue": "1040",
+      "duration_seconds": 5.4,
+      "hindi_words": 10,
+      "words_per_second": 1.85,
+      "flag": false
+    },
+    {
+      "cue": "1041",
+      "duration_seconds": 2.24,
+      "hindi_words": 9,
+      "words_per_second": 4.02,
+      "flag": false
+    },
+    {
+      "cue": "1042",
+      "duration_seconds": 2.52,
+      "hindi_words": 10,
+      "words_per_second": 3.97,
+      "flag": false
+    },
+    {
+      "cue": "1043",
+      "duration_seconds": 3.08,
+      "hindi_words": 7,
+      "words_per_second": 2.27,
+      "flag": false
+    },
+    {
+      "cue": "1044",
+      "duration_seconds": 2.08,
+      "hindi_words": 8,
+      "words_per_second": 3.85,
+      "flag": false
+    },
+    {
+      "cue": "1045",
+      "duration_seconds": 1.56,
+      "hindi_words": 5,
+      "words_per_second": 3.21,
+      "flag": false
+    },
+    {
+      "cue": "1046",
+      "duration_seconds": 1.96,
+      "hindi_words": 8,
+      "words_per_second": 4.08,
+      "flag": false
+    },
+    {
+      "cue": "1047",
+      "duration_seconds": 2.96,
+      "hindi_words": 8,
+      "words_per_second": 2.7,
+      "flag": false
+    },
+    {
+      "cue": "1048",
+      "duration_seconds": 2.48,
+      "hindi_words": 11,
+      "words_per_second": 4.44,
+      "flag": false
+    },
+    {
+      "cue": "1049",
+      "duration_seconds": 2.88,
+      "hindi_words": 8,
+      "words_per_second": 2.78,
+      "flag": false
+    },
+    {
+      "cue": "1050",
+      "duration_seconds": 2.08,
+      "hindi_words": 6,
+      "words_per_second": 2.88,
+      "flag": false
+    },
+    {
+      "cue": "1051",
+      "duration_seconds": 2.72,
+      "hindi_words": 9,
+      "words_per_second": 3.31,
+      "flag": false
+    },
+    {
+      "cue": "1052",
+      "duration_seconds": 2.84,
+      "hindi_words": 10,
+      "words_per_second": 3.52,
+      "flag": false
+    },
+    {
+      "cue": "1053",
+      "duration_seconds": 1.44,
+      "hindi_words": 4,
+      "words_per_second": 2.78,
+      "flag": false
+    },
+    {
+      "cue": "1054",
+      "duration_seconds": 2.52,
+      "hindi_words": 6,
+      "words_per_second": 2.38,
+      "flag": false
+    },
+    {
+      "cue": "1055",
+      "duration_seconds": 1.36,
+      "hindi_words": 4,
+      "words_per_second": 2.94,
+      "flag": false
+    },
+    {
+      "cue": "1056",
+      "duration_seconds": 3.96,
+      "hindi_words": 10,
+      "words_per_second": 2.53,
+      "flag": false
+    },
+    {
+      "cue": "1057",
+      "duration_seconds": 4.16,
+      "hindi_words": 10,
+      "words_per_second": 2.4,
+      "flag": false
+    },
+    {
+      "cue": "1058",
+      "duration_seconds": 3.88,
+      "hindi_words": 9,
+      "words_per_second": 2.32,
+      "flag": false
+    },
+    {
+      "cue": "1059",
+      "duration_seconds": 4.44,
+      "hindi_words": 11,
+      "words_per_second": 2.48,
+      "flag": false
+    },
+    {
+      "cue": "1060",
+      "duration_seconds": 2.68,
+      "hindi_words": 4,
+      "words_per_second": 1.49,
+      "flag": false
+    },
+    {
+      "cue": "1061",
+      "duration_seconds": 3.8,
+      "hindi_words": 6,
+      "words_per_second": 1.58,
+      "flag": false
+    },
+    {
+      "cue": "1062",
+      "duration_seconds": 2.0,
+      "hindi_words": 5,
+      "words_per_second": 2.5,
+      "flag": false
+    },
+    {
+      "cue": "1063",
+      "duration_seconds": 4.6,
+      "hindi_words": 8,
+      "words_per_second": 1.74,
+      "flag": false
+    },
+    {
+      "cue": "1064",
+      "duration_seconds": 2.8,
+      "hindi_words": 13,
+      "words_per_second": 4.64,
+      "flag": false
+    },
+    {
+      "cue": "1065",
+      "duration_seconds": 2.6,
+      "hindi_words": 11,
+      "words_per_second": 4.23,
+      "flag": false
+    },
+    {
+      "cue": "1066",
+      "duration_seconds": 1.6,
+      "hindi_words": 5,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "1067",
+      "duration_seconds": 4.96,
+      "hindi_words": 10,
+      "words_per_second": 2.02,
+      "flag": false
+    },
+    {
+      "cue": "1068",
+      "duration_seconds": 2.6,
+      "hindi_words": 10,
+      "words_per_second": 3.85,
+      "flag": false
+    },
+    {
+      "cue": "1069",
+      "duration_seconds": 3.0,
+      "hindi_words": 10,
+      "words_per_second": 3.33,
+      "flag": false
+    },
+    {
+      "cue": "1070",
+      "duration_seconds": 2.76,
+      "hindi_words": 6,
+      "words_per_second": 2.17,
+      "flag": false
+    },
+    {
+      "cue": "1071",
+      "duration_seconds": 4.32,
+      "hindi_words": 6,
+      "words_per_second": 1.39,
+      "flag": false
+    },
+    {
+      "cue": "1072",
+      "duration_seconds": 2.32,
+      "hindi_words": 7,
+      "words_per_second": 3.02,
+      "flag": false
+    },
+    {
+      "cue": "1073",
+      "duration_seconds": 4.24,
+      "hindi_words": 9,
+      "words_per_second": 2.12,
+      "flag": false
+    },
+    {
+      "cue": "1074",
+      "duration_seconds": 4.08,
+      "hindi_words": 7,
+      "words_per_second": 1.72,
+      "flag": false
+    },
+    {
+      "cue": "1075",
+      "duration_seconds": 1.64,
+      "hindi_words": 7,
+      "words_per_second": 4.27,
+      "flag": false
+    },
+    {
+      "cue": "1076",
+      "duration_seconds": 3.84,
+      "hindi_words": 10,
+      "words_per_second": 2.6,
+      "flag": false
+    },
+    {
+      "cue": "1077",
+      "duration_seconds": 1.32,
+      "hindi_words": 5,
+      "words_per_second": 3.79,
+      "flag": false
+    },
+    {
+      "cue": "1078",
+      "duration_seconds": 1.4,
+      "hindi_words": 7,
+      "words_per_second": 5.0,
+      "flag": false
+    },
+    {
+      "cue": "1079",
+      "duration_seconds": 2.4,
+      "hindi_words": 10,
+      "words_per_second": 4.17,
+      "flag": false
+    },
+    {
+      "cue": "1080",
+      "duration_seconds": 2.52,
+      "hindi_words": 11,
+      "words_per_second": 4.37,
+      "flag": false
+    },
+    {
+      "cue": "1081",
+      "duration_seconds": 2.44,
+      "hindi_words": 10,
+      "words_per_second": 4.1,
+      "flag": false
+    },
+    {
+      "cue": "1082",
+      "duration_seconds": 2.0,
+      "hindi_words": 6,
+      "words_per_second": 3.0,
+      "flag": false
+    },
+    {
+      "cue": "1083",
+      "duration_seconds": 1.52,
+      "hindi_words": 5,
+      "words_per_second": 3.29,
+      "flag": false
+    },
+    {
+      "cue": "1084",
+      "duration_seconds": 5.12,
+      "hindi_words": 12,
+      "words_per_second": 2.34,
+      "flag": false
+    },
+    {
+      "cue": "1085",
+      "duration_seconds": 3.0,
+      "hindi_words": 5,
+      "words_per_second": 1.67,
+      "flag": false
+    },
+    {
+      "cue": "1086",
+      "duration_seconds": 2.32,
+      "hindi_words": 7,
+      "words_per_second": 3.02,
+      "flag": false
+    },
+    {
+      "cue": "1087",
+      "duration_seconds": 2.28,
+      "hindi_words": 6,
+      "words_per_second": 2.63,
+      "flag": false
+    },
+    {
+      "cue": "1088",
+      "duration_seconds": 4.68,
+      "hindi_words": 8,
+      "words_per_second": 1.71,
+      "flag": false
+    },
+    {
+      "cue": "1089",
+      "duration_seconds": 3.32,
+      "hindi_words": 9,
+      "words_per_second": 2.71,
+      "flag": false
+    },
+    {
+      "cue": "1090",
+      "duration_seconds": 2.28,
+      "hindi_words": 8,
+      "words_per_second": 3.51,
+      "flag": false
+    },
+    {
+      "cue": "1091",
+      "duration_seconds": 1.76,
+      "hindi_words": 4,
+      "words_per_second": 2.27,
+      "flag": false
+    },
+    {
+      "cue": "1092",
+      "duration_seconds": 3.72,
+      "hindi_words": 7,
+      "words_per_second": 1.88,
+      "flag": false
+    },
+    {
+      "cue": "1093",
+      "duration_seconds": 3.48,
+      "hindi_words": 8,
+      "words_per_second": 2.3,
+      "flag": false
+    },
+    {
+      "cue": "1094",
+      "duration_seconds": 2.0,
+      "hindi_words": 9,
+      "words_per_second": 4.5,
+      "flag": false
+    },
+    {
+      "cue": "1095",
+      "duration_seconds": 3.76,
+      "hindi_words": 11,
+      "words_per_second": 2.93,
+      "flag": false
+    },
+    {
+      "cue": "1096",
+      "duration_seconds": 1.6,
+      "hindi_words": 5,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "1097",
+      "duration_seconds": 2.24,
+      "hindi_words": 4,
+      "words_per_second": 1.79,
+      "flag": false
+    },
+    {
+      "cue": "1098",
+      "duration_seconds": 5.52,
+      "hindi_words": 11,
+      "words_per_second": 1.99,
+      "flag": false
+    },
+    {
+      "cue": "1099",
+      "duration_seconds": 2.64,
+      "hindi_words": 12,
+      "words_per_second": 4.55,
+      "flag": false
+    },
+    {
+      "cue": "1100",
+      "duration_seconds": 1.12,
+      "hindi_words": 5,
+      "words_per_second": 4.46,
+      "flag": false
+    },
+    {
+      "cue": "1101",
+      "duration_seconds": 3.6,
+      "hindi_words": 6,
+      "words_per_second": 1.67,
+      "flag": false
+    },
+    {
+      "cue": "1102",
+      "duration_seconds": 4.44,
+      "hindi_words": 10,
+      "words_per_second": 2.25,
+      "flag": false
+    },
+    {
+      "cue": "1103",
+      "duration_seconds": 4.52,
+      "hindi_words": 9,
+      "words_per_second": 1.99,
+      "flag": false
+    },
+    {
+      "cue": "1104",
+      "duration_seconds": 1.92,
+      "hindi_words": 4,
+      "words_per_second": 2.08,
+      "flag": false
+    },
+    {
+      "cue": "1105",
+      "duration_seconds": 8.32,
+      "hindi_words": 8,
+      "words_per_second": 0.96,
+      "flag": false
+    },
+    {
+      "cue": "1106",
+      "duration_seconds": 3.32,
+      "hindi_words": 9,
+      "words_per_second": 2.71,
+      "flag": false
+    },
+    {
+      "cue": "1107",
+      "duration_seconds": 1.92,
+      "hindi_words": 6,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "1108",
+      "duration_seconds": 2.4,
+      "hindi_words": 9,
+      "words_per_second": 3.75,
+      "flag": false
+    },
+    {
+      "cue": "1109",
+      "duration_seconds": 3.04,
+      "hindi_words": 11,
+      "words_per_second": 3.62,
+      "flag": false
+    },
+    {
+      "cue": "1110",
+      "duration_seconds": 3.48,
+      "hindi_words": 8,
+      "words_per_second": 2.3,
+      "flag": false
+    },
+    {
+      "cue": "1111",
+      "duration_seconds": 4.08,
+      "hindi_words": 8,
+      "words_per_second": 1.96,
+      "flag": false
+    },
+    {
+      "cue": "1112",
+      "duration_seconds": 2.48,
+      "hindi_words": 11,
+      "words_per_second": 4.44,
+      "flag": false
+    },
+    {
+      "cue": "1113",
+      "duration_seconds": 4.24,
+      "hindi_words": 10,
+      "words_per_second": 2.36,
+      "flag": false
+    },
+    {
+      "cue": "1114",
+      "duration_seconds": 2.92,
+      "hindi_words": 9,
+      "words_per_second": 3.08,
+      "flag": false
+    },
+    {
+      "cue": "1115",
+      "duration_seconds": 1.68,
+      "hindi_words": 7,
+      "words_per_second": 4.17,
+      "flag": false
+    },
+    {
+      "cue": "1116",
+      "duration_seconds": 2.76,
+      "hindi_words": 11,
+      "words_per_second": 3.99,
+      "flag": false
+    },
+    {
+      "cue": "1117",
+      "duration_seconds": 2.16,
+      "hindi_words": 8,
+      "words_per_second": 3.7,
+      "flag": false
+    },
+    {
+      "cue": "1118",
+      "duration_seconds": 3.12,
+      "hindi_words": 11,
+      "words_per_second": 3.53,
+      "flag": false
+    },
+    {
+      "cue": "1119",
+      "duration_seconds": 2.76,
+      "hindi_words": 14,
+      "words_per_second": 5.07,
+      "flag": false
+    },
+    {
+      "cue": "1120",
+      "duration_seconds": 2.52,
+      "hindi_words": 8,
+      "words_per_second": 3.17,
+      "flag": false
+    },
+    {
+      "cue": "1121",
+      "duration_seconds": 2.56,
+      "hindi_words": 6,
+      "words_per_second": 2.34,
+      "flag": false
+    },
+    {
+      "cue": "1122",
+      "duration_seconds": 5.0,
+      "hindi_words": 13,
+      "words_per_second": 2.6,
+      "flag": false
+    },
+    {
+      "cue": "1123",
+      "duration_seconds": 3.84,
+      "hindi_words": 9,
+      "words_per_second": 2.34,
+      "flag": false
+    },
+    {
+      "cue": "1124",
+      "duration_seconds": 1.48,
+      "hindi_words": 7,
+      "words_per_second": 4.73,
+      "flag": false
+    },
+    {
+      "cue": "1125",
+      "duration_seconds": 2.44,
+      "hindi_words": 13,
+      "words_per_second": 5.33,
+      "flag": false
+    },
+    {
+      "cue": "1126",
+      "duration_seconds": 1.48,
+      "hindi_words": 6,
+      "words_per_second": 4.05,
+      "flag": false
+    },
+    {
+      "cue": "1127",
+      "duration_seconds": 3.72,
+      "hindi_words": 9,
+      "words_per_second": 2.42,
+      "flag": false
+    },
+    {
+      "cue": "1128",
+      "duration_seconds": 1.44,
+      "hindi_words": 6,
+      "words_per_second": 4.17,
+      "flag": false
+    },
+    {
+      "cue": "1129",
+      "duration_seconds": 4.04,
+      "hindi_words": 14,
+      "words_per_second": 3.47,
+      "flag": false
+    },
+    {
+      "cue": "1130",
+      "duration_seconds": 2.36,
+      "hindi_words": 10,
+      "words_per_second": 4.24,
+      "flag": false
+    },
+    {
+      "cue": "1131",
+      "duration_seconds": 8.4,
+      "hindi_words": 8,
+      "words_per_second": 0.95,
+      "flag": false
+    },
+    {
+      "cue": "1132",
+      "duration_seconds": 4.16,
+      "hindi_words": 19,
+      "words_per_second": 4.57,
+      "flag": false
+    },
+    {
+      "cue": "1133",
+      "duration_seconds": 3.08,
+      "hindi_words": 14,
+      "words_per_second": 4.55,
+      "flag": false
+    },
+    {
+      "cue": "1134",
+      "duration_seconds": 3.32,
+      "hindi_words": 7,
+      "words_per_second": 2.11,
+      "flag": false
+    },
+    {
+      "cue": "1135",
+      "duration_seconds": 3.04,
+      "hindi_words": 7,
+      "words_per_second": 2.3,
+      "flag": false
+    },
+    {
+      "cue": "1136",
+      "duration_seconds": 1.6,
+      "hindi_words": 5,
+      "words_per_second": 3.12,
+      "flag": false
+    },
+    {
+      "cue": "1137",
+      "duration_seconds": 1.24,
+      "hindi_words": 5,
+      "words_per_second": 4.03,
+      "flag": false
+    },
+    {
+      "cue": "1138",
+      "duration_seconds": 3.04,
+      "hindi_words": 8,
+      "words_per_second": 2.63,
+      "flag": false
+    },
+    {
+      "cue": "1139",
+      "duration_seconds": 5.64,
+      "hindi_words": 6,
+      "words_per_second": 1.06,
+      "flag": false
+    },
+    {
+      "cue": "1140",
+      "duration_seconds": 2.4,
+      "hindi_words": 5,
+      "words_per_second": 2.08,
+      "flag": false
+    },
+    {
+      "cue": "1141",
+      "duration_seconds": 1.96,
+      "hindi_words": 6,
+      "words_per_second": 3.06,
+      "flag": false
+    },
+    {
+      "cue": "1142",
+      "duration_seconds": 4.72,
+      "hindi_words": 7,
+      "words_per_second": 1.48,
+      "flag": false
+    },
+    {
+      "cue": "1143",
+      "duration_seconds": 2.2,
+      "hindi_words": 9,
+      "words_per_second": 4.09,
+      "flag": false
+    },
+    {
+      "cue": "1144",
+      "duration_seconds": 3.04,
+      "hindi_words": 9,
+      "words_per_second": 2.96,
+      "flag": false
+    },
+    {
+      "cue": "1145",
+      "duration_seconds": 2.36,
+      "hindi_words": 11,
+      "words_per_second": 4.66,
+      "flag": false
+    },
+    {
+      "cue": "1146",
+      "duration_seconds": 3.12,
+      "hindi_words": 16,
+      "words_per_second": 5.13,
+      "flag": false
+    },
+    {
+      "cue": "1147",
+      "duration_seconds": 4.12,
+      "hindi_words": 8,
+      "words_per_second": 1.94,
+      "flag": false
+    },
+    {
+      "cue": "1148",
+      "duration_seconds": 2.32,
+      "hindi_words": 8,
+      "words_per_second": 3.45,
+      "flag": false
+    },
+    {
+      "cue": "1149",
+      "duration_seconds": 3.4,
+      "hindi_words": 12,
+      "words_per_second": 3.53,
+      "flag": false
+    },
+    {
+      "cue": "1150",
+      "duration_seconds": 2.32,
+      "hindi_words": 8,
+      "words_per_second": 3.45,
+      "flag": false
+    },
+    {
+      "cue": "1151",
+      "duration_seconds": 2.12,
+      "hindi_words": 13,
+      "words_per_second": 6.13,
+      "flag": true
+    },
+    {
+      "cue": "1152",
+      "duration_seconds": 3.16,
+      "hindi_words": 11,
+      "words_per_second": 3.48,
+      "flag": false
+    },
+    {
+      "cue": "1153",
+      "duration_seconds": 3.32,
+      "hindi_words": 5,
+      "words_per_second": 1.51,
+      "flag": false
+    },
+    {
+      "cue": "1154",
+      "duration_seconds": 1.46,
+      "hindi_words": 7,
+      "words_per_second": 4.79,
+      "flag": false
+    }
+  ]
+}
