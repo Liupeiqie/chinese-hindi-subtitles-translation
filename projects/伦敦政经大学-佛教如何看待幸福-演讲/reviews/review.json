@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-24T21:41:09+08:00",
+  "source_sha256": "ded7c20a9c7471badf4822c3e8b78e8af06eeb6b6bcac34c4638d2afa1c2953f",
+  "glossary_sha256": "b9f9befb836cf1cd990b3982e0865752774a92594ebedd5d69c8be602f94e868",
+  "candidate_sha256": "7c5731547ca823ab1756d6914f7c3d3db2c508bf93aa8748849745b7d8df05c0",
+  "context_sha256": "70901f5d93a2dd27e9f93e19ce82c95d88aa40c4e1e0d5768e58db958b04b282",
+  "reviewer": "",
+  "reviewed_at": "",
+  "checks": {
+    "meaning": false,
+    "terminology": false,
+    "reference_consistency": false,
+    "hindi_language": false,
+    "numbers_and_names": false,
+    "readability": false,
+    "source_integrity": false
+  },
+  "issues": [
+    {
+      "cue": "126",
+      "description": "《仁王护国经》按中文简称描述性译为 दयालु राजाओं का राष्ट्ररक्षा सूत्र。正式印地语经名请校对者确认。",
+      "status": "open"
+    },
+    {
+      "cue": "172",
+      "description": "原 SRT 为「智慧」，按词表译 प्रज्ञा。同场讲记与前后文讨论的是伴侣带来的快乐，请回听后决定是否授权修订。",
+      "status": "open"
+    },
+    {
+      "cue": "344",
+      "description": "「然后我正在」在原字幕中是独立的未完句。译文保留停顿；请随原声判断是否保留此口语中断。",
+      "status": "open"
+    }
+  ],
+  "notes": "Codex 已逐条自查待校对初稿。issues 为尚待回听或经名审定的项目；正式校对由后续校对者填写。"
+}
