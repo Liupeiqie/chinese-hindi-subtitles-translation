@@ -1,0 +1,25 @@
+{
+  "input": "G:\\金刚经2026新\\金刚经14-原画.mp4.srt",
+  "original_sha256": "a7a438fab3a5c39d40f52b4a08fc003a7b194bf94d5cf2f86e664c8243e629ff",
+  "processed_sha256": "edf59b531bf65ac89a25103ee34918f6bbff81713c201b2b13bbfea8b508289b",
+  "original_count": 525,
+  "processed_count": 523,
+  "merged": [
+    {
+      "output": 260,
+      "original": [
+        "260",
+        "261"
+      ],
+      "text": "是这样的"
+    },
+    {
+      "output": 263,
+      "original": [
+        "264",
+        "265"
+      ],
+      "text": "把他看作佛塔和佛庙一样"
+    }
+  ]
+}
