@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-25T21:27:24+08:00",
+  "source_sha256": "edf59b531bf65ac89a25103ee34918f6bbff81713c201b2b13bbfea8b508289b",
+  "glossary_sha256": "b9f9befb836cf1cd990b3982e0865752774a92594ebedd5d69c8be602f94e868",
+  "candidate_sha256": "fd7e48d90c0d4d5fcaf8d3a85dee92e0e12900277f8d9737f9020968c8b3fb74",
+  "context_sha256": "248b58c4a41796dc9fba4db2f22f41f947fab276e17aaf685e8f95a9f7f5e102",
+  "reviewer": "",
+  "reviewed_at": "",
+  "checks": {
+    "meaning": false,
+    "terminology": false,
+    "reference_consistency": false,
+    "hindi_language": false,
+    "numbers_and_names": false,
+    "readability": false,
+    "source_integrity": false
+  },
+  "issues": [],
+  "notes": ""
+}

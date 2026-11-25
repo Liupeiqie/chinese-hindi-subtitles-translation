@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "checked_at": "2026-11-25T21:28:26+08:00",
+  "candidate_sha256": "fd7e48d90c0d4d5fcaf8d3a85dee92e0e12900277f8d9737f9020968c8b3fb74",
+  "output": "待校对翻译初稿/金刚经14-原画/hi-zh.srt",
+  "source_cues": 523,
+  "candidate_cues": 523,
+  "identical_copies": [
+    "hi-zh.srt",
+    "verification.json",
+    "translation-notes.md"
+  ]
+}
